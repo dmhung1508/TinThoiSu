@@ -1,0 +1,1656 @@
+{"Symbol": "24H", "CompanyName": "CTCP Quảng cáo trực tuyến 24H", "CategoryName": "Công nghệ"}
+{"Symbol": "A32", "CompanyName": "Công ty cổ phần 32", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "AAA", "CompanyName": "Công ty Cổ phần Nhựa An Phát Xanh", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "AAH", "CompanyName": "Công ty cổ phần Hợp Nhất", "CategoryName": null}
+{"Symbol": "AAM", "CompanyName": "Công ty Cổ phần Thủy sản Mekong", "CategoryName": "Nông nghiệp"}
+{"Symbol": "AAS", "CompanyName": "Công ty cổ phần Chứng khoán SmartInvest", "CategoryName": "Tài chính"}
+{"Symbol": "AAT", "CompanyName": "Công ty Cổ phần Tập đoàn Tiên Sơn Thanh Hóa", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "AAV", "CompanyName": "Công ty Cổ phần AAV Group", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "ABA", "CompanyName": null, "CategoryName": null}
+{"Symbol": "ABB", "CompanyName": "Ngân hàng Thương mại cổ phần An Bình", "CategoryName": "Tài chính"}
+{"Symbol": "ABC", "CompanyName": "Công ty cổ phần Truyền thông VMG", "CategoryName": "Viễn thông"}
+{"Symbol": "ABF", "CompanyName": "Công ty cổ phần Quản lý quỹ đầu tư Chứng khoán An Bình", "CategoryName": "Tài chính"}
+{"Symbol": "ABI", "CompanyName": "Công ty Cổ phần Bảo hiểm Ngân hàng Nông nghiệp", "CategoryName": "Tài chính"}
+{"Symbol": "ABR", "CompanyName": "Công ty Cổ phần Đầu tư Nhãn hiệu Việt", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "ABS", "CompanyName": "Công ty cổ phần Dịch vụ Nông nghiệp Bình Thuận", "CategoryName": "Nông nghiệp"}
+{"Symbol": "ABT", "CompanyName": "Công ty Cổ phần Xuất nhập khẩu Thủy sản Bến Tre", "CategoryName": "Nông nghiệp"}
+{"Symbol": "ABW", "CompanyName": "CTCP Chứng khoán An Bình", "CategoryName": null}
+{"Symbol": "ACB", "CompanyName": "Ngân hàng Thương mại Cổ phần Á Châu", "CategoryName": "Tài chính"}
+{"Symbol": "ACC", "CompanyName": "Công ty Cổ phần Đầu tư và Xây dựng Bình Dương ACC", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "ACE", "CompanyName": "Công ty Cổ phần Bê tông ly tâm An Giang", "CategoryName": "Công nghiệp"}
+{"Symbol": "ACG", "CompanyName": "Công ty Cổ phần Gỗ An Cường", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "ACL", "CompanyName": "Công ty cổ phần Xuất nhập khẩu Thủy sản Cửu Long An Giang", "CategoryName": "Nông nghiệp"}
+{"Symbol": "ACM", "CompanyName": "Công ty cổ phần Tập đoàn Khoáng sản Á Cường", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "ACS", "CompanyName": "Công ty Cổ phần Xây lắp Thương mại 2", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "ACV", "CompanyName": "Tổng công ty Cảng hàng không Việt Nam - CTCP", "CategoryName": "Công nghiệp"}
+{"Symbol": "ADC", "CompanyName": "Công ty Cổ phần Mĩ thuật và Truyền thông", "CategoryName": "Dịch vụ"}
+{"Symbol": "ADG", "CompanyName": "Công ty cổ phần Clever Group", "CategoryName": "Dịch vụ"}
+{"Symbol": "ADP", "CompanyName": "Công ty Cổ phần Sơn Á Đông", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "ADS", "CompanyName": "Công ty cổ phần Damsan", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "AFM", "CompanyName": "Công ty Cổ phần Quản lý quỹ AIC", "CategoryName": ""}
+{"Symbol": "AFX", "CompanyName": "Công ty Cổ phần Xuất nhập khẩu Nông sản Thực phẩm An Giang", "CategoryName": "Nông nghiệp"}
+{"Symbol": "AG1", "CompanyName": "Công ty Cổ phần 28.1", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "AGF", "CompanyName": "Công ty Cổ phần Xuất nhập khẩu Thủy sản An Giang", "CategoryName": "Nông nghiệp"}
+{"Symbol": "AGG", "CompanyName": "Công ty Cổ phần Đầu tư và Phát triển Bất động sản An Gia", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "AGM", "CompanyName": "Công ty cổ phần Xuất nhập khẩu An Giang", "CategoryName": "Nông nghiệp"}
+{"Symbol": "AGP", "CompanyName": "Công ty cổ phần Dược phẩm Agimexpharm", "CategoryName": "Y tế"}
+{"Symbol": "AGR", "CompanyName": "Công ty Cổ phần Chứng khoán Agribank", "CategoryName": "Tài chính"}
+{"Symbol": "AGX", "CompanyName": "Công ty cổ phần Thực phẩm Nông sản Xuất khẩu Sài Gòn", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "AIC", "CompanyName": "Tổng Công ty cổ phần Bảo hiểm Hàng không", "CategoryName": "Tài chính"}
+{"Symbol": "AIG", "CompanyName": "Công ty Cổ phần Nguyên liệu Á Châu AIG", "CategoryName": null}
+{"Symbol": "ALC", "CompanyName": "CTCP Âu Lạc", "CategoryName": "Năng lượng"}
+{"Symbol": "ALT", "CompanyName": "Công ty Cổ phần Văn hóa Tân Bình", "CategoryName": "Dịch vụ"}
+{"Symbol": "ALV", "CompanyName": "Công ty Cổ phần Xây dựng ALVICO", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "AMC", "CompanyName": "Công ty cổ phần Khoáng sản Á Châu", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "AME", "CompanyName": "Công ty Cổ phần Alphanam E&C", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "AMP", "CompanyName": "Công ty Cổ phần Armephaco", "CategoryName": "Y tế"}
+{"Symbol": "AMS", "CompanyName": "Công ty Cổ phần Cơ khí xây dựng AMECC", "CategoryName": "Công nghiệp"}
+{"Symbol": "AMV", "CompanyName": "CTCP Sản xuất Kinh doanh Dược và Trang thiết bị Y", "CategoryName": "Y tế"}
+{"Symbol": "ANT", "CompanyName": "Công ty cổ phần Rau quả Thực phẩm An Giang", "CategoryName": "Nông nghiệp"}
+{"Symbol": "ANV", "CompanyName": "Công ty Cổ phần Nam Việt", "CategoryName": "Nông nghiệp"}
+{"Symbol": "APC", "CompanyName": "Công ty Cổ phần Chiếu xạ An Phú", "CategoryName": "Nông nghiệp"}
+{"Symbol": "APF", "CompanyName": "Công ty Cổ phần Nông sản thực phẩm Quảng Ngãi", "CategoryName": "Nông nghiệp"}
+{"Symbol": "APG", "CompanyName": "Công ty Cổ phần Chứng khoán APG", "CategoryName": "Tài chính"}
+{"Symbol": "APH", "CompanyName": "Công ty Cổ phần Tập đoàn An Phát Holdings", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "API", "CompanyName": "Công ty Cổ phần Đầu tư Châu Á - Thái Bình Dương", "CategoryName": "Tài chính"}
+{"Symbol": "APL", "CompanyName": "CTCP Cơ khí và Thiết bị áp lực - VVMI", "CategoryName": "Công nghiệp"}
+{"Symbol": "APP", "CompanyName": "Công ty Cổ phần Phát triển Phụ gia và Sản phẩm Dầu mỏ", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "APS", "CompanyName": "Công ty Cổ phần Chứng khoán Châu Á – Thái Bình Dương", "CategoryName": "Tài chính"}
+{"Symbol": "APT", "CompanyName": "CTCP Kinh doanh Thủy Hải Sản Sài Gòn", "CategoryName": "Nông nghiệp"}
+{"Symbol": "ARM", "CompanyName": "Công ty Cổ phần Xuất nhập khẩu Hàng không", "CategoryName": "Dịch vụ"}
+{"Symbol": "ASC", "CompanyName": "Công ty Cổ phần Chứng khoán ASC", "CategoryName": "Tài chính"}
+{"Symbol": "ASG", "CompanyName": "Cổ phiếu Công ty Cổ phần Tập đoàn ASG", "CategoryName": "Công nghiệp"}
+{"Symbol": "ASM", "CompanyName": "Công ty Cổ phần Tập đoàn Sao Mai", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "ASP", "CompanyName": "Công ty Cổ phần Tập đoàn Dầu khí An Pha", "CategoryName": "Năng lượng"}
+{"Symbol": "AST", "CompanyName": "Công ty Cổ phần Dịch vụ Hàng không Taseco", "CategoryName": "Công nghiệp"}
+{"Symbol": "ATA", "CompanyName": "Công ty Cổ phần NTACO", "CategoryName": "Nông nghiệp"}
+{"Symbol": "ATB", "CompanyName": "Công ty Cổ phần An Thịnh", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "ATG", "CompanyName": "Công ty Cổ phần An Trường An", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "ATS", "CompanyName": "Công ty cổ phần Tập đoàn Đầu tư ATS", "CategoryName": "Y tế"}
+{"Symbol": "AVC", "CompanyName": "Công ty cổ phần Thuỷ điện A Vương", "CategoryName": "Năng lượng"}
+{"Symbol": "AVG", "CompanyName": "CTCP Phân bón Quốc tế Âu Việt", "CategoryName": "Dịch vụ"}
+{"Symbol": "BAB", "CompanyName": "Ngân hàng Thương mại cổ phần Bắc Á", "CategoryName": "Tài chính"}
+{"Symbol": "BAF", "CompanyName": "Công ty Cổ phần Nông nghiệp BaF Việt Nam", "CategoryName": "Nông nghiệp"}
+{"Symbol": "BAL", "CompanyName": "Công ty cổ phần Bao bì Bia – Rượu – Nước giải khát", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "BAX", "CompanyName": "Công ty Cổ phần Thống Nhất", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "BBC", "CompanyName": "Công ty Cổ phần Bibica", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "BBH", "CompanyName": "CTCP Bao bì Hoàng Thạch", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "BBM", "CompanyName": "Công ty Cổ phần Bia Hà Nội - Nam Định", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "BBS", "CompanyName": "Công ty cổ phần VICEM Bao bì Bút Sơn", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "BBT", "CompanyName": "Công ty Cổ phần Bông Bạch Tuyết", "CategoryName": "Y tế"}
+{"Symbol": "BCA", "CompanyName": "Công ty cổ phần B.C.H", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "BCB", "CompanyName": "Công ty cổ phần 397", "CategoryName": "Năng lượng"}
+{"Symbol": "BCC", "CompanyName": "Công ty Cổ phần Xi măng Bỉm Sơn", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "BCE", "CompanyName": "Công ty Cổ phần Xây dựng và Giao thông Bình Dương", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "BCF", "CompanyName": "Công ty Cổ phần Thực phẩm Bích Chi", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "BCG", "CompanyName": "Công ty cổ phần Bamboo Capital", "CategoryName": "Tài chính"}
+{"Symbol": "BCM", "CompanyName": "Tổng Công ty Đầu tư và phát triển Công nghiệp - CTCP", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "BCP", "CompanyName": "Công ty cổ phần Dược Enlie", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "BCR", "CompanyName": "Công ty cổ phần BCG Land", "CategoryName": null}
+{"Symbol": "BCV", "CompanyName": "CTCP Du lịch và Thương mại Bằng Giang Cao Bằng - Vimico", "CategoryName": "Dịch vụ"}
+{"Symbol": "BDB", "CompanyName": "Công ty Cổ phần Sách và Thiết bị Bình Định", "CategoryName": "Dịch vụ"}
+{"Symbol": "BDG", "CompanyName": "Công ty cổ phần May mặc Bình Dương", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "BDT", "CompanyName": "Công ty Cổ phần Xây lắp và Vật liệu Xây dựng Đồng Tháp", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "BDW", "CompanyName": "Công ty cổ phần Cấp thoát nước Bình Định", "CategoryName": "Dịch vụ"}
+{"Symbol": "BED", "CompanyName": "Công ty Cổ phần Sách và Thiết bị trường học Đà Nẵng", "CategoryName": "Dịch vụ"}
+{"Symbol": "BEL", "CompanyName": "CTCP Điện tử Biên Hòa", "CategoryName": "Công nghệ"}
+{"Symbol": "BFC", "CompanyName": "Công ty cổ phần Phân bón Bình Điền", "CategoryName": "Nông nghiệp"}
+{"Symbol": "BFI", "CompanyName": "Công ty cổ phần Đầu tư tài chính BIDV", "CategoryName": ""}
+{"Symbol": "BGE", "CompanyName": "Công ty cổ phần BCG Energy", "CategoryName": null}
+{"Symbol": "BGW", "CompanyName": "Công ty Cổ phần Nước sạch Bắc Giang", "CategoryName": "Dịch vụ"}
+{"Symbol": "BHA", "CompanyName": "Công ty Cổ phần Thủy điện Bắc Hà", "CategoryName": "Năng lượng"}
+{"Symbol": "BHC", "CompanyName": "Công ty Cổ phần Bê tông Biên Hòa", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "BHG", "CompanyName": "Công ty cổ phần Chè Biển Hồ", "CategoryName": "Nông nghiệp"}
+{"Symbol": "BHI", "CompanyName": "Tổng Công ty cổ phần Bảo hiểm Sài Gòn - Hà Nội", "CategoryName": null}
+{"Symbol": "BHK", "CompanyName": "Công ty Cổ phần Bia Hà Nội - Kim Bài", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "BHN", "CompanyName": "Tổng CTCP Bia - Rượu - Nước giải khát Hà Nội", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "BHP", "CompanyName": "Công ty Cổ phần Bia Hà Nội - Hải Phòng", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "BIC", "CompanyName": "Tổng Công ty Cổ phần Bảo hiểm Ngân hàng Đầu tư và phát triển Việt Nam", "CategoryName": "Tài chính"}
+{"Symbol": "BID", "CompanyName": "Ngân hàng Thương mại cổ phần Đầu tư và Phát triển Việt Nam", "CategoryName": "Tài chính"}
+{"Symbol": "BIG", "CompanyName": "CTCP Big Invest Group", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "BII", "CompanyName": "Công ty cổ phần Đầu tư và Phát triển Công nghiệp Bảo Thư", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "BIO", "CompanyName": "Công ty cổ phần Vắc xin và Sinh phẩm Nha Trang", "CategoryName": "Y tế"}
+{"Symbol": "BJC", "CompanyName": "Công Ty Cổ Phần VRG - Bảo Lộc", "CategoryName": ""}
+{"Symbol": "BKC", "CompanyName": "Công ty Cổ phần Khoáng sản Bắc Kạn", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "BKG", "CompanyName": "Công ty Cổ phần Đầu tư BKG Việt Nam", "CategoryName": "Dịch vụ"}
+{"Symbol": "BLF", "CompanyName": "Công ty Cổ phần Thủy sản Bạc Liêu", "CategoryName": "Nông nghiệp"}
+{"Symbol": "BLI", "CompanyName": "Tổng Công ty cổ phần Bảo hiểm Bảo Long ", "CategoryName": "Tài chính"}
+{"Symbol": "BLN", "CompanyName": "CTCP Vận tải và Dịch vụ Liên Ninh", "CategoryName": "Công nghiệp"}
+{"Symbol": "BLT", "CompanyName": "Công ty Cổ phần Lương thực Bình Định", "CategoryName": "Nông nghiệp"}
+{"Symbol": "BLW", "CompanyName": "Công ty cổ phần Cấp nước Bạc Liêu", "CategoryName": "Dịch vụ"}
+{"Symbol": "BMC", "CompanyName": "Công ty cổ phần Khoáng sản Bình Định", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "BMD", "CompanyName": "Công ty Cổ phần Môi trường và Dịch vụ đô thị Bình Thuận", "CategoryName": "Dịch vụ"}
+{"Symbol": "BMF", "CompanyName": "Công ty cổ phần Vật liệu Xây dựng và Chất đốt Đồng Nai", "CategoryName": "Năng lượng"}
+{"Symbol": "BMG", "CompanyName": "Công ty cổ phần May Bình Minh", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "BMI", "CompanyName": "Tổng Công ty Cổ phần Bảo Minh", "CategoryName": "Tài chính"}
+{"Symbol": "BMJ", "CompanyName": "Công ty Cổ phần Khoáng sản Miền Đông AHP", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "BMN", "CompanyName": "Công ty Cổ phần 715", "CategoryName": "Công nghiệp"}
+{"Symbol": "BMP", "CompanyName": "Công ty Cổ phần Nhựa Bình Minh", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "BMS", "CompanyName": "Công ty Cổ phần Chứng khoán Bảo Minh", "CategoryName": "Tài chính"}
+{"Symbol": "BMV", "CompanyName": "Công ty Cổ phần Bột mỳ Vinafood 1", "CategoryName": "Nông nghiệp"}
+{"Symbol": "BNA", "CompanyName": "Công ty cổ phần Tập đoàn Đầu tư Bảo Ngọc", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "BNC", "CompanyName": "Công ty cổ phần Dịch vụ Cáp treo Bà Nà", "CategoryName": "Dịch vụ"}
+{"Symbol": "BNW", "CompanyName": "Công ty cổ phần Nước sạch Bắc Ninh", "CategoryName": "Dịch vụ"}
+{"Symbol": "BOT", "CompanyName": "Công ty cổ phần BOT Cầu Thái Hà", "CategoryName": "Công nghiệp"}
+{"Symbol": "BPC", "CompanyName": "Công ty cổ phần Vicem Bao bì Bỉm Sơn", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "BQB", "CompanyName": "Công ty Cổ phần Bia Hà Nội - Quảng Bình", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "BRC", "CompanyName": "Công ty Cổ phần Cao su Bến Thành", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "BRR", "CompanyName": "Công ty Cổ phần Cao su Bà Rịa", "CategoryName": "Nông nghiệp"}
+{"Symbol": "BRS", "CompanyName": "Công ty Cổ phần Dịch vụ đô thị Bà Rịa", "CategoryName": "Dịch vụ"}
+{"Symbol": "BSA", "CompanyName": "Công ty cổ phần Thủy điện Buôn Đôn", "CategoryName": "Năng lượng"}
+{"Symbol": "BSC", "CompanyName": "Công ty Cổ phần Dịch vụ Bến Thành", "CategoryName": "Dịch vụ"}
+{"Symbol": "BSD", "CompanyName": "Công ty Cổ phần Bia, Rượu Sài Gòn - Đồng Xuân", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "BSG", "CompanyName": "Công ty Cổ phần Xe khách Sài Gòn", "CategoryName": "Công nghiệp"}
+{"Symbol": "BSH", "CompanyName": "Công ty cổ phần Bia Sài Gòn - Hà Nội", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "BSI", "CompanyName": "Công ty cổ phần Chứng khoán BIDV", "CategoryName": "Tài chính"}
+{"Symbol": "BSL", "CompanyName": "Công ty Cổ phần Bia Sài Gòn - Sông Lam", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "BSP", "CompanyName": "Công ty cổ phần Bia Sài Gòn - Phú Thọ", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "BSQ", "CompanyName": "Công ty cổ phần Bia Sài Gòn - Quảng Ngãi", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "BSR", "CompanyName": "Công ty Cổ phần Lọc Hóa dầu Bình Sơn", "CategoryName": "Năng lượng"}
+{"Symbol": "BST", "CompanyName": "Công ty Cổ phần Sách - Thiết bị Bình Thuận", "CategoryName": "Dịch vụ"}
+{"Symbol": "BT1", "CompanyName": "Công ty cổ phần Bảo vệ Thực vật 1 Trung ương", "CategoryName": "Nông nghiệp"}
+{"Symbol": "BTA", "CompanyName": "CTCP Bất động sản Bình Thiên An", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "BTB", "CompanyName": "Công ty Cổ phần Bia Hà Nội - Thái Bình", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "BTD", "CompanyName": "Công ty Cổ phần Bê tông Ly tâm Thủ Đức", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "BTG", "CompanyName": "Công ty Cổ phần Bao bì Tiền Giang", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "BTH", "CompanyName": "Công ty Cổ phần Chế tạo Biến thế và Vật liệu điện Hà Nội", "CategoryName": "Công nghiệp"}
+{"Symbol": "BTJ", "CompanyName": "CTCP Vàng bạc đá quý Bến Thành", "CategoryName": "Dịch vụ"}
+{"Symbol": "BTL", "CompanyName": "Công ty Cổ phần Đầu tư Địa ốc Bến Thành", "CategoryName": ""}
+{"Symbol": "BTN", "CompanyName": "Công ty Cổ phần Gạch Tuy Nen Bình Định", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "BTP", "CompanyName": "Công ty Cổ phần Nhiệt điện Bà Rịa", "CategoryName": "Năng lượng"}
+{"Symbol": "BTS", "CompanyName": "Công ty cổ phần Xi măng Vicem Bút Sơn", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "BTT", "CompanyName": "Công ty Cổ phần Thương mại - Dịch vụ Bến Thành", "CategoryName": "Dịch vụ"}
+{"Symbol": "BTU", "CompanyName": "CTCP Công trình Đô thị Bến Tre", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "BTV", "CompanyName": "Công ty Cổ phần Dịch vụ Du lịch Bến Thành", "CategoryName": "Dịch vụ"}
+{"Symbol": "BTW", "CompanyName": "Công ty Cổ phần Cấp nước Bến Thành", "CategoryName": "Dịch vụ"}
+{"Symbol": "BVB", "CompanyName": "Ngân hàng Thương mại cổ phần Bản Việt", "CategoryName": "Tài chính"}
+{"Symbol": "BVF", "CompanyName": "Công ty TNHH Quản lý Quỹ Bảo Việt", "CategoryName": "Tài chính"}
+{"Symbol": "BVG", "CompanyName": "Công ty Cổ phần GROUP Bắc Việt", "CategoryName": "Công nghiệp"}
+{"Symbol": "BVH", "CompanyName": "Tập đoàn Bảo Việt", "CategoryName": "Tài chính"}
+{"Symbol": "BVL", "CompanyName": "Công ty cổ phần BV Land", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "BVN", "CompanyName": "Công ty cổ phần Bông Việt Nam", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "BVS", "CompanyName": "Công ty Cổ phần Chứng khoán Bảo Việt", "CategoryName": "Tài chính"}
+{"Symbol": "BWA", "CompanyName": "Công ty Cổ phần Cấp thoát nước và Xây dựng Bảo Lộc", "CategoryName": "Dịch vụ"}
+{"Symbol": "BWE", "CompanyName": "Công ty Cổ phần Nước – Môi trường Bình Dương", "CategoryName": "Dịch vụ"}
+{"Symbol": "BWS", "CompanyName": "Công ty cổ phần Cấp nước Bà Rịa - Vũng Tàu", "CategoryName": "Dịch vụ"}
+{"Symbol": "BXH", "CompanyName": "Công ty cổ phần VICEM Bao bì Hải Phòng", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "C21", "CompanyName": "Công ty cổ phần Thế kỷ 21", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "C22", "CompanyName": "Công ty Cổ phần 22", "CategoryName": "Nông nghiệp"}
+{"Symbol": "C32", "CompanyName": "Công ty Cổ phần CIC39", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "C47", "CompanyName": "Công ty Cổ phần Xây dựng 47", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "C4G", "CompanyName": "Công ty cổ phần Tập đoàn CIENCO4", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "C69", "CompanyName": "Công ty Cổ phần Xây dựng 1369", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "C92", "CompanyName": "Công ty Cổ phần Xây dựng và Đầu tư 492", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "CAB", "CompanyName": "CTCP Tổng Công ty Truyền hình Cáp Việt Nam", "CategoryName": "Dịch vụ"}
+{"Symbol": "CAD", "CompanyName": "Công ty Cổ phần Chế biến và Xuất nhập khẩu Thủy sản CADOVIMEX", "CategoryName": "Nông nghiệp"}
+{"Symbol": "CAG", "CompanyName": "Công ty Cổ phần Cảng An Giang", "CategoryName": "Công nghiệp"}
+{"Symbol": "CAN", "CompanyName": "Công ty Cổ phần Đồ hộp Hạ Long", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "CAP", "CompanyName": "Công ty Cổ phần Lâm Nông sản Thực phẩm Yên Bái", "CategoryName": "Nông nghiệp"}
+{"Symbol": "CAR", "CompanyName": "Công ty Cổ phần Tập đoàn Giáo dục Trí Việt", "CategoryName": "Dịch vụ"}
+{"Symbol": "CAT", "CompanyName": "Công ty Cổ phần Thủy sản Cà Mau", "CategoryName": "Nông nghiệp"}
+{"Symbol": "CBI", "CompanyName": "Công ty Cổ phần Gang thép Cao Bằng", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "CBS", "CompanyName": "Công ty Cổ phần Mía đường Cao Bằng", "CategoryName": "Nông nghiệp"}
+{"Symbol": "CC1", "CompanyName": "Tổng Công ty Xây dựng số 1 - CTCP", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "CC4", "CompanyName": "Công ty Cổ phần Đầu tư và Xây dựng số 4", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "CCA", "CompanyName": "CTCP Xuất nhập khẩu Thủy sản Cần Thơ", "CategoryName": "Nông nghiệp"}
+{"Symbol": "CCC", "CompanyName": "Công ty Cổ phần xây dựng CDC", "CategoryName": null}
+{"Symbol": "CCI", "CompanyName": "Công ty Cổ phần Đầu tư Phát triển Công nghiệp - Thương mại Củ Chi", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "CCL", "CompanyName": "Công ty cổ phần Đầu tư và Phát triển Đô thị Dầu khí Cửu Long", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "CCM", "CompanyName": "Công ty Cổ phần Khoáng sản & Xi măng Cần Thơ", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "CCP", "CompanyName": "Công ty cổ phần Cảng Cửa Cấm Hải Phòng", "CategoryName": "Năng lượng"}
+{"Symbol": "CCR", "CompanyName": "Công ty cổ phần Cảng Cam Ranh ", "CategoryName": "Công nghiệp"}
+{"Symbol": "CCT", "CompanyName": "Công ty Cổ phần Cảng Cần Thơ", "CategoryName": "Công nghiệp"}
+{"Symbol": "CCV", "CompanyName": "Công ty cổ phần Tư vấn Xây dựng Công nghiệp và Đô thị Việt Nam", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "CDC", "CompanyName": "Công ty Cổ phần Chương Dương  ", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "CDG", "CompanyName": "Công ty Cổ phần Cầu Đuống", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "CDH", "CompanyName": "CTCP Công trình công cộng Dịch vụ Du lịch Hải Phòng", "CategoryName": "Dịch vụ"}
+{"Symbol": "CDN", "CompanyName": "Công ty cổ phần Cảng Đà Nẵng", "CategoryName": "Công nghiệp"}
+{"Symbol": "CDO", "CompanyName": " Công ty Cổ phần Tư vấn thiết kế và Phát triển đô thị", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "CDP", "CompanyName": "Công ty cổ phần Dược phẩm Trung ương Codupha", "CategoryName": "Y tế"}
+{"Symbol": "CDR", "CompanyName": "Công ty Cổ phần Xây dựng Cao su Đồng Nai", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "CE1", "CompanyName": "Công ty Cổ phần Xây dựng và Thiết bị Công nghiệp CIE1", "CategoryName": "Công nghiệp"}
+{"Symbol": "CEG", "CompanyName": "Công ty Cổ phần Tập đoàn Xây dựng và Thiết bị Công nghiệp", "CategoryName": "Công nghiệp"}
+{"Symbol": "CEN", "CompanyName": "Công ty Cổ phần CENCON Việt Nam", "CategoryName": "Doanh nghiệp Upcom"}
+{"Symbol": "CEO", "CompanyName": "Công ty Cổ phần Tập đoàn C.E.O", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "CET", "CompanyName": "Công ty cổ phần HTC Holding", "CategoryName": "Công nghiệp"}
+{"Symbol": "CFM", "CompanyName": "CTCP Đầu tư CFM", "CategoryName": "Dịch vụ"}
+{"Symbol": "CFV", "CompanyName": "Công ty cổ phần Cà phê Thắng Lợi", "CategoryName": "Nông nghiệp"}
+{"Symbol": "CGV", "CompanyName": "Công ty Cổ phần Sành sứ Thủy tinh Việt Nam", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "CH5", "CompanyName": "Công ty Cổ phần Xây dựng Số 5 Hà Nội", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "CHC", "CompanyName": "Công ty Cổ phần Cẩm Hà", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "CHP", "CompanyName": "Công ty Cổ phần Thủy điện miền Trung", "CategoryName": "Năng lượng"}
+{"Symbol": "CHS", "CompanyName": "Công ty Cổ phần Chiếu sáng Công cộng Thành phố Hồ Chí Minh", "CategoryName": "Năng lượng"}
+{"Symbol": "CI5", "CompanyName": "Công ty cổ phần Đầu tư Xây dựng số 5", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "CIA", "CompanyName": "Công ty Cổ phần Dịch vụ Sân bay Quốc tế Cam Ranh", "CategoryName": "Công nghiệp"}
+{"Symbol": "CID", "CompanyName": "Công ty Cổ phần Xây dựng và Phát triển Cơ sở Hạ tầng", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "CIG", "CompanyName": "Công ty Cổ phần COMA18", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "CII", "CompanyName": "Công ty cổ phần Đầu tư Hạ tầng Kỹ thuật T.P Hồ Chí Minh", "CategoryName": "Công nghiệp"}
+{"Symbol": "CIP", "CompanyName": "Công ty Cổ phần Xây lắp và Sản xuất Công nghiệp", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "CJC", "CompanyName": "Công ty Cổ phần Cơ điện Miền Trung", "CategoryName": "Công nghiệp"}
+{"Symbol": "CK8", "CompanyName": "Công ty Cổ phần Cơ khí 120", "CategoryName": "Công nghiệp"}
+{"Symbol": "CKA", "CompanyName": "Công ty cổ phần Cơ khí An Giang", "CategoryName": "Công nghiệp"}
+{"Symbol": "CKD", "CompanyName": "Công ty cổ phần Cơ khí Đông Anh Licogi", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "CKG", "CompanyName": "CTCP Tập đoàn Tư vấn Đầu tư & Xây dựng Kiên Giang", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "CKV", "CompanyName": "Công ty Cổ phần COKYVINA", "CategoryName": "Dịch vụ"}
+{"Symbol": "CLC", "CompanyName": "Công ty Cổ phần Cát Lợi ", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "CLG", "CompanyName": "Công ty Cổ phần Đầu tư và Phát triển Nhà đất COTEC", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "CLH", "CompanyName": "Công ty cổ phần Xi măng La Hiên VVMI", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "CLL", "CompanyName": "Công ty cổ phần Cảng Cát Lái", "CategoryName": "Công nghiệp"}
+{"Symbol": "CLM", "CompanyName": "CTCP Xuất nhập khẩu Than - Vinacomin", "CategoryName": "Năng lượng"}
+{"Symbol": "CLW", "CompanyName": "Công ty Cổ phần Cấp nước Chợ Lớn", "CategoryName": "Dịch vụ"}
+{"Symbol": "CLX", "CompanyName": "Công ty Cổ phần Xuất nhập khẩu và Đầu tư Chợ Lớn (Cholimex)", "CategoryName": "Dịch vụ"}
+{"Symbol": "CMC", "CompanyName": "Công ty Cổ phần Đầu tư CMC", "CategoryName": "Công nghiệp"}
+{"Symbol": "CMD", "CompanyName": "CTCP Vật liệu Xây dựng và Trang trí Nội thất Thành phố Hồ Chí Minh", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "CMF", "CompanyName": "Công ty Cổ phần Thực phẩm Cholimex", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "CMG", "CompanyName": "Công ty Cổ phần Tập đoàn Công nghệ CMC", "CategoryName": "Công nghệ"}
+{"Symbol": "CMI", "CompanyName": "Công ty cổ phần CMISTONE Việt Nam", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "CMK", "CompanyName": "Công ty cổ phần Cơ khí Mạo khê - Vinacomin", "CategoryName": "Công nghiệp"}
+{"Symbol": "CMM", "CompanyName": "Công ty cổ phần Camimex", "CategoryName": "Nông nghiệp"}
+{"Symbol": "CMN", "CompanyName": "Công ty Cổ phần Lương thực Thực phẩm Colusa-Miliket", "CategoryName": "Nông nghiệp"}
+{"Symbol": "CMP", "CompanyName": "CTCP Cảng Chân Mây", "CategoryName": "Công nghiệp"}
+{"Symbol": "CMS", "CompanyName": "Công ty cổ phần Tập đoàn CMH Việt Nam", "CategoryName": "Dịch vụ"}
+{"Symbol": "CMT", "CompanyName": "Công ty Cổ phần Công nghệ Mạng và Truyền thông", "CategoryName": "Công nghệ"}
+{"Symbol": "CMV", "CompanyName": "Công ty Cổ phần Thương nghiệp Cà Mau", "CategoryName": "Năng lượng"}
+{"Symbol": "CMW", "CompanyName": "Công ty Cổ phần Cấp nước Cà Mau", "CategoryName": "Dịch vụ"}
+{"Symbol": "CMX", "CompanyName": "Công ty Cổ phần Camimex Group", "CategoryName": "Nông nghiệp"}
+{"Symbol": "CNA", "CompanyName": "Công ty cổ phần Tổng Công ty Chè Nghệ An", "CategoryName": "Nông nghiệp"}
+{"Symbol": "CNC", "CompanyName": "Công ty cổ phần Công nghệ cao Traphaco", "CategoryName": "Y tế"}
+{"Symbol": "CNG", "CompanyName": "Công ty cổ phần CNG Việt Nam", "CategoryName": "Năng lượng"}
+{"Symbol": "CNN", "CompanyName": "CTCP Tư vấn công nghệ, thiết bị và kiểm định xây dựng - CONINCO", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "CNS", "CompanyName": "Tổng Công ty Công nghiệp Sài Gòn - TNHH Một thành viên", "CategoryName": "Công nghiệp"}
+{"Symbol": "CNT", "CompanyName": "Công ty Cổ phần Tập đoàn CNT", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "COM", "CompanyName": "Công ty Cổ phần Vật tư - Xăng dầu ", "CategoryName": "Năng lượng"}
+{"Symbol": "CPA", "CompanyName": "Công ty cổ phần Cà phê Phước An", "CategoryName": "Nông nghiệp"}
+{"Symbol": "CPC", "CompanyName": "Công ty Cổ phần Thuốc sát trùng Cần Thơ", "CategoryName": "Nông nghiệp"}
+{"Symbol": "CPH", "CompanyName": "Công ty Cổ phần Mai táng Hải Phòng", "CategoryName": "Doanh nghiệp Upcom"}
+{"Symbol": "CPI", "CompanyName": "Công ty Cổ phần Đầu tư Cảng Cái Lân", "CategoryName": "Công nghiệp"}
+{"Symbol": "CQN", "CompanyName": "Công ty cổ phần Cảng Quảng Ninh", "CategoryName": "Công nghiệp"}
+{"Symbol": "CQT", "CompanyName": "Công ty cổ phần Xi măng Quán Triều VVMI", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "CRC", "CompanyName": "Công ty Cổ phần Create Capital Việt Nam", "CategoryName": "Công nghiệp"}
+{"Symbol": "CRE", "CompanyName": "Công ty Cổ phần Bất động sản Thế Kỷ", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "CRV", "CompanyName": null, "CategoryName": null}
+{"Symbol": "CSC", "CompanyName": "Công ty Cổ phần Tập đoàn COTANA", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "CSI", "CompanyName": "Công ty cổ phần Chứng khoán Kiến thiết Việt Nam", "CategoryName": "Tài chính"}
+{"Symbol": "CSM", "CompanyName": "Công ty Cổ phần Công nghiệp Cao su Miền Nam", "CategoryName": "Công nghiệp"}
+{"Symbol": "CST", "CompanyName": "Công ty Cổ phần Than Cao Sơn - TKV", "CategoryName": "Năng lượng"}
+{"Symbol": "CSV", "CompanyName": "Công ty Cổ phần Hóa chất Cơ bản miền Nam", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "CT3", "CompanyName": "Công ty Cổ phần Đầu tư và Xây dựng Công trình 3", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "CT6", "CompanyName": "Công ty Cổ phần Công trình 6", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "CTB", "CompanyName": "Công ty Cổ phần Chế tạo Bơm Hải Dương", "CategoryName": "Công nghiệp"}
+{"Symbol": "CTC", "CompanyName": "Công ty Cổ phần Tập đoàn Hoàng Kim Tây Nguyên", "CategoryName": "Dịch vụ"}
+{"Symbol": "CTD", "CompanyName": "Công ty Cổ phần Xây dựng Coteccons", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "CTF", "CompanyName": "Công ty cổ phần City Auto", "CategoryName": "Công nghiệp"}
+{"Symbol": "CTG", "CompanyName": "Ngân hàng Thương mại Cổ phần Công thương Việt Nam", "CategoryName": "Tài chính"}
+{"Symbol": "CTI", "CompanyName": "Công ty Cổ phần Đầu tư Phát triển Cường Thuận IDICO", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "CTP", "CompanyName": "Công ty cổ phần Hòa Bình Takara", "CategoryName": "Nông nghiệp"}
+{"Symbol": "CTR", "CompanyName": "Tổng Công ty Cổ phần Công trình Viettel", "CategoryName": "Viễn thông"}
+{"Symbol": "CTS", "CompanyName": "Công ty cổ phần Chứng khoán Ngân hàng Công thương", "CategoryName": "Tài chính"}
+{"Symbol": "CTT", "CompanyName": "CTCP Chế tạo máy Vinacomin", "CategoryName": "Công nghiệp"}
+{"Symbol": "CTW", "CompanyName": "CTCP Cấp thoát nước Cần Thơ", "CategoryName": "Dịch vụ"}
+{"Symbol": "CTX", "CompanyName": "Tổng Công ty Cổ phần Đầu tư Xây dựng và Thương mại Việt Nam", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "CVN", "CompanyName": "Công ty cổ phần Vinam", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "CVP", "CompanyName": "Công ty cổ phần Cảng Cửa Việt", "CategoryName": "Công nghiệp"}
+{"Symbol": "CVT", "CompanyName": "Công ty Cổ phần CMC", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "CX8", "CompanyName": "Công ty cổ phần Đầu tư và Xây lắp Constrexim số 8", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "CYC", "CompanyName": "Công ty Cổ phần Gạch men Chang Yih ", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "D11", "CompanyName": "Công ty Cổ phần Địa ốc 11", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "D17", "CompanyName": "Công ty cổ phần Đồng Tân", "CategoryName": null}
+{"Symbol": "D2D", "CompanyName": "Công ty Cổ phần Phát triển Đô thị Công nghiệp Số 2", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "DAC", "CompanyName": "Công ty Cổ phần 382 Đông Anh", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "DAD", "CompanyName": "Công ty Cổ phần Đầu tư và Phát triển Giáo dục Đà Nẵng", "CategoryName": "Dịch vụ"}
+{"Symbol": "DAE", "CompanyName": "Công ty Cổ phần Sách Giáo dục tại Tp. Đà Nẵng", "CategoryName": "Dịch vụ"}
+{"Symbol": "DAF", "CompanyName": "Ngân hàng Thương mại cổ phần Đông Á", "CategoryName": ""}
+{"Symbol": "DAH", "CompanyName": "Công ty cổ phần Tập đoàn Khách sạn Đông Á", "CategoryName": "Dịch vụ"}
+{"Symbol": "DAN", "CompanyName": "Công ty cổ phần Dược Danapha", "CategoryName": "Y tế"}
+{"Symbol": "DAS", "CompanyName": "Công ty Cổ phần Máy - Thiết bị Dầu khí Đà Nẵng", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "DAT", "CompanyName": "Công ty Cổ phần Đầu tư Du lịch và Phát triển Thủy sản", "CategoryName": "Nông nghiệp"}
+{"Symbol": "DBC", "CompanyName": "Công ty Cổ phần Tập đoàn Dabaco Việt Nam", "CategoryName": "Nông nghiệp"}
+{"Symbol": "DBD", "CompanyName": "Công ty Cổ phần Dược - Trang thiết bị Y tế Bình Định", "CategoryName": "Y tế"}
+{"Symbol": "DBM", "CompanyName": "Công ty Cổ phần Dược - Vật tư Y tế Đăk Lăk", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "DBT", "CompanyName": "Công ty Cổ phần Dược phẩm Bến Tre", "CategoryName": "Y tế"}
+{"Symbol": "DC1", "CompanyName": "Công ty cổ phần Đầu tư Phát triển Xây dựng số 1", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "DC2", "CompanyName": "Công ty Cổ phần Đầu tư Phát triển - Xây dựng số 2", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "DC4", "CompanyName": "Công ty Cổ phần Xây dựng DIC Holdings", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "DCF", "CompanyName": "Công ty Cổ phần Xây dựng và Thiết kế số 1", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "DCG", "CompanyName": "Công ty cổ phần Tổng công ty May Đáp Cầu", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "DCH", "CompanyName": "Công ty Cổ phần Địa chính Hà Nội", "CategoryName": "Dịch vụ"}
+{"Symbol": "DCL", "CompanyName": "Công ty Cổ phần Dược phẩm Cửu Long", "CategoryName": "Y tế"}
+{"Symbol": "DCM", "CompanyName": "Công ty Cổ phần Phân bón Dầu khí Cà Mau", "CategoryName": "Nông nghiệp"}
+{"Symbol": "DCR", "CompanyName": "Công ty cổ phần Gạch men Cosevco", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "DCS", "CompanyName": "Công ty Cổ phần Tập đoàn Đại Châu", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "DCT", "CompanyName": "Công ty Cổ phần Tấm lợp Vật liệu xây dựng Đồng Nai ", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "DDG", "CompanyName": "Công ty cổ phần Đầu tư Công nghiệp Xuất nhập khẩu Đông Dương", "CategoryName": "Năng lượng"}
+{"Symbol": "DDH", "CompanyName": "CTCP Đảm bảo giao thông đường thủy Hải Phòng", "CategoryName": "Nông nghiệp"}
+{"Symbol": "DDM", "CompanyName": "Công ty Cổ phần Hàng hải Đông Đô", "CategoryName": "Công nghiệp"}
+{"Symbol": "DDN", "CompanyName": "Công ty Cổ phần Dược - Thiết bị Y tế Đà Nẵng", "CategoryName": "Y tế"}
+{"Symbol": "DDS", "CompanyName": "Công ty Cổ phần Chứng khoán AIS", "CategoryName": "Tài chính"}
+{"Symbol": "DDV", "CompanyName": "Công ty cổ phần DAP - VINACHEM", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "DFC", "CompanyName": "Công ty Cổ phần Xích líp Đông Anh", "CategoryName": "Công nghiệp"}
+{"Symbol": "DFF", "CompanyName": "Công ty cổ phần Tập đoàn Đua Fat", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "DGC", "CompanyName": "Công ty Cổ phần Tập đoàn Hóa chất Đức Giang", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "DGT", "CompanyName": "Công ty cổ phần Công trình Giao thông Đồng Nai", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "DGW", "CompanyName": "Công ty cổ phần Thế giới số", "CategoryName": "Công nghệ"}
+{"Symbol": "DHA", "CompanyName": "Công ty Cổ phần Hóa An", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "DHB", "CompanyName": "Công ty Cổ phần Phân đạm và Hóa chất Hà Bắc", "CategoryName": "Nông nghiệp"}
+{"Symbol": "DHC", "CompanyName": "Công ty Cổ phần Đông Hải Bến Tre", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "DHD", "CompanyName": "Công ty cổ phần Dược Vật tư Y tế Hải Dương", "CategoryName": "Y tế"}
+{"Symbol": "DHG", "CompanyName": "Công ty Cổ phần Dược Hậu Giang", "CategoryName": "Y tế"}
+{"Symbol": "DHM", "CompanyName": "Công ty cổ phần Thương mại và khai thác khoáng sản", "CategoryName": "Dịch vụ"}
+{"Symbol": "DHN", "CompanyName": "Công ty Cổ phần Dược phẩm Hà Nội", "CategoryName": "Y tế"}
+{"Symbol": "DHP", "CompanyName": "Công ty Cổ phần Điện Cơ Hải Phòng", "CategoryName": "Năng lượng"}
+{"Symbol": "DHT", "CompanyName": "Công ty Cổ phần Dược phẩm Hà Tây", "CategoryName": "Y tế"}
+{"Symbol": "DIC", "CompanyName": "Công ty Cổ phần Đầu tư và Thương mại DIC", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "DID", "CompanyName": "Công ty Cổ phần DIC - Đồng Tiến", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "DIG", "CompanyName": "Tổng Công ty Cổ phần Đầu tư Phát triển Xây dựng", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "DIH", "CompanyName": "Công ty Cổ phần Đầu tư Phát triển Xây dựng - Hội An", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "DJL", "CompanyName": "Công ty TNHH Đầu tư Bất động sản Doji Land", "CategoryName": null}
+{"Symbol": "DKC", "CompanyName": "Công ty cổ phần Chợ Lạng Sơn", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "DL1", "CompanyName": "CTCP Tập đoàn Alpha Seven", "CategoryName": "Tài chính"}
+{"Symbol": "DLD", "CompanyName": "Công ty Cổ phần Du lịch Đắk Lắk ", "CategoryName": "Dịch vụ"}
+{"Symbol": "DLG", "CompanyName": "Công ty Cổ phần Tập đoàn Đức Long Gia Lai", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "DLR", "CompanyName": "Công ty Cổ phần Địa ốc Đà Lạt", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "DLT", "CompanyName": "CTCP Du lịch và Thương mại – Vinacomin", "CategoryName": "Công nghiệp"}
+{"Symbol": "DM7", "CompanyName": "Công ty cổ phần Dệt may 7", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "DMC", "CompanyName": "Công ty Cổ phần Xuất nhập khẩu Y tế Domesco", "CategoryName": "Y tế"}
+{"Symbol": "DMN", "CompanyName": "Công ty cổ phần Domenal", "CategoryName": "Nông nghiệp"}
+{"Symbol": "DMS", "CompanyName": "Công ty cổ phần Hóa phẩm Dầu khí DMC - miền Nam", "CategoryName": null}
+{"Symbol": "DNA", "CompanyName": "Công ty Cổ phần Điện nước An Giang", "CategoryName": "Năng lượng"}
+{"Symbol": "DNC", "CompanyName": "Công ty Cổ phần Điện nước Lắp máy Hải Phòng", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "DND", "CompanyName": "CTCP Đầu tư Xây dựng và Vật liệu Đồng Nai", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "DNE", "CompanyName": "Công ty Cổ phần Môi trường Đô thị Đà Nẵng", "CategoryName": "Dịch vụ"}
+{"Symbol": "DNH", "CompanyName": "Công ty Cổ phần Thủy điện Đa Nhim - Hàm Thuận - Đa Mi", "CategoryName": "Năng lượng"}
+{"Symbol": "DNL", "CompanyName": "Công ty cổ phần Logistic Cảng Đà Nẵng", "CategoryName": "Công nghiệp"}
+{"Symbol": "DNM", "CompanyName": "Tổng Công ty cổ phần Y tế Danameco", "CategoryName": "Y tế"}
+{"Symbol": "DNN", "CompanyName": "Công ty Cổ phần Cấp nước Đà Nẵng", "CategoryName": "Dịch vụ"}
+{"Symbol": "DNP", "CompanyName": "Công ty Cổ phần DNP Holding", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "DNT", "CompanyName": "Công ty Cổ phần Du lịch Đồng Nai", "CategoryName": "Dịch vụ"}
+{"Symbol": "DNV", "CompanyName": "CTCP Thương mại Dịch vụ VDA Đà Nẵng", "CategoryName": ""}
+{"Symbol": "DNW", "CompanyName": "Công ty cổ phần Cấp nước Đồng Nai", "CategoryName": "Dịch vụ"}
+{"Symbol": "DOC", "CompanyName": "Công ty cổ phần Vật tư nông nghiệp Đồng Nai", "CategoryName": "Nông nghiệp"}
+{"Symbol": "DOP", "CompanyName": "CTCP Vận tải Xăng dầu Đồng Tháp ", "CategoryName": "Công nghiệp"}
+{"Symbol": "DP1", "CompanyName": "Công ty Cổ phần dược phẩm Trung ương CPC1", "CategoryName": "Y tế"}
+{"Symbol": "DP2", "CompanyName": "Công ty Cổ phần Dược phẩm Trung ương 2", "CategoryName": "Y tế"}
+{"Symbol": "DP3", "CompanyName": "Công ty Cổ phần Dược phẩm Trung ương 3", "CategoryName": "Y tế"}
+{"Symbol": "DPC", "CompanyName": "Công ty Cổ phần Nhựa Đà Nẵng", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "DPG", "CompanyName": "Công ty Cổ phần Tập đoàn Đạt Phương", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "DPH", "CompanyName": "Công ty Cổ phần Dược phẩm Hải Phòng", "CategoryName": "Y tế"}
+{"Symbol": "DPM", "CompanyName": "Tổng Công ty Phân bón và Hóa chất Dầu khí-CTCP", "CategoryName": "Nông nghiệp"}
+{"Symbol": "DPP", "CompanyName": "Công ty Cổ phần Dược Đồng Nai", "CategoryName": "Y tế"}
+{"Symbol": "DPR", "CompanyName": "Công ty Cổ phần Cao su Đồng Phú", "CategoryName": "Nông nghiệp"}
+{"Symbol": "DPS", "CompanyName": "Công ty cổ phần Đầu tư Phát triển Sóc Sơn ", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "DQC", "CompanyName": "Công ty Cổ phần Bóng đèn Điện Quang ", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "DRC", "CompanyName": "Công ty Cổ phần Cao su Đà Nẵng", "CategoryName": "Công nghiệp"}
+{"Symbol": "DRG", "CompanyName": "Công ty cổ phần Cao su Đắk Lắk", "CategoryName": "Nông nghiệp"}
+{"Symbol": "DRH", "CompanyName": "Công ty cổ phần DRH Holdings", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "DRI", "CompanyName": "Công ty Cổ phần Đầu tư Cao su Đắk Lắk", "CategoryName": "Nông nghiệp"}
+{"Symbol": "DRL", "CompanyName": "Công ty Cổ phần Thủy điện – Điện lực 3", "CategoryName": "Năng lượng"}
+{"Symbol": "DS3", "CompanyName": "Công ty Cổ phần DS3", "CategoryName": "Dịch vụ"}
+{"Symbol": "DSC", "CompanyName": "Công ty Cổ phần Chứng khoán DSC", "CategoryName": "Tài chính"}
+{"Symbol": "DSD", "CompanyName": "Công ty cổ phần DHC Suối Đôi", "CategoryName": "Dịch vụ"}
+{"Symbol": "DSE", "CompanyName": "Công ty Cổ phần Chứng khoán DNSE", "CategoryName": null}
+{"Symbol": "DSG", "CompanyName": "Công ty Cổ phần Kính Viglacera Đáp Cầu", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "DSN", "CompanyName": "Công ty Cổ phần Công viên nước Đầm Sen", "CategoryName": "Dịch vụ"}
+{"Symbol": "DSP", "CompanyName": "Công ty cổ phần Dịch vụ Du lịch Phú Thọ", "CategoryName": "Dịch vụ"}
+{"Symbol": "DST", "CompanyName": "Công ty Cổ phần Đầu tư Sao Thăng Long", "CategoryName": "Dịch vụ"}
+{"Symbol": "DSV", "CompanyName": "Công ty Cổ phần Đường sắt Vĩnh Phú", "CategoryName": "Công nghiệp"}
+{"Symbol": "DTA", "CompanyName": "Công ty Cổ phần Đệ Tam", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "DTB", "CompanyName": "Công ty cổ phần Công trình Đô thị Bảo Lộc", "CategoryName": "Dịch vụ"}
+{"Symbol": "DTC", "CompanyName": "Công ty Cổ phần Viglacera Đông Triều", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "DTD", "CompanyName": "Công ty Cổ phần Đầu tư phát triển Thành Đạt", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "DTE", "CompanyName": "CTCP Đầu tư Năng lượng Đại Trường Thành Holdings", "CategoryName": "Năng lượng"}
+{"Symbol": "DTG", "CompanyName": "Công ty Cổ phần Dược phẩm Tipharco", "CategoryName": "Y tế"}
+{"Symbol": "DTH", "CompanyName": "Công ty Cổ phần Dược - Vật tư Y tế Thanh Hóa", "CategoryName": "Y tế"}
+{"Symbol": "DTI", "CompanyName": "Công ty Cổ phần Đầu tư Đức Trung", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "DTK", "CompanyName": "Tổng công ty Điện lực TKV - CTCP", "CategoryName": "Năng lượng"}
+{"Symbol": "DTL", "CompanyName": "Công ty Cổ phần Đại Thiên Lộc", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "DTP", "CompanyName": "Công ty cổ phần Dược phẩm CPC1 Hà Nội", "CategoryName": "Y tế"}
+{"Symbol": "DTS", "CompanyName": "CTCP Dịch Vụ Du Lịch Đà Lạt ", "CategoryName": ""}
+{"Symbol": "DTT", "CompanyName": "Công ty Cổ phần Kỹ nghệ Đô Thành", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "DUS", "CompanyName": "CTCP Dịch vụ Đô thị Đà Lạt", "CategoryName": "Dịch vụ"}
+{"Symbol": "DVC", "CompanyName": "Công ty cổ phần Thương mại Dịch vụ Tổng hợp Cảng Hải Phòng", "CategoryName": "Năng lượng"}
+{"Symbol": "DVG", "CompanyName": "Công ty Cổ phần Đại Việt Group DVG", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "DVM", "CompanyName": "Công ty Cổ phần Dược liệu Việt Nam", "CategoryName": "Y tế"}
+{"Symbol": "DVN", "CompanyName": "Tổng Công ty Dược Việt Nam - CTCP", "CategoryName": "Y tế"}
+{"Symbol": "DVP", "CompanyName": "Công ty cổ phần Đầu tư và Phát triển Cảng Đình Vũ", "CategoryName": "Công nghiệp"}
+{"Symbol": "DVS", "CompanyName": "Công ty Cổ phần Thép Đình Vũ", "CategoryName": ""}
+{"Symbol": "DVW", "CompanyName": "Công ty Cổ phần Dịch vụ và Xây dựng Cấp nước Đồng Nai", "CategoryName": "Dịch vụ"}
+{"Symbol": "DWC", "CompanyName": "CTCP Cấp nước Đắk Lắk", "CategoryName": "Dịch vụ"}
+{"Symbol": "DWS", "CompanyName": "Công ty cổ phần Cấp nước và Môi trường đô thị Đồng Tháp", "CategoryName": "Dịch vụ"}
+{"Symbol": "DXG", "CompanyName": "Công ty Cổ phần Tập đoàn Đất Xanh", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "DXL", "CompanyName": "Công ty Cổ phần Du lịch và Xuất nhập khẩu Lạng Sơn", "CategoryName": "Dịch vụ"}
+{"Symbol": "DXP", "CompanyName": "Công ty cổ phần Cảng Đoạn Xá", "CategoryName": "Công nghiệp"}
+{"Symbol": "DXS", "CompanyName": "Công ty Cổ phần Dịch vụ Bất động sản Đất Xanh", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "DXV", "CompanyName": "Công ty Cổ phần VICEM Vật liệu Xây dựng Đà Nẵng", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "DZM", "CompanyName": "Công ty Cổ phần Cơ điện Dzĩ An", "CategoryName": "Công nghiệp"}
+{"Symbol": "E12", "CompanyName": "CTCP Xây dựng điện Vneco12", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "E29", "CompanyName": "CTCP Đầu tư xây dựng và kỹ thuật 29", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "EBS", "CompanyName": "Công ty Cổ phần Sách Giáo dục tại Tp.Hà Nội", "CategoryName": "Dịch vụ"}
+{"Symbol": "ECC", "CompanyName": "Công ty Cổ phần Chứng khoán EUROCAPITAL", "CategoryName": "Tài chính"}
+{"Symbol": "ECI", "CompanyName": "Công ty Cổ phần Bản đồ và Tranh ảnh Giáo dục", "CategoryName": "Dịch vụ"}
+{"Symbol": "ECO", "CompanyName": "Công ty cổ phần Nhựa sinh thái Việt Nam", "CategoryName": null}
+{"Symbol": "EFI", "CompanyName": "Công ty Cổ phần Đầu tư Tài chính Giáo dục", "CategoryName": "Tài chính"}
+{"Symbol": "EIB", "CompanyName": "Ngân hàng Thương mại Cổ phần Xuất nhập khẩu Việt Nam", "CategoryName": "Tài chính"}
+{"Symbol": "EIC", "CompanyName": "Công ty cổ phần EVN Quốc tế", "CategoryName": "Năng lượng"}
+{"Symbol": "EID", "CompanyName": "Công ty Cổ phần Đầu tư và Phát triển giáo dục Hà Nội", "CategoryName": "Dịch vụ"}
+{"Symbol": "EIN", "CompanyName": "Công ty cổ phần Đầu tư - Thương mại - Dịch vụ Điện lực", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "ELC", "CompanyName": "Công ty Cổ phần công nghệ - viễn thông ELCOM", "CategoryName": "Công nghệ"}
+{"Symbol": "EME", "CompanyName": "Công ty Cổ phần Điện cơ", "CategoryName": "Công nghệ"}
+{"Symbol": "EMG", "CompanyName": "Công ty Cổ phần Thiết bị Phụ tùng Cơ điện", "CategoryName": "Doanh nghiệp Upcom"}
+{"Symbol": "EMS", "CompanyName": "Tổng Công ty Chuyển phát nhanh Bưu Điện - CTCP", "CategoryName": "Dịch vụ"}
+{"Symbol": "EPC", "CompanyName": "Công ty TNHH Một thành viên Cà phê Ea Pốk", "CategoryName": "Nông nghiệp"}
+{"Symbol": "EPH", "CompanyName": "Công ty Cổ phần dịch vụ xuất bản giáo dục Hà Nội", "CategoryName": "Dịch vụ"}
+{"Symbol": "EPS", "CompanyName": "Công ty Cổ Phần Chứng khoán Gia Quyền", "CategoryName": ""}
+{"Symbol": "EVE", "CompanyName": "Công ty cổ phần Everpia", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "EVF", "CompanyName": "Công ty Tài chính cổ phần Điện lực", "CategoryName": "Tài chính"}
+{"Symbol": "EVG", "CompanyName": "Công ty Cổ phần Tập đoàn EVERLAND", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "EVN", "CompanyName": "Tập đoàn Điện lực Việt Nam - Công ty TNHH MTV", "CategoryName": "Năng lượng"}
+{"Symbol": "EVS", "CompanyName": "Công ty cổ phần Chứng khoán Everest", "CategoryName": "Tài chính"}
+{"Symbol": "EWH", "CompanyName": "CTCP EuroWindow Holding", "CategoryName": "Tài chính"}
+{"Symbol": "FBC", "CompanyName": "Công ty cổ phần Cơ khí Phổ Yên", "CategoryName": "Công nghiệp"}
+{"Symbol": "FCC", "CompanyName": "CTCP Liên hợp Thực phẩm", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "FCM", "CompanyName": "Công ty cổ phần Khoáng sản FECON", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "FCN", "CompanyName": "Công ty cổ phần FECON", "CategoryName": "Công nghiệp"}
+{"Symbol": "FCS", "CompanyName": "Công ty Cổ phần Lương thực Thành phố Hồ Chí Minh", "CategoryName": "Nông nghiệp"}
+{"Symbol": "FDC", "CompanyName": "Công ty Cổ phần Ngoại thương và Phát triển Đầu tư Thành phố Hồ Chí Minh", "CategoryName": "Dịch vụ"}
+{"Symbol": "FGL", "CompanyName": "Công ty cổ phần Cà phê Gia Lai", "CategoryName": "Nông nghiệp"}
+{"Symbol": "FHH", "CompanyName": "CTCP Đầu tư Kinh doanh Phát triển Bất Động Sản FLCHOMES", "CategoryName": null}
+{"Symbol": "FHN", "CompanyName": "Công Ty Cổ phần Xuất Nhập Khẩu Lương Thực - Thực Phẩm Hà Nội", "CategoryName": "Nông nghiệp"}
+{"Symbol": "FHS", "CompanyName": "Công ty cổ phần Phát hành sách T.P Hồ Chí Minh", "CategoryName": "Dịch vụ"}
+{"Symbol": "FIC", "CompanyName": "Tổng Công ty Vật liệu Xây dựng số 1 - CTCP", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "FID", "CompanyName": "Công ty Cổ phần Đầu tư và Phát triển Doanh nghiệp Việt Nam", "CategoryName": "Dịch vụ"}
+{"Symbol": "FIR", "CompanyName": "Công ty Cổ phần Địa ốc First Real", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "FIS", "CompanyName": "Công ty Cổ phần Hệ thống Thông tin FPT", "CategoryName": ""}
+{"Symbol": "FIT", "CompanyName": "Công ty cổ phần Tập đoàn F.I.T", "CategoryName": "Tài chính"}
+{"Symbol": "FMC", "CompanyName": "Công ty Cổ phần Thực phẩm Sao Ta ", "CategoryName": "Nông nghiệp"}
+{"Symbol": "FNS", "CompanyName": "Công ty cổ phần Chứng khoán FUNAN", "CategoryName": "Tài chính"}
+{"Symbol": "FOC", "CompanyName": "Công ty cổ phần Dịch vụ Trực tuyến FPT", "CategoryName": "Công nghệ"}
+{"Symbol": "FOX", "CompanyName": "Công ty Cổ phần Viễn thông FPT", "CategoryName": "Công nghệ"}
+{"Symbol": "FPT", "CompanyName": "Công ty Cổ phần FPT", "CategoryName": "Công nghệ"}
+{"Symbol": "FRC", "CompanyName": "Công ty cổ phần Lâm đặc sản Xuất khẩu Quảng Nam", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "FRM", "CompanyName": "Công ty cổ phần Lâm nghiệp Sài Gòn", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "FRT", "CompanyName": "Công ty cổ phần Bán lẻ Kỹ thuật số FPT", "CategoryName": "Công nghệ"}
+{"Symbol": "FSO", "CompanyName": "Công ty Cổ phần Cơ khí đóng tàu thủy sản Việt Nam", "CategoryName": "Công nghiệp"}
+{"Symbol": "FT1", "CompanyName": "Công ty Cổ phần Phụ tùng máy số 1", "CategoryName": "Công nghiệp"}
+{"Symbol": "FTG", "CompanyName": "Công ty cổ phần Thương mại FPT", "CategoryName": ""}
+{"Symbol": "FTI", "CompanyName": "Công ty Cổ phần Công nghiệp - Thương mại Hữu Nghị", "CategoryName": "Công nghiệp"}
+{"Symbol": "FTM", "CompanyName": "Công ty Cổ phần Đầu tư và Phát triển Đức Quân", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "FTS", "CompanyName": "Công ty Cổ phần Chứng khoán FPT", "CategoryName": "Tài chính"}
+{"Symbol": "G20", "CompanyName": "Công ty cổ phần Đầu tư Dệt may G.Home", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "G36", "CompanyName": "Tổng Công ty 36 - CTCP", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "GAS", "CompanyName": "Tổng Công ty Khí Việt Nam-CTCP", "CategoryName": "Năng lượng"}
+{"Symbol": "GCB", "CompanyName": "Công ty Cổ Phần Petec Bình Định", "CategoryName": "Năng lượng"}
+{"Symbol": "GCC", "CompanyName": "CTCP Văn hóa Tổng hợp Bến Thành", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "GCF", "CompanyName": "Công ty cổ phần Thực phẩm G.C", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "GDA", "CompanyName": "Công ty Cổ phần Tôn Đông Á", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "GDC", "CompanyName": "CTCP Xuất Nhập khẩu Gia Định", "CategoryName": ""}
+{"Symbol": "GDT", "CompanyName": "Công ty Cổ phần Chế biến Gỗ Đức Thành", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "GDW", "CompanyName": "Công ty Cổ phần Cấp nước Gia Định", "CategoryName": "Dịch vụ"}
+{"Symbol": "GEE", "CompanyName": "Công ty cổ phần Điện lực GELEX", "CategoryName": "Công nghiệp"}
+{"Symbol": "GEG", "CompanyName": "Công ty Cổ phần Điện Gia Lai", "CategoryName": "Năng lượng"}
+{"Symbol": "GER", "CompanyName": "Công ty Cổ phần Thể thao Ngôi sao Geru", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "GEX", "CompanyName": "Công ty Cổ phần Tập đoàn GELEX", "CategoryName": "Công nghệ"}
+{"Symbol": "GGG", "CompanyName": "Công ty cổ phần Ô tô Giải Phóng ", "CategoryName": "Công nghiệp"}
+{"Symbol": "GH3", "CompanyName": "CTCP Công trình Giao thông Hà Nội", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "GHC", "CompanyName": " Công ty Cổ phần Thủy điện Gia Lai", "CategoryName": "Năng lượng"}
+{"Symbol": "GIC", "CompanyName": "Công ty Cổ phần Đầu tư dịch vụ và Phát triển Xanh", "CategoryName": "Công nghiệp"}
+{"Symbol": "GIL", "CompanyName": "Công ty Cổ phần Sản xuất Kinh doanh Xuất nhập khẩu Bình Thạnh", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "GKM", "CompanyName": "Công ty cổ phần GKM Holdings", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "GLC", "CompanyName": "Công ty cổ phần Vàng Lào Cai", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "GLS", "CompanyName": "Công ty Cổ phần Chứng khoán Sen Vàng", "CategoryName": "Tài chính"}
+{"Symbol": "GLT", "CompanyName": "Công ty cổ phần Kỹ thuật điện Toàn Cầu", "CategoryName": "Viễn thông"}
+{"Symbol": "GLW", "CompanyName": "Công ty Cổ phần Cấp thoát nước Gia Lai", "CategoryName": "Dịch vụ"}
+{"Symbol": "GMA", "CompanyName": "Công ty Cổ phần G-AutoMobile", "CategoryName": "Công nghiệp"}
+{"Symbol": "GMC", "CompanyName": "Công ty Cổ phần Garmex Sài Gòn", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "GMD", "CompanyName": "Công ty Cổ phần Gemadept", "CategoryName": "Công nghiệp"}
+{"Symbol": "GMH", "CompanyName": "Công ty Cổ phần Minh Hưng Quảng Trị", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "GMS", "CompanyName": "CTCP Thiết kế và gia công phần mền GMS888", "CategoryName": ""}
+{"Symbol": "GMX", "CompanyName": "Công ty cổ phần Gạch Ngói Gốm Xây dựng Mỹ Xuân", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "GND", "CompanyName": "Công ty Cổ phần Gạch ngói Đồng Nai", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "GPC", "CompanyName": "CTCP Tập đoàn Green+", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "GSC", "CompanyName": "Công ty cổ phần Thủy điện Geruco Sông Côn", "CategoryName": ""}
+{"Symbol": "GSM", "CompanyName": "Công ty cổ phần Thủy điện Hương Sơn", "CategoryName": "Năng lượng"}
+{"Symbol": "GSP", "CompanyName": "Công ty cổ phần Vận tải Sản phẩm khí quốc tế", "CategoryName": "Năng lượng"}
+{"Symbol": "GTA", "CompanyName": "Công ty Cổ phần Chế biến Gỗ Thuận An", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "GTD", "CompanyName": "Công ty Cổ phần Giầy Thượng Đình", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "GTH", "CompanyName": "Công ty Cổ phần Xây dựng Giao thông Thừa Thiên Huế", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "GTS", "CompanyName": "Công ty cổ phần Công trình Giao thông Sài Gòn", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "GVR", "CompanyName": "Tập đoàn Công nghiệp Cao su Việt Nam", "CategoryName": "Nông nghiệp"}
+{"Symbol": "GVT", "CompanyName": "Công ty Cổ phần Giấy Việt Trì", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "H11", "CompanyName": "Công ty Cổ phần Xây dựng HUD101", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "HAC", "CompanyName": "Công ty Cổ phần Chứng khoán Hải Phòng", "CategoryName": "Tài chính"}
+{"Symbol": "HAD", "CompanyName": "Công ty Cổ phần Bia Hà Nội - Hải Dương", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "HAF", "CompanyName": "Công ty Cổ phần Thực phẩm Hà Nội", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "HAG", "CompanyName": "Công ty Cổ phần Hoàng Anh Gia Lai", "CategoryName": "Tài chính"}
+{"Symbol": "HAH", "CompanyName": "Công ty Cổ phần Vận tải và Xếp dỡ Hải An", "CategoryName": "Công nghiệp"}
+{"Symbol": "HAM", "CompanyName": "Công ty Cổ phần Vật tư Hậu Giang", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "HAN", "CompanyName": "Tổng công ty Xây dựng Hà Nội - CTCP", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "HAP", "CompanyName": "Công ty Cổ phần Tập đoàn Hapaco", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "HAR", "CompanyName": "Công ty Cổ phần Đầu tư Thương mại Bất động sản An Dương Thảo Điền", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "HAS", "CompanyName": "Công ty Cổ phần HACISCO", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "HAT", "CompanyName": "Công ty Cổ phần Thương mại Bia Hà Nội", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "HAV", "CompanyName": "Công ty Cổ phần rượu Hapro", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "HAX", "CompanyName": "Công ty Cổ phần Dịch vụ Ô tô Hàng Xanh", "CategoryName": "Dịch vụ"}
+{"Symbol": "HBC", "CompanyName": "Công ty cổ phần Tập đoàn Xây dựng Hoà Bình", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "HBD", "CompanyName": "Công ty Cổ phần Bao bì PP Bình Dương", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "HBH", "CompanyName": "Công ty Cổ phần Habeco - Hải Phòng", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "HBS", "CompanyName": "Công ty Cổ phần Chứng khoán Hòa Bình", "CategoryName": "Tài chính"}
+{"Symbol": "HC1", "CompanyName": "CTCP Xây dựng số 1 Hà Nội", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "HC3", "CompanyName": "Công ty Cổ phần Xây dựng Số 3 Hải Phòng", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "HCB", "CompanyName": "Công ty cổ phần Dệt may 29/3", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "HCC", "CompanyName": "Công ty Cổ phần Bê tông Hoà Cầm - Intimex", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "HCD", "CompanyName": "Công ty Cổ phần Đầu tư Sản xuất và Thương mại HCD", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "HCI", "CompanyName": "Công ty Cổ phần Đầu tư - Xây dựng Hà Nội", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "HCM", "CompanyName": "Công ty Cổ phần Chứng khoán Thành phố Hồ Chí Minh", "CategoryName": "Tài chính"}
+{"Symbol": "HCT", "CompanyName": "Công ty Cổ phần Thương mại Dịch vụ Vận tải Xi măng Hải Phòng", "CategoryName": "Công nghiệp"}
+{"Symbol": "HD2", "CompanyName": "Công ty cổ phần Đầu tư Phát triển nhà HUD2", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "HD6", "CompanyName": "Công ty cổ phần Đầu tư và Phát triển nhà số 6 Hà Nội", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "HD8", "CompanyName": "CTCP Đầu tư Phát triển Nhà và Đô thị HUD8", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "HDA", "CompanyName": "Công ty Cổ phần Hãng sơn Đông Á", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "HDB", "CompanyName": "Ngân hàng TMCP Phát triển T.P Hồ Chí Minh", "CategoryName": "Tài chính"}
+{"Symbol": "HDC", "CompanyName": "Công ty Cổ phần Phát triển nhà Bà Rịa-Vũng Tàu", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "HDG", "CompanyName": "Công ty Cổ phần Tập đoàn Hà Đô", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "HDM", "CompanyName": "Công ty Cổ phần Dệt May Huế", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "HDP", "CompanyName": "Công ty Cổ phần Dược Hà Tĩnh", "CategoryName": "Y tế"}
+{"Symbol": "HDS", "CompanyName": "Công ty cổ phần Giống cây trồng Hải Dương", "CategoryName": null}
+{"Symbol": "HDW", "CompanyName": "Công ty cổ phần Kinh doanh nước sạch Hải Dương", "CategoryName": "Dịch vụ"}
+{"Symbol": "HEC", "CompanyName": "Công ty Cổ phần Tư vấn Xây dựng Thủy lợi II", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "HEJ", "CompanyName": "Tổng Công ty Tư vấn Xây dựng Thủy lợi Việt Nam-CTCP", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "HEM", "CompanyName": "Công ty cổ phần Chế tạo Điện Cơ Hà Nội", "CategoryName": "Công nghiệp"}
+{"Symbol": "HEP", "CompanyName": "Công ty Cổ phần Môi trường và Công trình Đô thị Huế", "CategoryName": "Dịch vụ"}
+{"Symbol": "HES", "CompanyName": "Công ty Cổ phần Dịch vụ Giải trí Hà Nội", "CategoryName": "Dịch vụ"}
+{"Symbol": "HEV", "CompanyName": "Công ty Cổ phần Sách Đại học - Dạy nghề", "CategoryName": "Dịch vụ"}
+{"Symbol": "HFB", "CompanyName": "Công ty Cổ phần Công trình Cầu phà Thành phố Hồ Chí Minh", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "HFC", "CompanyName": "Công ty Cổ phần Xăng dầu HFC", "CategoryName": "Năng lượng"}
+{"Symbol": "HFX", "CompanyName": "Công ty cổ phần Sản xuất - Xuất nhập khẩu Thanh Hà", "CategoryName": "Nông nghiệp"}
+{"Symbol": "HGM", "CompanyName": "Công ty cổ phần Cơ khí và Khoáng sản Hà Giang", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "HGT", "CompanyName": "Công ty cổ phần Du lịch Hương Giang", "CategoryName": "Dịch vụ"}
+{"Symbol": "HHC", "CompanyName": "Công ty Cổ phần Bánh kẹo Hải Hà", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "HHG", "CompanyName": "Công ty Cổ phần Hoàng Hà", "CategoryName": "Công nghiệp"}
+{"Symbol": "HHN", "CompanyName": "Công ty Cổ Phần Vận tải và Dịch vụ Hàng hóa Hà Nội", "CategoryName": "Công nghiệp"}
+{"Symbol": "HHP", "CompanyName": "Công ty cổ phần Giấy Hoàng Hà Hải Phòng", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "HHR", "CompanyName": "Công ty Cổ phần Đường sắt Hà Hải", "CategoryName": "Doanh nghiệp Upcom"}
+{"Symbol": "HHS", "CompanyName": "Công ty Cổ phần Đầu tư Dịch vụ Hoàng Huy", "CategoryName": "Công nghiệp"}
+{"Symbol": "HHV", "CompanyName": "Công ty cổ phần Đầu tư hạ tầng giao thông Đèo Cả", "CategoryName": "Công nghiệp"}
+{"Symbol": "HID", "CompanyName": "Công ty Cổ phần Halcom Việt Nam", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "HIG", "CompanyName": "Công ty Cổ phần Tập đoàn HIPT", "CategoryName": "Công nghệ"}
+{"Symbol": "HII", "CompanyName": "Công ty Cổ phần An Tiến Industries", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "HIO", "CompanyName": "Công ty cổ phần Helio Energy", "CategoryName": null}
+{"Symbol": "HIS", "CompanyName": "Công ty cổ phần Đầu tư phát triển thương mại tổng hợp Sơn Hà", "CategoryName": ""}
+{"Symbol": "HJC", "CompanyName": "Công ty Cổ phần Hòa Việt", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "HJS", "CompanyName": "Công ty Cổ phần Thủy điện Nậm Mu", "CategoryName": "Năng lượng"}
+{"Symbol": "HKB", "CompanyName": "Công ty Cổ phần Nông nghiệp và Thực phẩm Hà Nội - Kinh Bắc  ", "CategoryName": "Nông nghiệp"}
+{"Symbol": "HKT", "CompanyName": "Công ty cổ phần Đầu tư QP Xanh", "CategoryName": "Nông nghiệp"}
+{"Symbol": "HLB", "CompanyName": "Công ty Cổ phần Bia và Nước giải khát Hạ Long", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "HLC", "CompanyName": "Công ty cổ phần Than Hà Lầm - Vinacomin", "CategoryName": "Năng lượng"}
+{"Symbol": "HLD", "CompanyName": "Công ty Cổ phần Đầu tư và Phát triển Bất động sản HUDLAND", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "HLO", "CompanyName": "Công ty Cổ phần Công nghệ Ha Lô", "CategoryName": null}
+{"Symbol": "HLR", "CompanyName": "Công ty Cổ phần Đường sắt Hà Lạng", "CategoryName": "Công nghiệp"}
+{"Symbol": "HLS", "CompanyName": "Công ty Cổ phần Sứ kỹ thuật Hoàng Liên Sơn", "CategoryName": "Công nghiệp"}
+{"Symbol": "HLT", "CompanyName": "CTCP Dệt may Hoàng Thị Loan", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "HLY", "CompanyName": "Công ty Cổ phần Gốm Xây dựng Hưng Yên", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "HMC", "CompanyName": "Công ty Cổ phần Kim khí Thành phố Hồ Chí Minh - Vnsteel", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "HMG", "CompanyName": "CTCP Kim khí Hà Nội - VNSTEEL", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "HMH", "CompanyName": "Công ty Cổ phần Hải Minh", "CategoryName": "Công nghiệp"}
+{"Symbol": "HMR", "CompanyName": "Công ty Cổ phần Đá Hoàng Mai", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "HMS", "CompanyName": "Công ty Cổ phần Xây dựng bảo tàng Hồ Chí Minh", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "HNA", "CompanyName": "Công ty Cổ phần Thủy điện Hủa Na", "CategoryName": "Năng lượng"}
+{"Symbol": "HNB", "CompanyName": "Công ty cổ phần Bến xe Hà Nội", "CategoryName": "Công nghiệp"}
+{"Symbol": "HND", "CompanyName": "CTCP Nhiệt điện Hải Phòng", "CategoryName": "Năng lượng"}
+{"Symbol": "HNF", "CompanyName": "Công ty cổ phần Thực phẩm Hữu Nghị", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "HNG", "CompanyName": "Công ty cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai", "CategoryName": "Nông nghiệp"}
+{"Symbol": "HNI", "CompanyName": "Công ty Cổ phần May Hữu Nghị", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "HNM", "CompanyName": "Công ty Cổ phần Sữa Hà Nội", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "HNP", "CompanyName": "Công ty Cổ phần Hanel Xốp nhựa", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "HNR", "CompanyName": "Công ty cổ phần Rượu và Nước giải khát Hà Nội", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "HOM", "CompanyName": "Công ty cổ phần Xi măng VICEM Hoàng Mai", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "HOT", "CompanyName": "Công ty cổ phần Du lịch - Dịch vụ Hội An", "CategoryName": "Dịch vụ"}
+{"Symbol": "HPB", "CompanyName": "Công ty Cổ phần Bao bì PP", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "HPD", "CompanyName": "Công ty Công ty Cổ phần Thủy điện Đăk Đoa", "CategoryName": "Năng lượng"}
+{"Symbol": "HPG", "CompanyName": "Công ty cổ phần Tập đoàn Hòa Phát", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "HPH", "CompanyName": "Công ty Cổ phần Hóa chất Hưng Phát Hà Bắc", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "HPI", "CompanyName": "Công ty Cổ phần Khu công nghiệp Hiệp Phước", "CategoryName": "Dịch vụ"}
+{"Symbol": "HPM", "CompanyName": "CTCP Xây dựng Thương mại và Khoáng sản Hoàng Phúc", "CategoryName": "Năng lượng"}
+{"Symbol": "HPP", "CompanyName": "Công ty Cổ phần Sơn Hải Phòng", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "HPT", "CompanyName": "Công ty Cổ phần Dịch vụ Công nghệ Tin học HPT", "CategoryName": "Công nghệ"}
+{"Symbol": "HPW", "CompanyName": "Công ty Cổ phần Cấp nước Hải Phòng", "CategoryName": "Dịch vụ"}
+{"Symbol": "HPX", "CompanyName": "Công ty cổ phần Đầu tư Hải Phát", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "HQC", "CompanyName": "Công ty cổ phần Tư vấn-Thương mại-Dịch vụ Địa ốc Hoàng Quân", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "HRB", "CompanyName": "Công ty Cổ phần Harec Đầu tư và Thương mại", "CategoryName": "Dịch vụ"}
+{"Symbol": "HRC", "CompanyName": "Công ty Cổ phần Cao su Hòa Bình", "CategoryName": "Nông nghiệp"}
+{"Symbol": "HRS", "CompanyName": "CTCP Chứng khoán Việt Nam Gateway", "CategoryName": "Tài chính"}
+{"Symbol": "HRT", "CompanyName": "Công ty cổ phần Vận tải Đường sắt Hà Nội", "CategoryName": "Công nghiệp"}
+{"Symbol": "HSA", "CompanyName": "Công ty Cổ phần HESTIA", "CategoryName": "Tài chính"}
+{"Symbol": "HSG", "CompanyName": "Công ty Cổ phần Tập đoàn Hoa Sen", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "HSI", "CompanyName": "Công ty Cổ phần Vật tư tổng hợp và Phân bón Hóa sinh", "CategoryName": "Nông nghiệp"}
+{"Symbol": "HSL", "CompanyName": "Công ty Cổ phần Đầu tư Phát triển Thực phẩm Hồng Hà", "CategoryName": "Nông nghiệp"}
+{"Symbol": "HSM", "CompanyName": "Tổng Công ty cổ phần Dệt may Hà Nội", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "HSP", "CompanyName": "CTCP Sơn Tổng hợp Hà Nội", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "HSV", "CompanyName": "Công ty cổ phần Tập đoàn HSV Việt Nam", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "HT1", "CompanyName": "Công ty Cổ phần xi măng VICEM Hà Tiên", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "HTC", "CompanyName": "Công ty Cổ phần Thương mại Hóc Môn", "CategoryName": "Dịch vụ"}
+{"Symbol": "HTE", "CompanyName": "Công ty Cổ phần Đầu tư Kinh doanh Điện lực Thành phố Hồ Chí Minh", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "HTG", "CompanyName": "Tổng Công ty cổ phần Dệt may Hòa Thọ", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "HTI", "CompanyName": "Công ty Cổ phần Đầu tư phát triển hạ tầng IDICO", "CategoryName": "Công nghiệp"}
+{"Symbol": "HTL", "CompanyName": "Công ty Cổ phần Kỹ thuật và Ô tô Trường Long", "CategoryName": "Dịch vụ"}
+{"Symbol": "HTM", "CompanyName": "Tổng Công ty Thương mại Hà Nội - CTCP", "CategoryName": "Dịch vụ"}
+{"Symbol": "HTN", "CompanyName": "Công ty Cổ phần Hưng Thịnh Incons", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "HTP", "CompanyName": "Công ty Cổ phần In sách giáo khoa Hòa Phát", "CategoryName": "Dịch vụ"}
+{"Symbol": "HTR", "CompanyName": "Công ty Cổ phần Đường sắt Hà Thái", "CategoryName": "Công nghiệp"}
+{"Symbol": "HTT", "CompanyName": "Công ty cổ phần Thương mại Hà Tây", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "HTV", "CompanyName": "Công ty Cổ phần Logistics Vicem", "CategoryName": "Công nghiệp"}
+{"Symbol": "HTW", "CompanyName": "Công ty Cổ phần Cấp nước Hà Tĩnh", "CategoryName": "Dịch vụ"}
+{"Symbol": "HU1", "CompanyName": "Công ty Cổ phần Đầu tư và Xây dựng HUD1", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "HU3", "CompanyName": "Công ty cổ phần Đầu tư và Xây dựng HUD3", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "HU4", "CompanyName": "Công ty Cổ phần Đầu tư và Xây dựng HUD4", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "HU6", "CompanyName": "Công ty cổ phần Đầu tư Phát triển nhà và Đô thị HUD 6", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "HUB", "CompanyName": "Công ty cổ phần Xây lắp Thừa Thiên Huế", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "HUG", "CompanyName": "Tổng Công ty may Hưng Yên - Công ty Cổ phần", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "HUT", "CompanyName": "Công ty Cổ phần Tasco", "CategoryName": "Công nghiệp"}
+{"Symbol": "HVA", "CompanyName": "Công ty cổ phần Đầu tư HVA", "CategoryName": "Tài chính"}
+{"Symbol": "HVH", "CompanyName": "Công ty Cổ phần Đầu tư và Công nghệ HVC", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "HVN", "CompanyName": "Tổng Công ty Hàng không Việt Nam - CTCP", "CategoryName": "Công nghiệp"}
+{"Symbol": "HVS", "CompanyName": "CTCP Chứng khoán HVS Việt Nam", "CategoryName": "Tài chính"}
+{"Symbol": "HVT", "CompanyName": "Công ty Cổ phần Hóa chất Việt Trì", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "HVX", "CompanyName": "Công ty Cổ phần Xi măng Vicem Hải Vân", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "HWS", "CompanyName": "Công ty cổ phần Cấp nước Thừa Thiên Huế", "CategoryName": "Dịch vụ"}
+{"Symbol": "IBD", "CompanyName": "CTCP In Tổng hợp Bình Dương", "CategoryName": "Dịch vụ"}
+{"Symbol": "ICA", "CompanyName": "Công ty Cổ phần Công nghệ Sinh học - Dược phẩm ICA ", "CategoryName": ""}
+{"Symbol": "ICC", "CompanyName": "CTCP Xây dựng Công nghiệp", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "ICF", "CompanyName": "Công ty Cổ phần Đầu tư Thương mại Thủy Sản", "CategoryName": "Nông nghiệp"}
+{"Symbol": "ICG", "CompanyName": "Công ty Cổ phần Xây dựng Sông Hồng", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "ICI", "CompanyName": "Công ty Cổ phần Đầu tư và Xây dựng Công nghiệp", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "ICN", "CompanyName": "Công ty cổ phần Đầu tư Xây dựng Dầu khí IDICO", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "ICT", "CompanyName": "Công ty cổ phần Viễn thông - Tin học Bưu điện", "CategoryName": "Viễn thông"}
+{"Symbol": "IDC", "CompanyName": "Tổng công ty IDICO - Công ty Cổ phần", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "IDI", "CompanyName": "Công ty Cổ phần Đầu tư và Phát triển Đa Quốc Gia I.D.I", "CategoryName": "Nông nghiệp"}
+{"Symbol": "IDJ", "CompanyName": "Công ty cổ phần Đầu tư IDJ Việt Nam", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "IDP", "CompanyName": "Công ty cổ phần Sữa Quốc tế", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "IDV", "CompanyName": "Công ty Cổ phần Phát triển Hạ tầng Vĩnh Phúc", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "IFS", "CompanyName": "Công ty Cổ phần Thực phẩm Quốc tế", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "IHK", "CompanyName": "Công ty Cổ phần In Hàng không", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "IJC", "CompanyName": "Công ty Cổ phần Phát triển Hạ tầng Kỹ thuật", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "ILA", "CompanyName": "Công ty Cổ phần ILA", "CategoryName": "Nông nghiệp"}
+{"Symbol": "ILB", "CompanyName": "Công ty Cổ phần ICD Tân Cảng – Long Bình", "CategoryName": "Công nghiệp"}
+{"Symbol": "ILC", "CompanyName": "Công ty Cổ phần Hợp tác Lao động với Nước ngoài", "CategoryName": "Dịch vụ"}
+{"Symbol": "ILS", "CompanyName": "Công ty Cổ phần Đầu tư Thương mại và Dịch vụ Quốc tế", "CategoryName": "Công nghiệp"}
+{"Symbol": "IME", "CompanyName": "Công ty Cổ phần Cơ khí và Xây lắp Công nghiệp", "CategoryName": "Công nghiệp"}
+{"Symbol": "IMP", "CompanyName": "Công ty Cổ phần Dược phẩm IMEXPHARM", "CategoryName": "Y tế"}
+{"Symbol": "IN4", "CompanyName": "Công ty Cổ phần In số 4", "CategoryName": "Dịch vụ"}
+{"Symbol": "INC", "CompanyName": "Công ty Cổ phần Tư vấn Đầu tư IDICO", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "ING", "CompanyName": "Công ty cổ phần Đầu tư và Phát triển Xây dựng", "CategoryName": null}
+{"Symbol": "INN", "CompanyName": "Công ty Cổ phần Bao bì và In Nông nghiệp", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "IPA", "CompanyName": "Công ty cổ phần Tập đoàn Đầu tư I.P.A", "CategoryName": "Tài chính"}
+{"Symbol": "IRC", "CompanyName": "Công ty Cổ phần Cao su Công nghiệp", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "IRS", "CompanyName": "Công ty Cổ phần Chứng khoán Quốc tế Hoàng Gia", "CategoryName": "Tài chính"}
+{"Symbol": "ISC", "CompanyName": "Công ty Cổ phần Chứng khoán Công Nghiệp Việt Nam", "CategoryName": "Tài chính"}
+{"Symbol": "ISG", "CompanyName": "Công ty cổ phần Vận tải biển và Hợp tác Quốc tế", "CategoryName": "Công nghiệp"}
+{"Symbol": "ISH", "CompanyName": "Công ty cổ phần Thủy điện Srok Phu Miêng IDICO", "CategoryName": "Năng lượng"}
+{"Symbol": "IST", "CompanyName": "Công ty Cổ phần ICD Tân Cảng Sóng Thần", "CategoryName": "Công nghiệp"}
+{"Symbol": "ITA", "CompanyName": "Công ty Cổ phần Đầu tư và Công nghiệp Tân Tạo", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "ITC", "CompanyName": "Công ty Cổ phần Đầu tư - Kinh doanh nhà", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "ITD", "CompanyName": "Công ty Cổ phần Công nghệ Tiên Phong", "CategoryName": "Công nghiệp"}
+{"Symbol": "ITQ", "CompanyName": "Công ty cổ phần Tập đoàn Thiên Quang", "CategoryName": "Công nghiệp"}
+{"Symbol": "ITS", "CompanyName": "Công ty cổ phần Đầu tư, Thương mại và Dịch vụ - Vinacomin", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "IVS", "CompanyName": "Công ty cổ phần Chứng khoán Guotai Junan (Việt Nam)", "CategoryName": "Tài chính"}
+{"Symbol": "JOS", "CompanyName": "Công ty Cổ phần Chế biến Thủy sản Xuất khẩu Minh Hải", "CategoryName": "Nông nghiệp"}
+{"Symbol": "JPA", "CompanyName": "Công ty CP Hàng không Jetstar Pacific Airlines", "CategoryName": "Công nghiệp"}
+{"Symbol": "JSI", "CompanyName": "Công ty cổ phần Chứng khoán Nhật Bản", "CategoryName": "Tài chính"}
+{"Symbol": "JVC", "CompanyName": "Công ty cổ phần Thiết bị Y tế Việt Nhật", "CategoryName": "Y tế"}
+{"Symbol": "KAL", "CompanyName": "Công ty cổ phần Nhôm Khánh Hoà", "CategoryName": ""}
+{"Symbol": "KBC", "CompanyName": "Tổng Công ty Phát triển Đô thị Kinh Bắc-CTCP", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "KCB", "CompanyName": "CTCP Khoáng sản và luyện kim Cao Bằng", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "KCE", "CompanyName": "Công ty Cổ phần Bê tông Ly tâm Điện lực Khánh Hòa", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "KDC", "CompanyName": "Công ty Cổ phần Tập đoàn Kido", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "KDH", "CompanyName": "Công ty Cổ phần Đầu tư và Kinh doanh nhà Khang Điền", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "KDM", "CompanyName": "Công ty cổ phần Tập đoàn GCL", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "KGM", "CompanyName": "Công ty Cổ phần Xuất nhập khẩu Kiên Giang", "CategoryName": "Nông nghiệp"}
+{"Symbol": "KHD", "CompanyName": "CTCP Khai thác, Chế biến khoáng sản Hải Dương", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "KHG", "CompanyName": "Công ty Cổ phần Tập đoàn Khải Hoàn Land", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "KHP", "CompanyName": "Công ty Cổ phần Điện lực Khánh Hòa", "CategoryName": "Năng lượng"}
+{"Symbol": "KHS", "CompanyName": "Công ty Cổ phần Kiên Hùng", "CategoryName": "Nông nghiệp"}
+{"Symbol": "KHV", "CompanyName": "Công ty TNHH Kim Hà Việt", "CategoryName": "Nông nghiệp"}
+{"Symbol": "KHW", "CompanyName": "Công ty Cổ phần Cấp nước Khánh Hòa", "CategoryName": "Doanh nghiệp Upcom"}
+{"Symbol": "KIP", "CompanyName": "Công ty Cổ phần K.I.P Việt Nam", "CategoryName": "Công nghiệp"}
+{"Symbol": "KIS", "CompanyName": "Công ty Cổ phần Chứng khoán KIS Việt Nam", "CategoryName": "Tài chính"}
+{"Symbol": "KKC", "CompanyName": "Công ty Cổ phần Tập đoàn Thành Thái", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "KLB", "CompanyName": "Ngân hàng Thương mại cổ phần Kiên Long", "CategoryName": "Tài chính"}
+{"Symbol": "KMR", "CompanyName": "Công ty Cổ phần Mirae", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "KMT", "CompanyName": "Công ty cổ phần Kim khí miền Trung", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "KOS", "CompanyName": "Công ty Cổ phần Kosy", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "KPF", "CompanyName": "Công ty Cổ phần Đầu tư tài sản Koji", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "KSB", "CompanyName": "Công ty Cổ phần Khoáng sản và Xây dựng Bình Dương", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "KSD", "CompanyName": "Công ty cổ phần Đầu tư DNA", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "KSF", "CompanyName": "Công ty Cổ phần Tập đoàn Sunshine", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "KSH", "CompanyName": "Công ty Cổ phần Damac GLS", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "KSQ", "CompanyName": "Công ty cổ phần CNC Capital Việt Nam", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "KST", "CompanyName": "Công ty cổ phần KASATI", "CategoryName": "Công nghệ"}
+{"Symbol": "KSV", "CompanyName": "Tổng Công ty Khoáng sản TKV - CTCP", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "KTC", "CompanyName": "Công ty Cổ phần Thương mại Kiên Giang", "CategoryName": "Năng lượng"}
+{"Symbol": "KTL", "CompanyName": "CTCP Kim khí Thăng Long", "CategoryName": "Công nghiệp"}
+{"Symbol": "KTS", "CompanyName": "Công ty cổ phần Đường Kon Tum", "CategoryName": "Nông nghiệp"}
+{"Symbol": "KTT", "CompanyName": "Công ty cổ phần Tập đoàn đầu tư KTT", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "KTW", "CompanyName": "Công ty cổ phần Cấp nước Kon Tum", "CategoryName": null}
+{"Symbol": "KVC", "CompanyName": "CTCP Sản xuất Xuất nhập khẩu Inox Kim Vĩ", "CategoryName": "Công nghiệp"}
+{"Symbol": "KVS", "CompanyName": "Công ty Cổ phần Chứng khoán KENANGA Việt Nam", "CategoryName": "Tài chính"}
+{"Symbol": "L10", "CompanyName": "Công ty cổ phần Lilama 10 ", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "L12", "CompanyName": "Công ty cổ phần Licogi 12", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "L14", "CompanyName": "Công ty cổ phần LICOGI 14", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "L18", "CompanyName": "Công ty Cổ phần Đầu tư và Xây dựng số 18", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "L35", "CompanyName": "Công ty Cổ phần Cơ khí Lắp máy Lilama", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "L40", "CompanyName": "Công ty Cổ phần Đầu tư và Xây dựng 40", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "L43", "CompanyName": "Công ty Cổ phần Lilama 45.3", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "L44", "CompanyName": "Công ty Cổ phần Lilama 45.4", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "L45", "CompanyName": "CTCP Lilama 45.1", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "L61", "CompanyName": "Công ty Cổ phần Lilama 69-1", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "L62", "CompanyName": "Công ty Cổ phần Lilama 69-2", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "L63", "CompanyName": "CTCP Lilama 69-3", "CategoryName": ""}
+{"Symbol": "LAF", "CompanyName": "Công ty Cổ phần Chế biến Hàng xuất khẩu Long An", "CategoryName": "Nông nghiệp"}
+{"Symbol": "LAI", "CompanyName": "CTCP Đầu tư xây dựng Long An IDICO", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "LAS", "CompanyName": "Công ty cổ phần Supe Phốt phát và Hóa chất Lâm Thao", "CategoryName": "Nông nghiệp"}
+{"Symbol": "LAW", "CompanyName": "Công ty cổ phần Cấp thoát nước Long An", "CategoryName": "Dịch vụ"}
+{"Symbol": "LBC", "CompanyName": "Công ty Cổ phần Thương mại - Đầu tư Long Biên", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "LBE", "CompanyName": "Công ty cổ phần Đầu tư và Thương mại Labeco", "CategoryName": "Dịch vụ"}
+{"Symbol": "LBM", "CompanyName": "Công ty Cổ phần Khoáng sản và Vật liệu xây dựng Lâm Đồng", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "LCC", "CompanyName": "Công ty Cổ phần Xi măng Hồng Phong", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "LCD", "CompanyName": "Công ty Cổ phần Lắp máy - Thí nghiệm Cơ điện", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "LCG", "CompanyName": "Công ty cổ phần LIZEN", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "LCM", "CompanyName": "Công ty Cổ phần Khai thác và Chế biến Khoáng sản Lào Cai", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "LCS", "CompanyName": "Công ty Cổ phần Licogi 166", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "LDG", "CompanyName": "Công ty Cổ phần Đầu tư LDG", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "LDP", "CompanyName": "Công ty Cổ phần Dược Lâm Đồng - Ladophar", "CategoryName": "Y tế"}
+{"Symbol": "LDW", "CompanyName": "Công ty cổ phần Cấp thoát nước Lâm Đồng", "CategoryName": "Dịch vụ"}
+{"Symbol": "LEC", "CompanyName": "Công ty Cổ phần Bất động sản Điện lực Miền Trung", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "LG9", "CompanyName": "Công ty Cổ phần Cơ giới và Xây lắp số 9", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "LGC", "CompanyName": "Công ty Cổ phần Đầu tư Cầu đường CII", "CategoryName": "Công nghiệp"}
+{"Symbol": "LGL", "CompanyName": "Công ty cổ phần Đầu tư và Phát triển Đô thị Long Giang", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "LGM", "CompanyName": "Công ty cổ phần Giày da và May mặc Xuất khẩu", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "LHC", "CompanyName": "Công ty Cổ phần Đầu tư và Xây dựng Thủy lợi Lâm Đồng", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "LHG", "CompanyName": "Công ty Cổ phần Long Hậu", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "LIC", "CompanyName": "Tổng Công ty Licogi - Công ty Cổ phần", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "LIG", "CompanyName": "Công ty Cổ phần Licogi 13", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "LIX", "CompanyName": "Công ty Cổ phần Bột giặt Lix", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "LKW", "CompanyName": "CTCP Cấp nước Long Khánh", "CategoryName": "Dịch vụ"}
+{"Symbol": "LLM", "CompanyName": "Tổng Công ty Lắp máy Việt Nam - CTCP", "CategoryName": "Công nghiệp"}
+{"Symbol": "LM3", "CompanyName": "Công ty Cổ phần Lilama 3", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "LM7", "CompanyName": "Công ty Cổ phần Lilama 7", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "LM8", "CompanyName": "Công ty Cổ phần Lilama 18", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "LMC", "CompanyName": "Công ty Cổ phần Khoáng sản Latca", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "LMH", "CompanyName": "Công ty Cổ phần Quốc tế Holding", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "LMI", "CompanyName": "Công ty Cổ phần Đầu tư Xây dựng Lắp máy IDICO", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "LNC", "CompanyName": "Công ty cổ phần Lệ Ninh", "CategoryName": "Nông nghiệp"}
+{"Symbol": "LNS", "CompanyName": "Công ty cổ phần Mía đường La Ngà", "CategoryName": "Nông nghiệp"}
+{"Symbol": "LO5", "CompanyName": "Công ty Cổ phần Lilama 5", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "LPB", "CompanyName": "Ngân hàng Thương mại cổ phần Lộc Phát Việt Nam", "CategoryName": "Tài chính"}
+{"Symbol": "LPT", "CompanyName": "Công ty cổ phần Thương mại và Sản xuất Lập Phương Thành", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "LQN", "CompanyName": "Công ty cổ phần Licogi Quảng Ngãi", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "LSG", "CompanyName": "Công ty cổ phần Bất động sản Sài Gòn VINA", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "LSS", "CompanyName": "Công ty Cổ phần Mía đường Lam Sơn", "CategoryName": "Nông nghiệp"}
+{"Symbol": "LTC", "CompanyName": "Công ty cổ phần Điện nhẹ Viễn thông", "CategoryName": "Viễn thông"}
+{"Symbol": "LTG", "CompanyName": "Công ty Cổ phần Tập đoàn Lộc Trời", "CategoryName": "Nông nghiệp"}
+{"Symbol": "LUT", "CompanyName": "Công ty Cổ phần Đầu tư Xây dựng Lương Tài", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "LVS", "CompanyName": "Công ty cổ phần Chứng khoán Liên Việt", "CategoryName": "Tài chính"}
+{"Symbol": "M10", "CompanyName": "Tổng Công ty May 10 - Công ty cổ phần", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "MA1", "CompanyName": "Công ty cổ phần Thiết bị", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "MAC", "CompanyName": "Công ty Cổ phần Cung ứng và Dịch vụ Kỹ thuật Hàng Hải", "CategoryName": "Công nghiệp"}
+{"Symbol": "MAS", "CompanyName": "Công ty cổ phần Dịch vụ Hàng không Sân bay Đà Nẵng", "CategoryName": "Công nghiệp"}
+{"Symbol": "MBB", "CompanyName": "Ngân hàng Thương mại cổ phần Quân đội", "CategoryName": "Tài chính"}
+{"Symbol": "MBG", "CompanyName": "Công ty cổ phần Tập đoàn MBG", "CategoryName": "Công nghệ"}
+{"Symbol": "MBN", "CompanyName": "Công ty cổ phần Môi trường và Công trình Đô thị Bắc Ninh", "CategoryName": "Dịch vụ"}
+{"Symbol": "MBS", "CompanyName": "Công ty cổ phần Chứng khoán MB", "CategoryName": "Tài chính"}
+{"Symbol": "MCC", "CompanyName": "Công ty Cổ phần Gạch ngói cao cấp", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "MCD", "CompanyName": "Công ty cổ phần Môi trường và Công trình đô thị Đông Hà", "CategoryName": "Dịch vụ"}
+{"Symbol": "MCF", "CompanyName": "CTCP Xây lắp Cơ khí và Lương thực Thực phẩm ", "CategoryName": "Công nghiệp"}
+{"Symbol": "MCG", "CompanyName": "Công ty Cổ phần Năng Lượng và Bất động sản MCG", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "MCH", "CompanyName": "Công ty Cổ phần Hàng tiêu dùng Masan", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "MCM", "CompanyName": "Công ty cổ phần Giống bò sữa Mộc Châu", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "MCO", "CompanyName": "Công ty Cổ phần Đầu tư và Xây dựng BDC Việt Nam", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "MCP", "CompanyName": "Công ty cổ phần In và Bao bì Mỹ Châu", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "MDA", "CompanyName": "Công ty Cổ phần Môi trường Đô thị Đông Anh", "CategoryName": "Dịch vụ"}
+{"Symbol": "MDC", "CompanyName": "Công ty cổ phần Than Mông Dương - Vinacomin", "CategoryName": "Năng lượng"}
+{"Symbol": "MDF", "CompanyName": "Công ty cổ phần Gỗ MDF VRG Quảng Trị", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "MDG", "CompanyName": "Công ty Cổ phần miền Đông", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "MEC", "CompanyName": "Công ty Cổ phần Cơ khí - lắp máy Sông Đà", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "MED", "CompanyName": "Công ty cổ phần Dược Trung ương Mediplantex", "CategoryName": "Y tế"}
+{"Symbol": "MEF", "CompanyName": "Công ty cổ phần MEINFA", "CategoryName": "Y tế"}
+{"Symbol": "MEL", "CompanyName": "Công ty Cổ phần Thép Mê Lin", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "MES", "CompanyName": "Công ty cổ phần Cơ điện Công trình", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "MFS", "CompanyName": "Công ty Cổ phần Dịch vụ Kỹ thuật Mobifone", "CategoryName": "Viễn thông"}
+{"Symbol": "MGC", "CompanyName": "Công ty cổ phần Địa chất mỏ - TKV", "CategoryName": "Năng lượng"}
+{"Symbol": "MGG", "CompanyName": "Tổng Công ty Đức Giang - Công ty Cổ phần", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "MGR", "CompanyName": "Công ty cổ phần Tập đoàn Mgroup", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "MH3", "CompanyName": "Công ty Cổ phần Khu công nghiệp Cao Su Bình Long", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "MHB", "CompanyName": "Ngân hàng TMCP Phát triển nhà đồng bằng sông Cửu Long", "CategoryName": "Tài chính"}
+{"Symbol": "MHC", "CompanyName": "Công ty Cổ phần MHC", "CategoryName": "Công nghiệp"}
+{"Symbol": "MIC", "CompanyName": "Công ty Cổ phần Kỹ nghệ Khoáng sản Quảng Nam", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "MIE", "CompanyName": "Tổng Công ty Máy và Thiết bị Công nghiệp - CTCP", "CategoryName": "Công nghiệp"}
+{"Symbol": "MIG", "CompanyName": "Tổng Công ty cổ phần Bảo hiểm Quân đội", "CategoryName": "Tài chính"}
+{"Symbol": "MKP", "CompanyName": "Công ty Cổ phần Hóa - Dược phẩm Mekophar", "CategoryName": "Y tế"}
+{"Symbol": "MKV", "CompanyName": "Công ty Cổ phần Dược Thú y Cai Lậy", "CategoryName": "Nông nghiệp"}
+{"Symbol": "MLC", "CompanyName": "Công ty Cổ phần Môi trường Đô thị Tỉnh Lào Cai", "CategoryName": "Dịch vụ"}
+{"Symbol": "MLG", "CompanyName": "Công ty Cổ phần Tập đoàn Mai Linh", "CategoryName": ""}
+{"Symbol": "MLS", "CompanyName": "Công ty cổ phần Chăn nuôi - Mitraco", "CategoryName": "Nông nghiệp"}
+{"Symbol": "MML", "CompanyName": "Công ty Cổ phần Masan MEATLife", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "MNB", "CompanyName": "Tổng Công ty May Nhà Bè - Công ty Cổ phần", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "MND", "CompanyName": "Công ty Cổ phần Môi trường Nam Định", "CategoryName": "Dịch vụ"}
+{"Symbol": "MPC", "CompanyName": "Công ty Cổ phần Tập đoàn Thủy sản Minh Phú", "CategoryName": "Nông nghiệp"}
+{"Symbol": "MPT", "CompanyName": "Công ty cổ phần Tập đoàn Trường Tiền", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "MPY", "CompanyName": "Công ty Cổ phần Môi trường Đô thị Phú Yên", "CategoryName": "Dịch vụ"}
+{"Symbol": "MQB", "CompanyName": "Công ty Cổ phần Môi trường và phát triển Đô thị Quảng Bình", "CategoryName": "Dịch vụ"}
+{"Symbol": "MQN", "CompanyName": "Công ty Cổ phần Môi trường đô thị Quảng Ngãi", "CategoryName": "Dịch vụ"}
+{"Symbol": "MRF", "CompanyName": "Công ty cổ phần Merufa", "CategoryName": "Y tế"}
+{"Symbol": "MSB", "CompanyName": "Ngân hàng Thương mại cổ phần Hàng hải Việt Nam", "CategoryName": "Tài chính"}
+{"Symbol": "MSG", "CompanyName": "Công ty Chứng khoán JB Việt Nam", "CategoryName": "Tài chính"}
+{"Symbol": "MSH", "CompanyName": "Công ty cổ phần May Sông Hồng", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "MSI", "CompanyName": "Công ty Cổ phần Chứng khoán KB Việt Nam", "CategoryName": "Tài chính"}
+{"Symbol": "MSM", "CompanyName": "Công ty TNHH Truyền thông Megastar", "CategoryName": "Dịch vụ"}
+{"Symbol": "MSN", "CompanyName": "Công ty Cổ phần Tập đoàn MaSan", "CategoryName": "Tài chính"}
+{"Symbol": "MSR", "CompanyName": "Công ty cổ phần Masan High-Tech Materials", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "MST", "CompanyName": "Công ty Cổ phần Đầu tư MST", "CategoryName": ""}
+{"Symbol": "MTA", "CompanyName": "Tổng Công ty Khoáng sản và Thương mại Hà Tĩnh - CTCP", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "MTB", "CompanyName": "CTCP Môi trường và Công trình Đô thị tỉnh Thái Bình", "CategoryName": "Dịch vụ"}
+{"Symbol": "MTC", "CompanyName": "CTCP Dịch vụ Du lịch Mỹ Trà", "CategoryName": "Dịch vụ"}
+{"Symbol": "MTG", "CompanyName": "Công ty Cổ phần MT Gas", "CategoryName": "Năng lượng"}
+{"Symbol": "MTH", "CompanyName": "Công ty Cổ phần Môi trường Đô thị Hà Đông", "CategoryName": "Dịch vụ"}
+{"Symbol": "MTL", "CompanyName": "CTCP Dịch vụ Môi trường Đô thị Từ Liêm", "CategoryName": "Dịch vụ"}
+{"Symbol": "MTP", "CompanyName": "Công ty Cổ phần Dược Medipharco", "CategoryName": "Y tế"}
+{"Symbol": "MTS", "CompanyName": "Công ty cổ phần Vật tư - TKV", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "MTV", "CompanyName": "Công ty Cổ phần Dịch vụ Môi trường và Công trình Đô thị Vũng Tàu", "CategoryName": "Dịch vụ"}
+{"Symbol": "MTX", "CompanyName": "Công ty cổ phần Công trình Đô thị Gò Công", "CategoryName": null}
+{"Symbol": "MVB", "CompanyName": "Tổng công ty Công nghiệp mỏ Việt Bắc TKV - CTCP", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "MVC", "CompanyName": "Công ty Cổ phần Vật liệu và Xây dựng Bình Dương", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "MVN", "CompanyName": "Tổng Công ty Hàng hải Việt Nam - CTCP", "CategoryName": "Công nghiệp"}
+{"Symbol": "MWG", "CompanyName": "Công ty cổ phần Đầu tư Thế giới Di động", "CategoryName": "Công nghệ"}
+{"Symbol": "NAB", "CompanyName": "Ngân hàng Thương mại cổ phần Nam Á", "CategoryName": "Tài chính"}
+{"Symbol": "NAC", "CompanyName": "Công ty Cổ phần Tư vấn Xây dựng Tổng hợp", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "NAF", "CompanyName": "Công ty Cổ phần Nafoods Group ", "CategoryName": "Nông nghiệp"}
+{"Symbol": "NAG", "CompanyName": "Công ty cổ phần Tập đoàn Nagakawa", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "NAP", "CompanyName": "Công ty cổ phần Cảng Nghệ Tĩnh", "CategoryName": "Công nghiệp"}
+{"Symbol": "NAS", "CompanyName": "Công ty Cổ phần Dịch vụ Hàng không Sân bay Nội Bài", "CategoryName": "Công nghiệp"}
+{"Symbol": "NAU", "CompanyName": "Công ty cổ phần Môi trường và Công trình đô thị Nghệ An", "CategoryName": "Dịch vụ"}
+{"Symbol": "NAV", "CompanyName": "Công ty Cổ phần Nam Việt", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "NAW", "CompanyName": "Công ty Cổ phần Cấp nước Nghệ An", "CategoryName": "Dịch vụ"}
+{"Symbol": "NBB", "CompanyName": "Công ty Cổ phần Đầu tư Năm Bảy Bảy", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "NBC", "CompanyName": "Công ty cổ phần Than Núi Béo – Vinacomin", "CategoryName": "Năng lượng"}
+{"Symbol": "NBE", "CompanyName": "Công ty Cổ phần Sách và Thiết bị Giáo dục Miền Bắc", "CategoryName": "Dịch vụ"}
+{"Symbol": "NBP", "CompanyName": "Công ty Cổ phần Nhiệt điện Ninh Bình", "CategoryName": "Năng lượng"}
+{"Symbol": "NBT", "CompanyName": "CTCP Cấp thoát nước Bến Tre", "CategoryName": "Dịch vụ"}
+{"Symbol": "NBW", "CompanyName": "Công ty Cổ phần Cấp nước Nhà Bè", "CategoryName": "Dịch vụ"}
+{"Symbol": "NCG", "CompanyName": "Công ty cổ phần Tập đoàn Nova Consumer", "CategoryName": ""}
+{"Symbol": "NCS", "CompanyName": "Công ty cổ phần Suất ăn Hàng không Nội Bài", "CategoryName": "Công nghiệp"}
+{"Symbol": "NCT", "CompanyName": "Công ty Cổ phần Dịch vụ Hàng hóa Nội Bài", "CategoryName": "Công nghiệp"}
+{"Symbol": "ND2", "CompanyName": "Công ty Cổ phần Đầu tư Phát triển điện Miền Bắc 2", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "NDC", "CompanyName": "Công ty Cổ phần Nam Dược", "CategoryName": "Y tế"}
+{"Symbol": "NDN", "CompanyName": "Công ty Cổ phần Đầu tư Phát triển Nhà Đà Nẵng  ", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "NDP", "CompanyName": "Công ty Cổ phần Dược phẩm 2/9 ", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "NDT", "CompanyName": "Tổng Công ty cổ phần Dệt may Nam Định", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "NDW", "CompanyName": "CTCP Cấp nước Nam Định", "CategoryName": "Dịch vụ"}
+{"Symbol": "NDX", "CompanyName": "Công ty Cổ phần Xây lắp Phát triển Nhà Đà Nẵng", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "NED", "CompanyName": "Công ty cổ phần Đầu tư và Phát triển Điện Tây Bắc", "CategoryName": "Năng lượng"}
+{"Symbol": "NEM", "CompanyName": "Công ty cổ phần Thiết bị điện miền Bắc", "CategoryName": null}
+{"Symbol": "NET", "CompanyName": "Công ty Cổ phần Bột giặt Net", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "NFC", "CompanyName": "Công ty Cổ phần Phân lân Ninh Bình", "CategoryName": "Nông nghiệp"}
+{"Symbol": "NGC", "CompanyName": "Công ty Cổ phần Chế biến Thủy sản Xuất khẩu Ngô Quyền", "CategoryName": "Nông nghiệp"}
+{"Symbol": "NHA", "CompanyName": "Tổng Công ty Đầu tư Phát triển Nhà và Đô thị Nam Hà Nội", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "NHC", "CompanyName": "Công ty Cổ phần Gạch Ngói Nhị Hiệp", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "NHH", "CompanyName": "Công ty Cổ phần Nhựa Hà Nội", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "NHP", "CompanyName": "Công ty Cổ phần Sản xuất Xuất nhập khẩu NHP", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "NHT", "CompanyName": "Công ty Cổ phần Sản xuất và Thương mại Nam Hoa", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "NHV", "CompanyName": "Công ty cổ phần Đầu tư NHV", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "NJC", "CompanyName": "Công ty cổ phần May Nam Định", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "NKG", "CompanyName": "Công ty Cổ phần Thép Nam Kim", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "NLG", "CompanyName": "Công ty cổ phần Đầu tư Nam Long", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "NLS", "CompanyName": "Công ty cổ phần Cấp thoát Nước Lạng Sơn", "CategoryName": "Dịch vụ"}
+{"Symbol": "NNC", "CompanyName": "Công ty Cổ phần Đá Núi Nhỏ", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "NNG", "CompanyName": "Công ty Cổ phần Công nghiệp - Dịch vụ - Thương Mại Ngọc Nghĩa", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "NNT", "CompanyName": "Công ty cổ phần Cấp nước Ninh Thuận", "CategoryName": "Dịch vụ"}
+{"Symbol": "NO1", "CompanyName": "Công ty Cổ phần Tập đoàn 911", "CategoryName": "Công nghiệp"}
+{"Symbol": "NOS", "CompanyName": "Công ty Cổ phần Vận tải biển và Thương mại Phương Đông", "CategoryName": "Công nghiệp"}
+{"Symbol": "NPM", "CompanyName": "Công ty TNHH Khai thác Chế biến Khoáng sản Núi Pháo", "CategoryName": ""}
+{"Symbol": "NQB", "CompanyName": "Công ty cổ phần Cấp nước Quảng Bình", "CategoryName": "Dịch vụ"}
+{"Symbol": "NQN", "CompanyName": "Công ty Cổ phần Nước sạch Quảng Ninh", "CategoryName": "Dịch vụ"}
+{"Symbol": "NQT", "CompanyName": "Công ty Cổ phần Nước sạch Quảng Trị", "CategoryName": "Dịch vụ"}
+{"Symbol": "NRC", "CompanyName": "Công ty Cổ phần Tập đoàn Danh Khôi", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "NS2", "CompanyName": "Công ty Cổ phần Nước sạch số 2 Hà Nội", "CategoryName": "Dịch vụ"}
+{"Symbol": "NSC", "CompanyName": "Công ty cổ phần Tập đoàn Giống cây trồng Việt Nam", "CategoryName": "Nông nghiệp"}
+{"Symbol": "NSG", "CompanyName": "CTCP Nhựa Sài Gòn", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "NSH", "CompanyName": "Công ty Cổ phần Tập đoàn Nhôm Sông Hồng Shalumi", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "NSI", "CompanyName": "Công ty Cổ phần Chứng khoán Quốc gia", "CategoryName": "Tài chính"}
+{"Symbol": "NSL", "CompanyName": "Công ty cổ phần Cấp nước Sơn La", "CategoryName": "Dịch vụ"}
+{"Symbol": "NSS", "CompanyName": "Công ty cổ phần Nông Súc Sản Đồng Nai", "CategoryName": "Nông nghiệp"}
+{"Symbol": "NST", "CompanyName": "Công ty Cổ phần Ngân Sơn", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "NT2", "CompanyName": "Công ty Cổ phần Điện lực Dầu khí Nhơn Trạch 2", "CategoryName": "Năng lượng"}
+{"Symbol": "NTC", "CompanyName": "Công ty Cổ phần Khu Công nghiệp Nam Tân Uyên", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "NTF", "CompanyName": "Công ty cổ phần Dược - Vật tư Y tế Nghệ An", "CategoryName": "Y tế"}
+{"Symbol": "NTH", "CompanyName": "Công ty Cổ phần thủy điện Nước Trong", "CategoryName": "Năng lượng"}
+{"Symbol": "NTL", "CompanyName": "Công ty Cổ phần Phát triển Đô thị Từ Liêm", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "NTP", "CompanyName": "Công ty Cổ phần Nhựa Thiếu niên Tiền Phong", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "NTT", "CompanyName": "Công ty Cổ phần Dệt - May Nha Trang", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "NTW", "CompanyName": "Công ty cổ phần Cấp nước Nhơn Trạch", "CategoryName": "Dịch vụ"}
+{"Symbol": "NUE", "CompanyName": "Công ty Cổ phần Môi trường Đô thị Nha Trang", "CategoryName": "Doanh nghiệp Upcom"}
+{"Symbol": "NVB", "CompanyName": "Ngân hàng Thương mại cổ phần Quốc Dân", "CategoryName": "Tài chính"}
+{"Symbol": "NVL", "CompanyName": "Công ty cổ phần Tập đoàn Đầu tư Địa ốc No Va", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "NVP", "CompanyName": "Công ty Cổ phần Nước sạch Vĩnh Phúc", "CategoryName": "Dịch vụ"}
+{"Symbol": "NVS", "CompanyName": "Công ty cổ phần Chứng khoán NAVIBANK", "CategoryName": "Tài chính"}
+{"Symbol": "NVT", "CompanyName": "Công ty Cổ phần Bất động sản Du lịch Ninh Vân Bay", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "NWT", "CompanyName": "Công ty cổ phần Vận tải Newway", "CategoryName": "Dịch vụ"}
+{"Symbol": "NXT", "CompanyName": "CTCP Sản xuất và Cung ứng vật liệu xây dựng Kon Tum", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "OCB", "CompanyName": "Ngân hàng Thương mại cổ phần Phương Đông", "CategoryName": "Tài chính"}
+{"Symbol": "OCH", "CompanyName": "Công ty Cổ phần One Capital Hospitality", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "OCS", "CompanyName": "Công ty Cổ phần Chứng khoán Đại Dương", "CategoryName": "Tài chính"}
+{"Symbol": "ODE", "CompanyName": "Công ty cổ phần Tập đoàn Truyền thông và Giải trí ODE", "CategoryName": "Dịch vụ"}
+{"Symbol": "OGC", "CompanyName": "Công ty Cổ phần Tập đoàn Đại Dương", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "OIL", "CompanyName": "Tổng Công ty Dầu Việt Nam - CTCP", "CategoryName": "Năng lượng"}
+{"Symbol": "OMC", "CompanyName": "Công ty Cổ phần Quản lý quỹ đầu tư Chứng khoán Phương Đông", "CategoryName": ""}
+{"Symbol": "ONE", "CompanyName": "Công ty Cổ phần Công nghệ ONE", "CategoryName": "Công nghệ"}
+{"Symbol": "ONW", "CompanyName": "Công ty Cổ phần Dịch vụ Một Thế giới", "CategoryName": "Công nghệ"}
+{"Symbol": "OPC", "CompanyName": "Công ty cổ phần Dược phẩm OPC", "CategoryName": "Y tế"}
+{"Symbol": "ORS", "CompanyName": "Công ty Cổ phần Chứng khoán Tiên Phong", "CategoryName": "Tài chính"}
+{"Symbol": "OSC", "CompanyName": "Công ty Cổ phần Chứng khoán ĐẠI TÂY DƯƠNG", "CategoryName": "Tài chính"}
+{"Symbol": "PAC", "CompanyName": "Công ty Cổ phần Pin Ắc quy Miền Nam ", "CategoryName": "Công nghiệp"}
+{"Symbol": "PAI", "CompanyName": "CTCP Công nghệ thông tin, viễn thông và tự động hóa Dầu khí", "CategoryName": "Công nghệ"}
+{"Symbol": "PAN", "CompanyName": "Công ty Cổ phần Tập đoàn PAN", "CategoryName": "Nông nghiệp"}
+{"Symbol": "PAP", "CompanyName": "Công ty cổ phần Dầu khí Đầu tư Khai thác Cảng Phước An", "CategoryName": "Công nghiệp"}
+{"Symbol": "PAS", "CompanyName": "Công ty cổ phần Quốc tế Phương Anh", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "PAT", "CompanyName": "Công ty cổ phần Phốt pho Apatit Việt Nam", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "PBC", "CompanyName": "CTCP Dược phẩm Trung ương I - Pharbaco", "CategoryName": "Y tế"}
+{"Symbol": "PBP", "CompanyName": "Công ty cổ phần Bao bì Dầu khí Việt Nam", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "PBT", "CompanyName": "Công ty cổ phần Nhà và Thương mại Dầu khí", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "PC1", "CompanyName": "Công ty Cổ phần Tập đoàn PC1", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "PCC", "CompanyName": "Công ty Cổ phần Tập đoàn Xây lắp 1 - Petrolimex", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "PCE", "CompanyName": "Công ty cổ phần Phân bón và Hóa chất Dầu khí Miền Trung", "CategoryName": "Nông nghiệp"}
+{"Symbol": "PCF", "CompanyName": "Công ty cổ phần Cà Phê Petec", "CategoryName": "Nông nghiệp"}
+{"Symbol": "PCG", "CompanyName": "Công ty Cổ phần Đầu tư và Phát triển Gas Đô Thị", "CategoryName": "Năng lượng"}
+{"Symbol": "PCH", "CompanyName": "Công ty Cổ phần Nhựa Picomat", "CategoryName": "Công nghiệp"}
+{"Symbol": "PCM", "CompanyName": "Công ty Cổ phần Vật liệu Xây dựng Bưu điện", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "PCN", "CompanyName": "Công ty cổ phần Hóa phẩm dầu khí DMC - miền Bắc", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "PCT", "CompanyName": "Công ty cổ phần Vận tải biển Global Pacific", "CategoryName": "Công nghiệp"}
+{"Symbol": "PDB", "CompanyName": "Công ty Cổ phần Tập đoàn đầu tư DIN Capital", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "PDC", "CompanyName": "Công ty cổ phần Du lịch Dầu khí Phương Đông", "CategoryName": "Dịch vụ"}
+{"Symbol": "PDN", "CompanyName": "Công ty Cổ phần Cảng Đồng Nai", "CategoryName": "Công nghiệp"}
+{"Symbol": "PDR", "CompanyName": "Công ty cổ phần Phát triển Bất động sản Phát Đạt", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "PDV", "CompanyName": "Công ty Cổ phần Vận tải và Tiếp Vận Phương Đông Việt", "CategoryName": "Năng lượng"}
+{"Symbol": "PEC", "CompanyName": "Công ty Cổ phần Cơ khí Điện lực", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "PEG", "CompanyName": "Tổng Công ty Thương mại Kỹ thuật và Đầu tư - CTCP", "CategoryName": "Năng lượng"}
+{"Symbol": "PEN", "CompanyName": "Công ty cổ phần Xây lắp III Petrolimex", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "PEQ", "CompanyName": "Công ty cổ phần Thiết bị Xăng dầu Petrolimex", "CategoryName": "Năng lượng"}
+{"Symbol": "PET", "CompanyName": "Tổng Công ty Cổ phần Dịch vụ Tổng hợp Dầu khí", "CategoryName": "Dịch vụ"}
+{"Symbol": "PFI", "CompanyName": "Công ty Cổ phần Đầu tư Tài chính Công đoàn Dầu khí", "CategoryName": ""}
+{"Symbol": "PFL", "CompanyName": "Công ty cổ phần Dầu khí Đông Đô", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "PGB", "CompanyName": "Ngân hàng TMCP Thịnh vượng và Phát triển", "CategoryName": "Tài chính"}
+{"Symbol": "PGC", "CompanyName": "Tổng Công ty Gas Petrolimex-CTCP", "CategoryName": "Năng lượng"}
+{"Symbol": "PGD", "CompanyName": "Công ty Cổ phần Phân phối Khí thấp áp Dầu khí Việt Nam", "CategoryName": "Năng lượng"}
+{"Symbol": "PGI", "CompanyName": "Tổng Công ty cổ phần Bảo hiểm Petrolimex", "CategoryName": "Tài chính"}
+{"Symbol": "PGN", "CompanyName": "Công ty Cổ phần Phụ gia Nhựa", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "PGS", "CompanyName": "Công ty Cổ phần Kinh doanh Khí Miền Nam", "CategoryName": "Năng lượng"}
+{"Symbol": "PGT", "CompanyName": "Công ty Cổ phần PGT Holdings", "CategoryName": "Công nghiệp"}
+{"Symbol": "PGV", "CompanyName": "Tổng Công ty Phát điện 3 - Công ty cổ phần", "CategoryName": "Năng lượng"}
+{"Symbol": "PHC", "CompanyName": "Công ty cổ phần Xây dựng Phục Hưng Holdings", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "PHH", "CompanyName": "Công ty Cổ phần Hồng Hà Việt Nam", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "PHN", "CompanyName": "Công ty Cổ phần Pin Hà Nội", "CategoryName": "Công nghiệp"}
+{"Symbol": "PHP", "CompanyName": "Công ty cổ phần Cảng Hải Phòng", "CategoryName": "Công nghiệp"}
+{"Symbol": "PHR", "CompanyName": "Công ty cổ phần Cao su Phước Hòa", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "PHS", "CompanyName": "Công ty Cổ phần Chứng khoán Phú Hưng", "CategoryName": "Tài chính"}
+{"Symbol": "PIA", "CompanyName": "Công ty cổ phần Tin học Viễn thông Petrolimex", "CategoryName": "Công nghệ"}
+{"Symbol": "PIC", "CompanyName": "Công ty cổ phần Đầu tư Điện lực 3", "CategoryName": "Năng lượng"}
+{"Symbol": "PIS", "CompanyName": "Tổng Công ty Pisico Bình Định - CTCP", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "PIT", "CompanyName": "Công ty Cổ phần Xuất nhập khẩu Petrolimex", "CategoryName": "Dịch vụ"}
+{"Symbol": "PIV", "CompanyName": "Công ty Cổ phần PIV", "CategoryName": "Dịch vụ"}
+{"Symbol": "PJC", "CompanyName": "Công ty Cổ phần Thương mại và Vận tải Petrolimex Hà Nội", "CategoryName": "Năng lượng"}
+{"Symbol": "PJS", "CompanyName": "Công ty cổ phần Cấp nước Phú Hòa Tân", "CategoryName": "Dịch vụ"}
+{"Symbol": "PJT", "CompanyName": "Công ty Cổ phần Vận tải Xăng dầu Đường thủy Petrolimex", "CategoryName": "Công nghiệp"}
+{"Symbol": "PLA", "CompanyName": "Công ty cổ phần Đầu tư Dịch vụ Hạ tầng Xăng Dầu", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "PLC", "CompanyName": "Tổng Công ty Hóa dầu Petrolimex-CTCP", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "PLE", "CompanyName": "CTCP Tư vấn Xây dựng Petrolimex", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "PLO", "CompanyName": "Công ty Cổ phần Kho Vận Petec ", "CategoryName": "Công nghiệp"}
+{"Symbol": "PLP", "CompanyName": "Công ty Cổ phần Sản xuất và Công nghệ Nhựa Pha Lê", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "PLX", "CompanyName": "Tập đoàn Xăng dầu Việt Nam", "CategoryName": "Năng lượng"}
+{"Symbol": "PMB", "CompanyName": "Công ty cổ phần Phân bón và Hóa chất Dầu khí Miền Bắc", "CategoryName": "Nông nghiệp"}
+{"Symbol": "PMC", "CompanyName": "Công ty Cổ phần Dược phẩm Dược liệu Pharmedic", "CategoryName": "Y tế"}
+{"Symbol": "PMG", "CompanyName": "Công ty Cổ phần Đầu tư và Sản xuất Petro Miền Trung", "CategoryName": "Năng lượng"}
+{"Symbol": "PMJ", "CompanyName": "Công ty cổ phần Vật tư Bưu điện", "CategoryName": "Công nghệ"}
+{"Symbol": "PMP", "CompanyName": "Công ty cổ phần Bao bì Đạm Phú Mỹ", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "PMS", "CompanyName": "Công ty Cổ phần Cơ khí Xăng dầu", "CategoryName": "Công nghiệp"}
+{"Symbol": "PMT", "CompanyName": "Công ty cổ phần Viễn thông TELVINA Việt Nam", "CategoryName": "Công nghệ"}
+{"Symbol": "PMW", "CompanyName": "Công ty cổ phần Cấp nước Phú Mỹ", "CategoryName": "Dịch vụ"}
+{"Symbol": "PNC", "CompanyName": "Công ty Cổ phần Văn hóa Phương Nam ", "CategoryName": "Dịch vụ"}
+{"Symbol": "PND", "CompanyName": "Công ty Cổ phần Xăng dầu Dầu khí Nam Định", "CategoryName": "Năng lượng"}
+{"Symbol": "PNG", "CompanyName": "Công ty cổ phần Thương mại Phú Nhuận", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "PNJ", "CompanyName": "Công ty Cổ phần Vàng bạc Đá quý Phú Nhuận", "CategoryName": "Dịch vụ"}
+{"Symbol": "PNP", "CompanyName": "Công ty cổ phần Tân Cảng - Phú Hữu", "CategoryName": "Công nghiệp"}
+{"Symbol": "PNT", "CompanyName": "Công ty cổ phần Kỹ thuật Xây dựng Phú Nhuận", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "POB", "CompanyName": "Công ty Cổ phần Xăng dầu Dầu khí Thái Bình", "CategoryName": "Năng lượng"}
+{"Symbol": "POM", "CompanyName": "Công ty Cổ phần Thép Pomina", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "POS", "CompanyName": "Công ty Cổ phần Dịch vụ Lắp đặt, Vận hành và Bảo dưỡng Công trình Dầu khí biển PTSC", "CategoryName": "Năng lượng"}
+{"Symbol": "POT", "CompanyName": "Công ty Cổ phần Thiết bị Bưu điện", "CategoryName": "Công nghệ"}
+{"Symbol": "POV", "CompanyName": "Công ty Cổ phần Xăng dầu Dầu khí Vũng Áng", "CategoryName": "Năng lượng"}
+{"Symbol": "POW", "CompanyName": "Tổng Công ty Điện lực Dầu khí Việt Nam - CTCP", "CategoryName": "Năng lượng"}
+{"Symbol": "PPC", "CompanyName": "Công ty Cổ phần Nhiệt điện Phả Lại", "CategoryName": "Năng lượng"}
+{"Symbol": "PPE", "CompanyName": "Công ty cổ phần Tư vấn Đầu tư PP Enterprise", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "PPH", "CompanyName": "Tổng Công ty Cổ phần Phong Phú", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "PPI", "CompanyName": "Công ty Cổ phần Đầu tư và Phát triển Dự án Hạ tầng Thái Bình Dương", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "PPP", "CompanyName": "Công ty Cổ phần Dược phẩm Phong Phú", "CategoryName": "Y tế"}
+{"Symbol": "PPS", "CompanyName": "Công ty Cổ phần Dịch vụ Kỹ thuật Điện lực Dầu khí Việt Nam", "CategoryName": "Công nghiệp"}
+{"Symbol": "PPT", "CompanyName": "Công ty cổ phần Petro Times", "CategoryName": "Năng lượng"}
+{"Symbol": "PPY", "CompanyName": "Công ty cổ phần Xăng dầu Dầu khí Phú Yên", "CategoryName": "Năng lượng"}
+{"Symbol": "PQG", "CompanyName": "CTCP Đầu tư vàng Phú Quý", "CategoryName": "Dịch vụ"}
+{"Symbol": "PQN", "CompanyName": "Công ty cổ phần Dịch vụ Dầu khí Quảng Ngãi PTSC", "CategoryName": "Năng lượng"}
+{"Symbol": "PRC", "CompanyName": "Công ty Cổ phần Logistics Portserco", "CategoryName": "Công nghiệp"}
+{"Symbol": "PRE", "CompanyName": "Tổng Công ty Cổ phần Tái bảo hiểm Hà Nội (Hanoi Re)", "CategoryName": "Tài chính"}
+{"Symbol": "PRO", "CompanyName": "Công ty Cổ phần Procimex Việt Nam", "CategoryName": "Nông nghiệp"}
+{"Symbol": "PRT", "CompanyName": "Tổng công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCP", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "PSB", "CompanyName": "Công ty cổ phần Đầu tư Dầu khí Sao Mai – Bến Đình", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "PSC", "CompanyName": "Công ty cổ phần Vận tải và Dịch vụ Petrolimex Sài Gòn", "CategoryName": "Năng lượng"}
+{"Symbol": "PSD", "CompanyName": "Công ty cổ phần Dịch vụ Phân phối Tổng hợp Dầu khí", "CategoryName": "Dịch vụ"}
+{"Symbol": "PSE", "CompanyName": "Công ty cổ phần Phân bón và Hóa chất Dầu khí Đông Nam Bộ", "CategoryName": "Nông nghiệp"}
+{"Symbol": "PSG", "CompanyName": "Công ty Cổ phần Đầu tư và Xây lắp Dầu khí Sài Gòn  ", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "PSH", "CompanyName": "Công ty cổ phần Thương mại Đầu tư Dầu khí Nam Sông Hậu", "CategoryName": "Năng lượng"}
+{"Symbol": "PSI", "CompanyName": "Công ty cổ phần Chứng khoán Dầu khí", "CategoryName": "Tài chính"}
+{"Symbol": "PSL", "CompanyName": "Công ty Cổ phần Chăn nuôi Phú Sơn", "CategoryName": "Nông nghiệp"}
+{"Symbol": "PSN", "CompanyName": "Công ty Cổ phần Dịch vụ Kỹ thuật PTSC Thanh Hóa", "CategoryName": "Năng lượng"}
+{"Symbol": "PSP", "CompanyName": "Công ty Cổ phần Cảng dịch vụ Dầu khí Đình Vũ", "CategoryName": "Công nghiệp"}
+{"Symbol": "PSW", "CompanyName": "Công ty cổ phần Phân bón và Hóa chất Dầu khí Tây Nam Bộ", "CategoryName": "Nông nghiệp"}
+{"Symbol": "PTB", "CompanyName": "Công ty Cổ phần Phú Tài", "CategoryName": "Dịch vụ"}
+{"Symbol": "PTC", "CompanyName": "Công ty Cổ phần Đầu tư ICapital", "CategoryName": "Công nghiệp"}
+{"Symbol": "PTD", "CompanyName": "CTCP Thiết kế - Xây dựng - Thương mại Phúc Thịnh", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "PTE", "CompanyName": "Công ty Cổ phần Xi măng Phú Thọ", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "PTG", "CompanyName": "Công ty Cổ phần May Xuất khẩu Phan Thiết", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "PTH", "CompanyName": "Công ty Cổ phần Vận tải và Dịch vụ Petrolimex Hà Tây", "CategoryName": "Năng lượng"}
+{"Symbol": "PTI", "CompanyName": "Tổng Công ty Cổ phần Bảo hiểm Bưu điện ", "CategoryName": "Tài chính"}
+{"Symbol": "PTL", "CompanyName": "Công ty Cổ phần Victory Capital", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "PTN", "CompanyName": "Công ty cổ phần Phát triển Nhà Khánh Hòa", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "PTO", "CompanyName": "Công ty Cổ phần Dịch vụ - Xây dựng Công trình Bưu điện", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "PTP", "CompanyName": "Công ty Cổ phần Dịch vụ Viễn thông và In Bưu điện", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "PTS", "CompanyName": "Công ty Cổ phần Vận tải và Dịch vụ Petrolimex Hải Phòng", "CategoryName": "Năng lượng"}
+{"Symbol": "PTT", "CompanyName": "Công ty Cổ phần Vận tải Dầu khí Đông Dương", "CategoryName": "Năng lượng"}
+{"Symbol": "PTV", "CompanyName": "Công ty cổ phần Thương mại Dầu khí", "CategoryName": "Năng lượng"}
+{"Symbol": "PV2", "CompanyName": "Công ty cổ phần Đầu tư PV2", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "PVA", "CompanyName": "Công ty Cổ phần Tổng Công ty Xây lắp Dầu khí Nghệ An", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "PVB", "CompanyName": "Công ty cổ phần Bọc ống Dầu khí Việt Nam", "CategoryName": "Công nghiệp"}
+{"Symbol": "PVC", "CompanyName": "Tổng Công ty Hóa chất và Dịch vụ Dầu khí - CTCP", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "PVD", "CompanyName": "Tổng Công ty Cổ phần Khoan và Dịch vụ Khoan Dầu khí", "CategoryName": "Năng lượng"}
+{"Symbol": "PVE", "CompanyName": "Tổng Công ty Tư vấn Thiết kế Dầu khí-CTCP", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "PVG", "CompanyName": "Công ty Cổ phần Kinh doanh LPG Việt Nam", "CategoryName": "Năng lượng"}
+{"Symbol": "PVH", "CompanyName": "Công ty cổ phần Xây lắp dầu khí Thanh Hóa", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "PVI", "CompanyName": "Công ty Cổ phần PVI", "CategoryName": "Dịch vụ"}
+{"Symbol": "PVL", "CompanyName": "Công ty cổ phần Đầu tư Nhà đất Việt", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "PVM", "CompanyName": "Công ty Cổ phần Máy - Thiết bị Dầu khí", "CategoryName": "Năng lượng"}
+{"Symbol": "PVN", "CompanyName": "Tập đoàn Dầu khí Việt Nam", "CategoryName": "Năng lượng"}
+{"Symbol": "PVO", "CompanyName": "CTCP Dầu nhờn PV Oil", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "PVP", "CompanyName": "Công ty Cổ phần Vận tải dầu khí Thái Bình Dương", "CategoryName": "Năng lượng"}
+{"Symbol": "PVR", "CompanyName": "Công ty Cổ phần đầu tư PVR Hà Nội", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "PVS", "CompanyName": "Tổng Công ty Cổ phần Dịch vụ Kỹ thuật Dầu khí Việt Nam", "CategoryName": "Năng lượng"}
+{"Symbol": "PVT", "CompanyName": "Tổng công ty Cổ phần Vận tải Dầu khí", "CategoryName": "Năng lượng"}
+{"Symbol": "PVV", "CompanyName": "Công ty Cổ phần Vinaconex 39", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "PVX", "CompanyName": "Tổng Công ty cổ phần Xây lắp Dầu khí Việt Nam", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "PVY", "CompanyName": "Công ty Cổ phần Chế tạo Giàn khoan Dầu khí", "CategoryName": "Công nghiệp"}
+{"Symbol": "PWA", "CompanyName": "Công ty Cổ phần Bất động sản Dầu khí", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "PWS", "CompanyName": "Công ty Cổ phần Cấp thoát nước Phú Yên", "CategoryName": "Dịch vụ"}
+{"Symbol": "PX1", "CompanyName": "Công ty cổ phần Xi măng Sông Lam 2", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "PXA", "CompanyName": "Công ty cổ phần Đầu tư & Thương mại Dầu khí Nghệ A", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "PXC", "CompanyName": "Công ty cổ phần Phát triển đô thị Dầu khí", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "PXI", "CompanyName": "Công ty Cổ phần Xây dựng công nghiệp và dân dụng Dầu khí", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "PXL", "CompanyName": "Tổng Công ty cổ phần Đầu tư và Phát triển KCN Dầu khí-Long Sơn", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "PXM", "CompanyName": "Công ty Cổ phần Xây lắp Dầu khí Miền Trung", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "PXS", "CompanyName": "Công ty Cổ phần Kết cấu Kim loại và Lắp máy Dầu khí", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "PXT", "CompanyName": "Công ty Cổ phần Xây lắp Đường ống Bể chứa Dầu khí", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "QBS", "CompanyName": "Công ty Cổ phần Xuất nhập khẩu Quảng Bình", "CategoryName": "Nông nghiệp"}
+{"Symbol": "QCC", "CompanyName": "CTCP Đầu tư Xây dựng và Phát triển Hạ tầng Viễn thông", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "QCG", "CompanyName": "Công ty Cổ phần Quốc Cường Gia Lai", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "QHD", "CompanyName": "Công ty Cổ phần Que hàn điện Việt Đức", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "QHW", "CompanyName": "CTCP Nước khoáng Quảng Ninh", "CategoryName": "Dịch vụ"}
+{"Symbol": "QNC", "CompanyName": "Công ty Cổ phần Xi măng và Xây dựng Quảng Ninh", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "QNP", "CompanyName": "Công ty Cổ phần Cảng Quy Nhơn", "CategoryName": ""}
+{"Symbol": "QNS", "CompanyName": "Công ty Cổ phần Đường Quảng Ngãi", "CategoryName": "Nông nghiệp"}
+{"Symbol": "QNT", "CompanyName": "Công ty cổ phần Tư vấn và Đầu tư Phát triển Quảng Nam", "CategoryName": ""}
+{"Symbol": "QNU", "CompanyName": "Công ty Cổ phần Môi trường Đô thị Quảng Nam", "CategoryName": "Dịch vụ"}
+{"Symbol": "QNW", "CompanyName": "CTCP Cấp thoát nước và Xây dựng Quảng Ngãi", "CategoryName": "Công nghiệp"}
+{"Symbol": "QPH", "CompanyName": "Công ty Cổ phần Thủy điện Quế Phong", "CategoryName": "Năng lượng"}
+{"Symbol": "QSP", "CompanyName": "Công ty cổ phần Tân Cảng Quy Nhơn", "CategoryName": "Công nghiệp"}
+{"Symbol": "QST", "CompanyName": "Công ty Cổ phần Sách và Thiết bị trường học Quảng Ninh", "CategoryName": "Dịch vụ"}
+{"Symbol": "QTC", "CompanyName": "Công ty Cổ phần Công trình Giao thông Vận tải Quảng Nam", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "QTP", "CompanyName": "Công ty Cổ phần Nhiệt điện Quảng Ninh", "CategoryName": "Năng lượng"}
+{"Symbol": "RAL", "CompanyName": "Công ty Cổ phần Bóng đèn Phích nước Rạng Đông", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "RAT", "CompanyName": "CTCP Vận tải và Thương mại Đường sắt", "CategoryName": "Công nghiệp"}
+{"Symbol": "RBC", "CompanyName": "CTCP Công nghiệp và Xuất nhập khẩu Cao Su", "CategoryName": "Nông nghiệp"}
+{"Symbol": "RCC", "CompanyName": "Công ty Cổ phần Tổng công ty Công trình đường sắt", "CategoryName": "Công nghiệp"}
+{"Symbol": "RCD", "CompanyName": "Công ty cổ phần Xây dựng - Địa ốc Cao su", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "RCL", "CompanyName": "Công ty Cổ phần Địa ốc Chợ Lớn", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "RDP", "CompanyName": "Công ty Cổ phần Rạng Đông Holding", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "REE", "CompanyName": "Công ty Cổ phần Cơ điện lạnh", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "RGC", "CompanyName": "Công ty cổ phần Đầu tư PV - Inconess", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "RIC", "CompanyName": "Công ty Cổ phần Quốc tế Hoàng Gia", "CategoryName": "Dịch vụ"}
+{"Symbol": "RTB", "CompanyName": "Công ty cổ phần Cao su Tân Biên", "CategoryName": "Nông nghiệp"}
+{"Symbol": "RTD", "CompanyName": "CTCP Phát triển công nghệ nông thôn", "CategoryName": "Nông nghiệp"}
+{"Symbol": "S12", "CompanyName": "Công ty Cổ phần Sông Đà 12", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "S27", "CompanyName": "Công ty cổ phần Sông Đà 27", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "S4A", "CompanyName": "Công ty Cổ phần Thủy điện Sê San 4A", "CategoryName": "Năng lượng"}
+{"Symbol": "S55", "CompanyName": "Công ty Cổ phần Sông Đà 505", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "S72", "CompanyName": "Công ty Cổ phần Sông Đà 7.02", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "S74", "CompanyName": "Công ty Cổ phần Sông Đà 7.04", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "S99", "CompanyName": "Công ty Cổ phần SCI", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "SAB", "CompanyName": "Tổng CTCP Bia - Rượu - Nước giải khát Sài Gòn", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "SAC", "CompanyName": "Công ty Cổ phần Xếp dỡ và Dịch vụ Cảng Sài Gòn", "CategoryName": "Công nghiệp"}
+{"Symbol": "SAF", "CompanyName": "Công ty Cổ phần Lương thực Thực phẩm Safoco", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "SAL", "CompanyName": "Công ty Cổ phần Trục vớt cứu hộ Việt Nam", "CategoryName": "Công nghiệp"}
+{"Symbol": "SAM", "CompanyName": "Công ty Cổ phần SAM Holdings", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "SAP", "CompanyName": "Công ty Cổ phần In Sách giáo khoa tại Tp.Hồ Chí Minh", "CategoryName": "Dịch vụ"}
+{"Symbol": "SAS", "CompanyName": "CTCP Dịch vụ Hàng không Sân bay Tân Sơn Nhất", "CategoryName": "Công nghiệp"}
+{"Symbol": "SAV", "CompanyName": "Công ty Cổ phần Hợp tác kinh tế và Xuất nhập khẩu SAVIMEX", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "SB1", "CompanyName": "Công ty cổ phần Bia Sài Gòn - Nghệ Tĩnh", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "SBA", "CompanyName": "Công ty Cổ phần Sông Ba", "CategoryName": "Năng lượng"}
+{"Symbol": "SBB", "CompanyName": "Công ty cổ phần Tập đoàn Bia Sài Gòn Bình Tây", "CategoryName": null}
+{"Symbol": "SBD", "CompanyName": "Công ty Cổ phần Công nghệ Sao Bắc Đẩu", "CategoryName": "Công nghệ"}
+{"Symbol": "SBF", "CompanyName": "Công ty Cổ phần Quản lý quỹ Sabeco", "CategoryName": ""}
+{"Symbol": "SBG", "CompanyName": "Công ty Cổ phần Tập đoàn Cơ khí Công nghệ cao SIBA", "CategoryName": null}
+{"Symbol": "SBH", "CompanyName": "Công ty cổ phần Thủy điện Sông Ba Hạ", "CategoryName": "Năng lượng"}
+{"Symbol": "SBL", "CompanyName": "Công ty Cổ phần Bia Sài Gòn - Bạc Liêu", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "SBM", "CompanyName": "Công ty Cổ phần Đầu tư Phát triển Bắc Minh", "CategoryName": "Năng lượng"}
+{"Symbol": "SBR", "CompanyName": "Công ty cổ phần Cao su Sông Bé", "CategoryName": "Nông nghiệp"}
+{"Symbol": "SBS", "CompanyName": "Công ty Cổ phần Chứng khoán SBS", "CategoryName": "Tài chính"}
+{"Symbol": "SBT", "CompanyName": "Công ty cổ phần Thành Thành Công - Biên Hòa", "CategoryName": "Nông nghiệp"}
+{"Symbol": "SBV", "CompanyName": "CTCP Siam Brothers Việt Nam", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "SC5", "CompanyName": "Công ty Cổ phần Xây dựng số 5 ", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "SCB", "CompanyName": "Ngân hàng Thương mại Cổ phần Sài Gòn", "CategoryName": "Tài chính"}
+{"Symbol": "SCC", "CompanyName": "Công ty Cổ phần Đầu tư Thương mại Hưng Long tỉnh Hòa Bình", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "SCD", "CompanyName": "Công ty Cổ phần Nước giải khát Chương Dương", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "SCG", "CompanyName": "Công ty cổ phần Tập đoàn Xây dựng SCG", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "SCI", "CompanyName": "Công ty Cổ phần SCI E&C", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "SCJ", "CompanyName": "Công ty Cổ phần Xi măng Sài Sơn", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "SCL", "CompanyName": "Công ty Cổ phần Sông Đà Cao Cường", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "SCO", "CompanyName": "Công ty Cổ phần Công nghiệp Thủy sản", "CategoryName": "Nông nghiệp"}
+{"Symbol": "SCR", "CompanyName": "Công ty Cổ phần Địa ốc Sài Gòn Thương Tín", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "SCS", "CompanyName": "Công ty cổ phần Dịch vụ Hàng hóa Sài Gòn", "CategoryName": "Dịch vụ"}
+{"Symbol": "SCY", "CompanyName": "Công ty Cổ phần Đóng tàu Sông Cấm", "CategoryName": "Công nghiệp"}
+{"Symbol": "SD2", "CompanyName": "Công ty Cổ phần Sông Đà 2", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "SD3", "CompanyName": "Công ty Cổ phần Sông Đà 3", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "SD4", "CompanyName": "Công ty Cổ phần Sông Đà 4", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "SD5", "CompanyName": "Công ty Cổ phần Sông Đà 5", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "SD7", "CompanyName": "Công ty Cổ phần Sông Đà 7", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "SD9", "CompanyName": "Công ty Cổ phần Sông Đà 9", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "SDA", "CompanyName": "Công ty Cổ phần Simco Sông Đà", "CategoryName": "Dịch vụ"}
+{"Symbol": "SDC", "CompanyName": "Công ty Cổ phần Tư vấn Sông Đà", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "SDD", "CompanyName": "Công ty Cổ phần Đầu tư và Xây lắp Sông Đà", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "SDG", "CompanyName": "Công ty Cổ phần Sadico Cần Thơ", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "SDJ", "CompanyName": "Công ty Cổ phần Sông Đà 25", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "SDK", "CompanyName": "Công ty Cổ phần Cơ khí Luyện kim", "CategoryName": "Công nghệ"}
+{"Symbol": "SDN", "CompanyName": "Công ty Cổ phần Sơn Đồng Nai", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "SDP", "CompanyName": "Công ty cổ phần SDP", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "SDT", "CompanyName": "Công ty Cổ phần Sông Đà 10", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "SDU", "CompanyName": "Công ty Cổ phần Đầu tư Xây dựng và Phát triển Đô thị Sông Đà", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "SDV", "CompanyName": "Công ty Cổ phần Dịch vụ Sonadezi", "CategoryName": "Dịch vụ"}
+{"Symbol": "SDY", "CompanyName": "Công ty Cổ phần Xi măng Sông Đà Yaly", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "SEA", "CompanyName": "Tổng công ty Thủy sản Việt Nam – CTCP", "CategoryName": "Nông nghiệp"}
+{"Symbol": "SEB", "CompanyName": "Công ty Cổ phần Đầu tư và Phát triển Điện miền Trung", "CategoryName": "Năng lượng"}
+{"Symbol": "SED", "CompanyName": "Công ty Cổ phần Đầu tư và Phát triển giáo dục Phương Nam", "CategoryName": "Dịch vụ"}
+{"Symbol": "SEP", "CompanyName": "Công ty Cổ phần Tổng Công ty Thương mại Quảng Trị", "CategoryName": "Dịch vụ"}
+{"Symbol": "SEV", "CompanyName": "Công ty TNHH Samsung Electronics Việt Nam", "CategoryName": "Công nghệ"}
+{"Symbol": "SFC", "CompanyName": "Công ty Cổ phần Nhiên liệu Sài Gòn", "CategoryName": "Năng lượng"}
+{"Symbol": "SFG", "CompanyName": "Công ty Cổ phần Phân bón Miền Nam", "CategoryName": "Nông nghiệp"}
+{"Symbol": "SFI", "CompanyName": "Công ty Cổ phần Đại lý Vận tải SAFI", "CategoryName": "Công nghiệp"}
+{"Symbol": "SFN", "CompanyName": "Công ty Cổ phần Dệt lưới Sài Gòn", "CategoryName": "Nông nghiệp"}
+{"Symbol": "SGB", "CompanyName": "Ngân hàng TMCP Sài Gòn Công thương", "CategoryName": "Tài chính"}
+{"Symbol": "SGC", "CompanyName": "Công ty Cổ phần Xuất nhập khẩu Sa Giang ", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "SGD", "CompanyName": "Công ty cổ phần Sách Giáo dục tại T.P Hồ Chí Minh", "CategoryName": "Dịch vụ"}
+{"Symbol": "SGH", "CompanyName": "Công ty Cổ phần Khách sạn Sài Gòn", "CategoryName": "Dịch vụ"}
+{"Symbol": "SGI", "CompanyName": "Công ty cổ phần Đầu tư phát triển Sài Gòn 3 Group", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "SGN", "CompanyName": "Công ty cổ phần Phục vụ Mặt đất Sài Gòn ", "CategoryName": "Công nghiệp"}
+{"Symbol": "SGP", "CompanyName": "Công ty Cổ phần Cảng Sài Gòn", "CategoryName": "Công nghiệp"}
+{"Symbol": "SGR", "CompanyName": "Tổng Công ty cổ phần Địa ốc Sài Gòn", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "SGS", "CompanyName": "Công ty Cổ phần Vận tải biển Sài Gòn", "CategoryName": "Công nghiệp"}
+{"Symbol": "SGT", "CompanyName": "Công ty Cổ phần Công nghệ Viễn thông Sài Gòn", "CategoryName": "Công nghệ"}
+{"Symbol": "SHA", "CompanyName": "Công ty Cổ phần Sơn Hà Sài Gòn", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "SHB", "CompanyName": "Ngân hàng Thương mại cổ phần Sài Gòn - Hà Nội", "CategoryName": "Tài chính"}
+{"Symbol": "SHC", "CompanyName": "Công ty Cổ phần Hàng Hải Sài Gòn", "CategoryName": "Công nghiệp"}
+{"Symbol": "SHE", "CompanyName": "Công ty Cổ phần Phát triển năng lượng Sơn Hà", "CategoryName": "Năng lượng"}
+{"Symbol": "SHF", "CompanyName": "Công ty cổ phần Quản lý quỹ Đầu tư Sài Gòn - Hà Nội", "CategoryName": "Tài chính"}
+{"Symbol": "SHG", "CompanyName": "Tổng Công ty Cổ phần Sông Hồng", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "SHI", "CompanyName": "Công ty cổ phần Quốc tế Sơn Hà", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "SHN", "CompanyName": "Công ty Cổ phần Đầu tư Tổng hợp Hà Nội", "CategoryName": "Tài chính"}
+{"Symbol": "SHP", "CompanyName": "Công ty cổ phần Thủy điện Miền Nam", "CategoryName": "Năng lượng"}
+{"Symbol": "SHS", "CompanyName": "Công ty Cổ phần Chứng Khoán Sài Gòn Hà Nội", "CategoryName": "Tài chính"}
+{"Symbol": "SHX", "CompanyName": "Công ty cổ phần Sài Gòn Hỏa xa", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "SIC", "CompanyName": "Công ty cổ phần ANI", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "SID", "CompanyName": "Công ty Cổ phần Đầu tư Phát triển Sài Gòn Co.op", "CategoryName": "Dịch vụ"}
+{"Symbol": "SIG", "CompanyName": "CTCP Đầu tư và Thương mại Sông Đà", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "SII", "CompanyName": "Công ty cổ phần Hạ tầng nước Sài Gòn", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "SIP", "CompanyName": "Công ty cổ phần Đầu tư Sài Gòn VRG", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "SIV", "CompanyName": "Công ty Cổ phần SIVICO", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "SJ1", "CompanyName": "Công ty cổ phần Nông nghiệp Hùng Hậu", "CategoryName": "Nông nghiệp"}
+{"Symbol": "SJC", "CompanyName": "Công ty Cổ phần Sông Đà 1.01", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "SJD", "CompanyName": "Công ty Cổ phần Thủy điện Cần Đơn", "CategoryName": "Năng lượng"}
+{"Symbol": "SJE", "CompanyName": "Công ty Cổ phần Sông Đà 11", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "SJF", "CompanyName": "CTCP Đầu tư Sao Thái Dương", "CategoryName": "Nông nghiệp"}
+{"Symbol": "SJG", "CompanyName": "Tổng Công ty Sông Đà - Công ty cổ phần", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "SJM", "CompanyName": "Công ty Cổ phần Sông Đà 19", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "SJS", "CompanyName": "Công ty Cổ phần SJ Group", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "SKG", "CompanyName": "Công ty Cổ phần Tàu cao tốc Superdong – Kiên Giang", "CategoryName": "Công nghiệp"}
+{"Symbol": "SKH", "CompanyName": "Công ty cổ phần Nước giải khát Sanest Khánh Hòa", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "SKN", "CompanyName": "CTCP Nước giải khát Sanna Khánh Hòa", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "SKV", "CompanyName": "Công ty Cổ phần Nước giải khát Yến sào Khánh Hòa", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "SLD", "CompanyName": "Công ty Cổ phần Địa ốc Sacom", "CategoryName": ""}
+{"Symbol": "SLS", "CompanyName": "Công ty cổ phần Mía đường Sơn La", "CategoryName": "Nông nghiệp"}
+{"Symbol": "SMA", "CompanyName": "Công ty Cổ phần Thiết bị Phụ tùng Sài Gòn", "CategoryName": "Dịch vụ"}
+{"Symbol": "SMB", "CompanyName": "Công ty Cổ phần Bia Sài Gòn - Miền Trung", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "SMC", "CompanyName": "Công ty Cổ phần Ðầu tư Thương mại SMC", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "SMN", "CompanyName": "Công ty Cổ phần Sách và Thiết bị Giáo dục Miền Nam", "CategoryName": "Dịch vụ"}
+{"Symbol": "SMT", "CompanyName": "Công ty cổ phần SAMETEL", "CategoryName": "Công nghệ"}
+{"Symbol": "SNC", "CompanyName": "Công ty Cổ phần Xuất nhập khẩu Thuỷ sản Năm Căn", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "SNP", "CompanyName": "Công ty TNHH MTV - Tổng Công ty Tân Cảng Sài Gòn", "CategoryName": "Công nghiệp"}
+{"Symbol": "SNZ", "CompanyName": "Tổng Công ty Cổ phần phát triển khu Công nghiệp", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "SP2", "CompanyName": "Công ty cổ phần Thủy điện Sử Pán 2", "CategoryName": "Năng lượng"}
+{"Symbol": "SPB", "CompanyName": "Công ty cổ phần Sợi Phú Bài", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "SPC", "CompanyName": "Công ty Cổ phần Bảo vệ Thực vật Sài Gòn", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "SPD", "CompanyName": "Công ty Cổ phần Xuất nhập khẩu Thủy sản Miền Trung", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "SPH", "CompanyName": "Công ty cổ phần Xuất nhập khẩu Thủy sản Hà Nội", "CategoryName": "Nông nghiệp"}
+{"Symbol": "SPI", "CompanyName": "Công ty cổ phần Spiral Galaxy", "CategoryName": "Công nghiệp"}
+{"Symbol": "SPM", "CompanyName": "Công ty Cổ phần S.P.M", "CategoryName": "Y tế"}
+{"Symbol": "SPT", "CompanyName": "Công ty cổ phần Dịch vụ Bưu chính Viễn thông Sài Gòn", "CategoryName": ""}
+{"Symbol": "SPV", "CompanyName": "Công ty cổ phần Thủy Đặc Sản", "CategoryName": "Nông nghiệp"}
+{"Symbol": "SQC", "CompanyName": "Công ty Cổ phần Khoáng sản Sài Gòn - Quy Nhơn", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "SRA", "CompanyName": "Công ty Cổ phần Sara Việt Nam", "CategoryName": "Công nghệ"}
+{"Symbol": "SRB", "CompanyName": "Công ty Cổ phần Tập đoàn Sara", "CategoryName": "Công nghệ"}
+{"Symbol": "SRC", "CompanyName": "Công ty Cổ phần Cao Su Sao Vàng", "CategoryName": "Công nghiệp"}
+{"Symbol": "SRF", "CompanyName": "Công ty Cổ phần SEAREFICO", "CategoryName": "Công nghiệp"}
+{"Symbol": "SRT", "CompanyName": "Công ty Cổ phần Vận tải Đường sắt Sài Gòn", "CategoryName": "Công nghiệp"}
+{"Symbol": "SSB", "CompanyName": "Ngân hàng Thương mại cổ phần Đông Nam Á", "CategoryName": "Tài chính"}
+{"Symbol": "SSC", "CompanyName": "Công ty Cổ phần Giống cây trồng Miền Nam ", "CategoryName": "Nông nghiệp"}
+{"Symbol": "SSF", "CompanyName": "Công ty Cổ phần Giầy Sài Gòn", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "SSG", "CompanyName": "Công ty Cổ phần Vận tải biển Hải Âu", "CategoryName": "Công nghiệp"}
+{"Symbol": "SSH", "CompanyName": "Công ty cổ phần Phát triển Sunshine Homes", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "SSI", "CompanyName": "Công ty cổ phần Chứng khoán SSI", "CategoryName": "Tài chính"}
+{"Symbol": "SSM", "CompanyName": "Công ty Cổ phần Chế tạo Kết cấu Thép VNECO.SSM", "CategoryName": "Công nghiệp"}
+{"Symbol": "SSN", "CompanyName": "Công ty Cổ phần Xuất nhập khẩu Thủy sản Sài Gòn", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "ST8", "CompanyName": "Công ty Cổ phần Tập đoàn ST8", "CategoryName": "Dịch vụ"}
+{"Symbol": "STB", "CompanyName": "Ngân hàng Thương mại Cổ phần Sài Gòn Thương Tín", "CategoryName": "Tài chính"}
+{"Symbol": "STC", "CompanyName": "Công ty Cổ phần Sách và Thiết bị trường học Tp. Hồ Chí Minh", "CategoryName": "Dịch vụ"}
+{"Symbol": "STG", "CompanyName": "Công ty Cổ phần Kho vận Miền Nam", "CategoryName": "Công nghiệp"}
+{"Symbol": "STH", "CompanyName": "CTCP Phát hành sách Thái Nguyên", "CategoryName": "Dịch vụ"}
+{"Symbol": "STJ", "CompanyName": "Công ty Cổ phần Vận tải Sonadezi", "CategoryName": ""}
+{"Symbol": "STK", "CompanyName": "Công ty cổ phần Sợi Thế Kỷ", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "STP", "CompanyName": "Công ty Cổ phần Công nghiệp Thương mại Sông Đà", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "STS", "CompanyName": "Công ty Cổ phần Dịch vụ Vận tải Sài Gòn", "CategoryName": "Công nghiệp"}
+{"Symbol": "STT", "CompanyName": "Công ty cổ phần Vận chuyển Sài Gòn Tourist", "CategoryName": "Công nghiệp"}
+{"Symbol": "STW", "CompanyName": "Công ty cổ phần Cấp nước Sóc Trăng", "CategoryName": "Dịch vụ"}
+{"Symbol": "SVC", "CompanyName": "Công ty Cổ phần Dịch vụ tổng hợp Sài Gòn", "CategoryName": "Dịch vụ"}
+{"Symbol": "SVD", "CompanyName": "Công ty Cổ phần Đầu tư và Thương mại Vũ Đăng", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "SVG", "CompanyName": "CTCP Hơi Kỹ nghệ Que hàn", "CategoryName": "Công nghiệp"}
+{"Symbol": "SVH", "CompanyName": "Công ty Cổ phần Thủy điện Sông Vàng", "CategoryName": "Năng lượng"}
+{"Symbol": "SVI", "CompanyName": "Công ty Cổ phần Bao bì Biên Hòa", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "SVJ", "CompanyName": "CTCP Santomas Việt Nam", "CategoryName": ""}
+{"Symbol": "SVN", "CompanyName": "Công ty cổ phần Tập đoàn Vexilla Việt Nam", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "SVT", "CompanyName": "Công ty Cổ phần Công nghệ Sài Gòn Viễn Đông", "CategoryName": "Dịch vụ"}
+{"Symbol": "SWC", "CompanyName": "Tổng Công ty Cổ phần Đường Sông Miền Nam", "CategoryName": "Công nghiệp"}
+{"Symbol": "SZB", "CompanyName": "Công ty cổ phần Sonadezi Long Bình", "CategoryName": "Công nghiệp"}
+{"Symbol": "SZC", "CompanyName": "Công ty cổ phần Sonadezi Châu Đức", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "SZE", "CompanyName": "Công ty Cổ phần Môi trường Sonadezi", "CategoryName": "Dịch vụ"}
+{"Symbol": "SZG", "CompanyName": "Công ty cổ phần Sonadezi Giang Điền", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "SZL", "CompanyName": "Công ty cổ phần Sonadezi Long Thành", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "TA3", "CompanyName": "Công ty Cổ phần Đầu tư và Xây lắp Thành An 386", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "TA6", "CompanyName": "Công ty Cổ phần Đầu tư và Xây lắp Thành An 665", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "TA9", "CompanyName": "Công ty Cổ phần Xây lắp Thành An 96", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "TAB", "CompanyName": "Công ty cổ phần Freco Việt Nam", "CategoryName": null}
+{"Symbol": "TAL", "CompanyName": "Công ty cổ phần Đầu tư Bất động sản Taseco", "CategoryName": null}
+{"Symbol": "TAN", "CompanyName": "Công ty cổ phần Cà phê Thuận An", "CategoryName": "Nông nghiệp"}
+{"Symbol": "TAR", "CompanyName": "Công ty Cổ phần Nông nghiệp Công nghệ cao Trung An", "CategoryName": "Nông nghiệp"}
+{"Symbol": "TAW", "CompanyName": "Công ty cổ phần Cấp nước Trung An", "CategoryName": "Dịch vụ"}
+{"Symbol": "TB8", "CompanyName": "CTCP Sản xuất và Kinh doanh Vật tư Thiết bị - VVMI", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "TBC", "CompanyName": "Công ty cổ phần Thủy điện Thác Bà", "CategoryName": "Năng lượng"}
+{"Symbol": "TBD", "CompanyName": "Tổng Công ty Thiết bị Điện Đông Anh - Công ty Cổ phần", "CategoryName": "Năng lượng"}
+{"Symbol": "TBH", "CompanyName": "CTCP Tổng Bách Hóa", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "TBR", "CompanyName": "Công ty Cổ phần Địa ốc Tân Bình", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "TBW", "CompanyName": "Công ty cổ phần Nước sạch Thái Binh", "CategoryName": null}
+{"Symbol": "TBX", "CompanyName": "Công ty Cổ phần Xi măng Thái Bình", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "TC6", "CompanyName": "Công ty cổ phần Than Cọc Sáu - Vinacomin", "CategoryName": "Năng lượng"}
+{"Symbol": "TCB", "CompanyName": "Ngân hàng TMCP Kỹ Thương Việt Nam (Techcombank)", "CategoryName": "Tài chính"}
+{"Symbol": "TCD", "CompanyName": "Công ty Cổ phần Tập đoàn Xây dựng Tracodi", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "TCH", "CompanyName": "Công ty cổ phần Đầu tư Dịch vụ Tài chính Hoàng Huy", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "TCI", "CompanyName": "Công ty cổ phần Chứng khoán Thành Công", "CategoryName": "Tài chính"}
+{"Symbol": "TCJ", "CompanyName": "Công ty cổ phần Tô Châu", "CategoryName": "Nông nghiệp"}
+{"Symbol": "TCK", "CompanyName": "Tổng công ty cơ khí xây dựng - CTCP", "CategoryName": "Công nghiệp"}
+{"Symbol": "TCL", "CompanyName": "Công ty Cổ phần Đại lý Giao nhận Vận tải Xếp dỡ Tân Cảng", "CategoryName": "Công nghiệp"}
+{"Symbol": "TCM", "CompanyName": "Công ty Cổ phần Dệt may - Đầu tư - Thương mại Thành Công", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "TCO", "CompanyName": "Công ty Cổ phần TCO Holdings", "CategoryName": "Công nghiệp"}
+{"Symbol": "TCR", "CompanyName": "Công ty Cổ phần Công nghiệp Gốm sứ Taicera", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "TCT", "CompanyName": "Công ty Cổ phần Cáp treo Núi Bà Tây Ninh", "CategoryName": "Dịch vụ"}
+{"Symbol": "TCW", "CompanyName": "Công ty cổ phần Kho vận Tân Cảng", "CategoryName": "Công nghiệp"}
+{"Symbol": "TDB", "CompanyName": "Công ty Cổ phần Thủy điện Định Bình", "CategoryName": "Năng lượng"}
+{"Symbol": "TDC", "CompanyName": "Công ty Cổ phần Kinh doanh và Phát triển Bình Dương", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "TDF", "CompanyName": "Công ty Cổ phần Trung Đô", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "TDG", "CompanyName": "Công ty Cổ phần Đầu tư TDG Global", "CategoryName": "Năng lượng"}
+{"Symbol": "TDH", "CompanyName": "Công ty Cổ phần Phát triển Nhà Thủ Đức", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "TDI", "CompanyName": "CTCP Tập đoàn TDI ", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "TDL", "CompanyName": "CTCP Da Tây Đô ", "CategoryName": ""}
+{"Symbol": "TDM", "CompanyName": "Công ty cổ phần Nước Thủ Dầu Một", "CategoryName": "Dịch vụ"}
+{"Symbol": "TDN", "CompanyName": "Công ty Cổ phần Than Đèo Nai - Vinacomin", "CategoryName": "Năng lượng"}
+{"Symbol": "TDP", "CompanyName": "Công ty cổ phần Thuận Đức", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "TDS", "CompanyName": "Công ty cổ phần Thép Thủ Đức - Vnsteel", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "TDT", "CompanyName": "Công ty cổ phần Đầu tư và Phát triển TDT", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "TDW", "CompanyName": "Công ty Cổ phần Cấp nước Thủ Đức", "CategoryName": "Dịch vụ"}
+{"Symbol": "TED", "CompanyName": "Tổng công ty Tư vấn thiết kế Giao thông vận tải - CTCP", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "TEG", "CompanyName": "Công ty cổ phần Năng lượng và Bất động sản Trường Thành", "CategoryName": "Năng lượng"}
+{"Symbol": "TEL", "CompanyName": "Công ty Cổ phần Phát triển Công trình Viễn thông", "CategoryName": "Viễn thông"}
+{"Symbol": "TET", "CompanyName": "Công ty Cổ phần Vải sợi May mặc Miền Bắc", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "TFC", "CompanyName": "Công ty Cổ phần Trang", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "TGP", "CompanyName": "Công ty Cổ phần Trường Phú", "CategoryName": "Công nghệ"}
+{"Symbol": "TH1", "CompanyName": "Công ty Cổ phần Xuất nhập khẩu Tổng hợp I Việt Nam", "CategoryName": "Dịch vụ"}
+{"Symbol": "THA", "CompanyName": "CÔNG TY CỔ PHẦN TẬP ĐOÀN TRƯỜNG HẢI", "CategoryName": "Công nghiệp"}
+{"Symbol": "THB", "CompanyName": "Công ty cổ phần Bia Hà Nội - Thanh Hóa", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "THD", "CompanyName": "Công ty Cổ phần Thaiholdings", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "THG", "CompanyName": "Công ty Cổ phần Đầu tư và Xây dựng Tiền Giang", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "THM", "CompanyName": "Công ty cổ phần Tứ Hải Hà Nam", "CategoryName": null}
+{"Symbol": "THN", "CompanyName": "Công ty Cổ phần Cấp nước Thanh Hóa", "CategoryName": "Dịch vụ"}
+{"Symbol": "THP", "CompanyName": "CTCP Thủy sản và Thương mại Thuận Phước", "CategoryName": "Nông nghiệp"}
+{"Symbol": "THS", "CompanyName": "Công ty cổ phần Thanh Hoa - Sông Đà", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "THT", "CompanyName": "Công ty cổ phần Than Hà Tu - Vinacomin", "CategoryName": "Năng lượng"}
+{"Symbol": "THU", "CompanyName": "Công ty Cổ phần Môi trường và Công trình Đô thị Thanh Hóa", "CategoryName": "Dịch vụ"}
+{"Symbol": "THW", "CompanyName": "Công ty cổ phần Cấp nước Tân Hòa", "CategoryName": "Dịch vụ"}
+{"Symbol": "TID", "CompanyName": "Công ty cổ phần Tổng công ty Tín Nghĩa", "CategoryName": "Nông nghiệp"}
+{"Symbol": "TIE", "CompanyName": "Công ty cổ phần TIE", "CategoryName": "Dịch vụ"}
+{"Symbol": "TIG", "CompanyName": "Công ty Cổ phần Tập đoàn Đầu tư Thăng Long", "CategoryName": "Tài chính"}
+{"Symbol": "TIP", "CompanyName": "Công ty cổ phần Phát triển Khu Công nghiệp Tín Nghĩa", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "TIS", "CompanyName": "Công ty cổ phần Gang thép Thái Nguyên", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "TIX", "CompanyName": "CTCP Sản xuất Kinh doanh Xuất nhập khẩu Dịch vụ và Đầu tư Tân Bình", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "TJC", "CompanyName": "Công ty cổ phần Dịch vụ Vận tải và Thương mại", "CategoryName": "Công nghiệp"}
+{"Symbol": "TKA", "CompanyName": "Công ty cổ phần Bao bì Tân Khánh An", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "TKC", "CompanyName": "Công  ty Cổ phần Xây dựng và Kinh doanh Địa ốc Tân Kỷ", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "TKG", "CompanyName": "CTCP Sản xuất và Thương mại Tùng Khánh", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "TKR", "CompanyName": "Công ty Cổ phần Cao su Tân Biên - Kampong Thom", "CategoryName": ""}
+{"Symbol": "TKU", "CompanyName": "Công ty Cổ phần Công nghiệp Tung Kuang", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "TL4", "CompanyName": "Tổng công ty Xây dựng Thủy lợi 4 - CTCP", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "TLD", "CompanyName": "Công ty Cổ phần Đầu tư Xây dựng và Phát triển Đô thị Thăng Long", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "TLG", "CompanyName": "Công ty Cổ phần Tập đoàn Thiên Long", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "TLH", "CompanyName": "Công ty Cổ phần Tập đoàn Thép Tiến Lên", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "TLI", "CompanyName": "Công ty cổ phần May Quốc tế Thắng Lợi", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "TLP", "CompanyName": "Tổng Công ty Thương mại Xuất nhập khẩu Thanh Lễ - CTCP", "CategoryName": "Năng lượng"}
+{"Symbol": "TLT", "CompanyName": "Công ty Cổ phần Viglacera Thăng Long", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "TMB", "CompanyName": "Công ty Cổ phần Kinh doanh than Miền Bắc - Vinacomin", "CategoryName": "Năng lượng"}
+{"Symbol": "TMC", "CompanyName": "Công ty Cổ phần Thương mại - Xuất nhập khẩu Thủ Đức", "CategoryName": "Dịch vụ"}
+{"Symbol": "TMG", "CompanyName": "Công ty Cổ phần Kim loại màu Thái Nguyên - Vimico", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "TMP", "CompanyName": "Công ty cổ phần Thủy điện Thác Mơ", "CategoryName": "Năng lượng"}
+{"Symbol": "TMS", "CompanyName": "Công ty Cổ phần Transimex", "CategoryName": "Công nghiệp"}
+{"Symbol": "TMT", "CompanyName": "Công ty Cổ phần Ô tô TMT", "CategoryName": "Công nghiệp"}
+{"Symbol": "TMW", "CompanyName": "Công ty Cổ phần Tổng hợp Gỗ Tân Mai", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "TMX", "CompanyName": "Công ty cổ phần VICEM Thương mại Xi măng", "CategoryName": "Dịch vụ"}
+{"Symbol": "TN1", "CompanyName": "Công ty Cổ phần Rox Key Holdings", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "TNA", "CompanyName": "Công ty Cổ phần Thương mại Xuất nhập khẩu Thiên Nam", "CategoryName": "Dịch vụ"}
+{"Symbol": "TNB", "CompanyName": "Công ty Cổ phần Thép Nhà Bè - VNSTEEL", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "TNC", "CompanyName": "Công ty Cổ phần Cao su Thống Nhất", "CategoryName": "Nông nghiệp"}
+{"Symbol": "TNG", "CompanyName": "Công ty Cổ phần Đầu tư và Thương mại TNG", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "TNH", "CompanyName": "Công ty Cổ phần Bệnh viện Quốc tế Thái Nguyên", "CategoryName": "Y tế"}
+{"Symbol": "TNI", "CompanyName": "Công ty cổ phần Tập đoàn Thành Nam", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "TNP", "CompanyName": "Công ty cổ phần Cảng Thị Nại", "CategoryName": "Công nghiệp"}
+{"Symbol": "TNS", "CompanyName": "Công ty Cổ phần Thép Tấm lá Thống Nhất", "CategoryName": "Công nghiệp"}
+{"Symbol": "TNT", "CompanyName": "Công ty Cổ phần Tập đoàn TNT", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "TNW", "CompanyName": "Công ty Cổ phần Nước sạch Thái Nguyên", "CategoryName": "Dịch vụ"}
+{"Symbol": "TOP", "CompanyName": "Công ty cổ phần Phân phối Top One", "CategoryName": "Dịch vụ"}
+{"Symbol": "TOS", "CompanyName": "Công ty cổ phần Dịch vụ biển Tân Cảng", "CategoryName": "Công nghiệp"}
+{"Symbol": "TOT", "CompanyName": "Công ty Cổ phần Transimex Logistics", "CategoryName": "Công nghiệp"}
+{"Symbol": "TOW", "CompanyName": "Công ty cổ phần Cấp nước Trà Nóc - Ô Môn", "CategoryName": "Dịch vụ"}
+{"Symbol": "TPB", "CompanyName": "Ngân hàng Thương mại cổ phần Tiên Phong", "CategoryName": "Tài chính"}
+{"Symbol": "TPC", "CompanyName": "Công ty Cổ phần Nhựa Tân Đại Hưng", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "TPH", "CompanyName": "Công ty Cổ phần In Sách giáo khoa tại T.P Hà Nội", "CategoryName": "Dịch vụ"}
+{"Symbol": "TPP", "CompanyName": "Công ty Cổ phần Tân Phú Việt Nam", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "TPS", "CompanyName": "Công ty cổ phần Bến bãi Vận tải Sài Gòn", "CategoryName": "Công nghiệp"}
+{"Symbol": "TQN", "CompanyName": "Công ty Cổ phần Thông Quảng Ninh", "CategoryName": "Doanh nghiệp Upcom"}
+{"Symbol": "TQW", "CompanyName": "CTCP Cấp thoát nước Tuyên Quang", "CategoryName": "Dịch vụ"}
+{"Symbol": "TR1", "CompanyName": "CTCP Vận tải 1 Traco", "CategoryName": "Công nghiệp"}
+{"Symbol": "TRA", "CompanyName": "Công ty Cổ phần TRAPHACO", "CategoryName": "Y tế"}
+{"Symbol": "TRC", "CompanyName": "Công ty Cổ phần Cao su Tây Ninh", "CategoryName": "Nông nghiệp"}
+{"Symbol": "TRS", "CompanyName": "Công ty cổ phần Vận tải và Dịch vụ Hàng hải", "CategoryName": "Công nghiệp"}
+{"Symbol": "TRT", "CompanyName": "Công ty Cổ phần RedstarCera", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "TS3", "CompanyName": "Công ty cổ phần Trường Sơn 532", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "TSA", "CompanyName": "Công ty Cổ phần Đầu tư và Xây lắp Trường Sơn", "CategoryName": null}
+{"Symbol": "TSB", "CompanyName": "Công ty Cổ phần Ắc quy Tia sáng ", "CategoryName": "Công nghiệp"}
+{"Symbol": "TSC", "CompanyName": "Công ty Cổ phần Vật tư kỹ thuật Nông nghiệp Cần Thơ", "CategoryName": "Nông nghiệp"}
+{"Symbol": "TSD", "CompanyName": "Công ty Cổ phần Du lịch Trường Sơn COECCO", "CategoryName": "Dịch vụ"}
+{"Symbol": "TSG", "CompanyName": "Công ty Cổ phần Thông tin Tín hiệu Đường sắt Sài Gòn", "CategoryName": "Công nghiệp"}
+{"Symbol": "TSH", "CompanyName": "Công ty Cổ phần Tiên Sơn Thanh Hóa", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "TSJ", "CompanyName": "Công ty Cổ phần Du lịch Dịch vụ Hà Nội", "CategoryName": "Dịch vụ"}
+{"Symbol": "TSS", "CompanyName": "Công ty Cổ phần Chứng khoán TRƯỜNG SƠN", "CategoryName": "Tài chính"}
+{"Symbol": "TST", "CompanyName": "Công ty Cổ phần Dịch vụ Kỹ thuật Viễn thông", "CategoryName": "Công nghệ"}
+{"Symbol": "TT6", "CompanyName": "Công ty cổ phần Tập đoàn Tiến Thịnh", "CategoryName": null}
+{"Symbol": "TTA", "CompanyName": "Công ty Cổ phần Đầu tư Xây dựng và Phát triển Trường Thành", "CategoryName": "Năng lượng"}
+{"Symbol": "TTC", "CompanyName": "Công ty Cổ phần Gạch men Thanh Thanh ", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "TTD", "CompanyName": "Công ty Cổ phần Bệnh viện Tim Tâm Đức", "CategoryName": "Y tế"}
+{"Symbol": "TTE", "CompanyName": "Công ty Cổ phần Đầu tư Năng lượng Trường Thịnh", "CategoryName": "Năng lượng"}
+{"Symbol": "TTF", "CompanyName": "Công ty Cổ phần Tập đoàn Kỹ nghệ Gỗ Trường Thành", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "TTG", "CompanyName": "Công ty Cổ phần May Thanh Trì", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "TTH", "CompanyName": "Công ty cổ phần Thương mại và Dịch vụ Tiến Thành", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "TTL", "CompanyName": "Tổng Công ty Thăng Long - CTCP", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "TTN", "CompanyName": "Công ty Cổ phần Công nghệ và Truyền thông Việt Nam", "CategoryName": "Công nghệ"}
+{"Symbol": "TTP", "CompanyName": "Công ty Cổ phần Bao bì Nhựa Tân Tiến", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "TTS", "CompanyName": "Công ty Cổ phần Cán thép Thái Trung", "CategoryName": "Công nghiệp"}
+{"Symbol": "TTT", "CompanyName": "Công ty Cổ phần Du lịch – Thương mại Tây Ninh", "CategoryName": "Dịch vụ"}
+{"Symbol": "TUG", "CompanyName": "Công ty Cổ phần Lai dắt và Vận tải Cảng Hải Phòng", "CategoryName": "Công nghiệp"}
+{"Symbol": "TV1", "CompanyName": "Công ty cổ phần Tư vấn Xây dựng Điện 1", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "TV2", "CompanyName": "Công ty Cổ phần Tư vấn Xây dựng Điện 2", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "TV3", "CompanyName": "Công ty Cổ phần Tư vấn Xây dựng Điện 3", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "TV4", "CompanyName": "Công ty Cổ phần Tư vấn Xây dựng Điện 4", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "TV6", "CompanyName": "CTCP Thương mại Đầu tư Xây lắp điện Thịnh Vượng", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "TVA", "CompanyName": "Công ty Cổ phần Sứ Viglacera Thanh Trì", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "TVB", "CompanyName": "Công ty cổ phần Chứng khoán Trí Việt", "CategoryName": "Tài chính"}
+{"Symbol": "TVC", "CompanyName": "Công ty cổ phần Tập đoàn Quản lý Tài sản Trí Việt", "CategoryName": "Tài chính"}
+{"Symbol": "TVD", "CompanyName": "Công ty cổ phần Than Vàng Danh - Vinacomin", "CategoryName": "Năng lượng"}
+{"Symbol": "TVG", "CompanyName": "Công ty cổ phần Tư vấn Đầu tư và Xây dựng Giao thông Vận tải", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "TVH", "CompanyName": "Công ty cổ phần Tư vấn và Xây dựng công trình Hàng Hải", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "TVM", "CompanyName": "CTCP Tư vấn Đầu tư Mỏ và Công nghiệp - Vinacomin", "CategoryName": "Dịch vụ"}
+{"Symbol": "TVN", "CompanyName": "Tổng Công ty Thép Việt Nam - CTCP", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "TVP", "CompanyName": "Công ty Cổ phần Dược phẩm TV.Pharm", "CategoryName": "Y tế"}
+{"Symbol": "TVS", "CompanyName": "Công ty Cổ phần Chứng khoán Thiên Việt", "CategoryName": "Tài chính"}
+{"Symbol": "TVT", "CompanyName": "Tổng Công ty Việt Thắng - CTCP", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "TW3", "CompanyName": "CTCP Dược Trung ương 3", "CategoryName": "Y tế"}
+{"Symbol": "TXM", "CompanyName": "Công ty cổ phần VICEM Thạch cao Xi măng", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "TYA", "CompanyName": "Công ty Cổ phần Dây và Cáp điện Taya Việt Nam ", "CategoryName": "Công nghiệp"}
+{"Symbol": "UCT", "CompanyName": "Công ty Cổ phần Đô thị Cần Thơ", "CategoryName": "Dịch vụ"}
+{"Symbol": "UDC", "CompanyName": "Công ty cổ phần Xây dựng và Phát triển Đô thị tỉnh Bà Rịa-Vũng Tàu", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "UDJ", "CompanyName": "Công ty Cổ phần Phát triển Đô thị", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "UDL", "CompanyName": "CTCP Đô thị và Môi trường Đắk Lắk", "CategoryName": "Dịch vụ"}
+{"Symbol": "UEM", "CompanyName": "CTCP Cơ điện Uông Bí- Vinacomin", "CategoryName": "Công nghiệp"}
+{"Symbol": "UIC", "CompanyName": "Công ty Cổ phần Đầu tư Phát triển Nhà và Đô thị Idico", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "UMC", "CompanyName": "Công ty cổ phần Công trình đô thị Nam Định", "CategoryName": "Dịch vụ"}
+{"Symbol": "UNI", "CompanyName": "Công ty Cổ phần Đầu tư và phát triển Sao Mai Việt", "CategoryName": "Công nghệ"}
+{"Symbol": "UPC", "CompanyName": "Công ty Cổ phần Phát triển Công viên cây xanh và Đô thị Vũng Tàu ", "CategoryName": "Dịch vụ"}
+{"Symbol": "UPH", "CompanyName": "CTCP Dược phẩm TW25", "CategoryName": "Y tế"}
+{"Symbol": "USC", "CompanyName": "Công ty Cổ phần Khảo sát và Xây dựng - USCO", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "USD", "CompanyName": "Công ty cổ phần Công trình Đô thị Sóc Trăng", "CategoryName": "Dịch vụ"}
+{"Symbol": "UXC", "CompanyName": "CTCP Chế biến Thủy sản Út Xi", "CategoryName": "Nông nghiệp"}
+{"Symbol": "V11", "CompanyName": "Công ty Cổ phần Xây dựng số 11", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "V12", "CompanyName": "Công ty Cổ phần Xây dựng số 12", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "V15", "CompanyName": "Công ty Cổ phần Xây dựng Số 15", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "V21", "CompanyName": "Công ty Cổ phần VINACONEX 21", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "VAB", "CompanyName": "Ngân hàng Thương mại cổ phần Việt Á", "CategoryName": "Tài chính"}
+{"Symbol": "VAF", "CompanyName": "Công ty cổ phần Phân lân nung chảy Văn Điển", "CategoryName": "Nông nghiệp"}
+{"Symbol": "VAV", "CompanyName": "Công ty Cổ phần VIWACO", "CategoryName": "Dịch vụ"}
+{"Symbol": "VBB", "CompanyName": "Ngân hàng Thương mại cổ phần Việt Nam Thương Tín", "CategoryName": "Tài chính"}
+{"Symbol": "VBC", "CompanyName": "Công ty Cổ phần Nhựa Bao bì Vinh", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "VBG", "CompanyName": "Công ty Cổ phần Địa chất Việt Bắc - TKV", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "VBH", "CompanyName": "Công ty Cổ phần Điện tử Bình Hòa", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "VBL", "CompanyName": "Công ty TNHH Nhà máy Bia Việt Nam", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "VC1", "CompanyName": "Công ty Cổ phần Xây dựng số 1", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "VC2", "CompanyName": "Công ty Cổ phần Đầu tư và Xây dựng Vina2", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "VC3", "CompanyName": "Công ty Cổ phần Tập đoàn Nam Mê Kông", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "VC5", "CompanyName": "Công ty Cổ phần Xây dựng số 5", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "VC6", "CompanyName": "Công ty Cổ phần Xây dựng và Đầu tư Visicons", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "VC7", "CompanyName": "Công ty Cổ phần Tập đoàn BGI", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "VC9", "CompanyName": "Công ty Cổ phần Xây dựng số 9 - VC9", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "VCA", "CompanyName": "Công ty Cổ phần Thép VICASA - VNSTEEL", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "VCB", "CompanyName": "Ngân hàng Thương mại cổ phần Ngoại thương Việt Nam", "CategoryName": "Tài chính"}
+{"Symbol": "VCC", "CompanyName": "Công ty Cổ phần Vinaconex 25", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "VCE", "CompanyName": "CTCP Xây lắp Môi trường - TKV", "CategoryName": "Năng lượng"}
+{"Symbol": "VCF", "CompanyName": "Công ty Cổ phần VinaCafé Biên Hòa", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "VCG", "CompanyName": "Tổng Công ty Cổ phần Xuất nhập khẩu và Xây dựng Việt Nam", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "VCI", "CompanyName": "Công ty Cổ phần Chứng khoán VIETCAP", "CategoryName": "Tài chính"}
+{"Symbol": "VCM", "CompanyName": "Công ty cổ phần BV Life", "CategoryName": "Dịch vụ"}
+{"Symbol": "VCP", "CompanyName": "Công ty Cổ phần Xây dựng và Năng lượng VCP", "CategoryName": "Năng lượng"}
+{"Symbol": "VCR", "CompanyName": "Công ty Cổ phần Đầu tư và Phát triển Du lịch Vinaconex", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "VCS", "CompanyName": "Công ty cổ phần VICOSTONE", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "VCT", "CompanyName": "Công ty Cổ phần Tư vấn Xây dựng Vinaconex", "CategoryName": "Dịch vụ"}
+{"Symbol": "VCW", "CompanyName": "Công ty Cổ phần Đầu tư Nước sạch Sông Đà", "CategoryName": "Dịch vụ"}
+{"Symbol": "VCX", "CompanyName": "Công ty Cổ phần Xi măng Yên Bình", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "VDB", "CompanyName": "Công ty cổ phần Vận tải và Chế biến Than Đông Bắc", "CategoryName": "Năng lượng"}
+{"Symbol": "VDG", "CompanyName": "Công ty cổ phần Vạn Đạt Group", "CategoryName": null}
+{"Symbol": "VDL", "CompanyName": "Công ty Cổ phần Thực phẩm Lâm Đồng", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "VDN", "CompanyName": "Công ty Cổ phần Vinatex Đà Nẵng", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "VDP", "CompanyName": "Công ty Cổ phần Dược phẩm Trung ương VIDIPHA", "CategoryName": "Y tế"}
+{"Symbol": "VDS", "CompanyName": "Công ty Cổ phần Chứng khoán Rồng Việt", "CategoryName": "Tài chính"}
+{"Symbol": "VDT", "CompanyName": "Công ty cổ phần Lưới thép Bình Tây", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "VE1", "CompanyName": "Công ty Cổ phần Xây dựng điện VNECO 1", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "VE2", "CompanyName": "Công ty cổ phần Xây dựng điện VNECO 2", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "VE3", "CompanyName": "Công ty cổ phần Xây dựng điện VNECO 3", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "VE4", "CompanyName": "Công ty Cổ phần Xây dựng điện VNECO4", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "VE8", "CompanyName": "Công ty cổ phần Xây dựng điện VNECO 8", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "VE9", "CompanyName": "Công ty Cổ phần Đầu tư và Xây dựng VNECO 9", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "VEA", "CompanyName": "Tổng Công ty Máy động lực và máy nông nghiệp Việt Nam - CTCP", "CategoryName": "Nông nghiệp"}
+{"Symbol": "VEC", "CompanyName": "Tổng Công ty cổ phần Điện tử và Tin học Việt Nam", "CategoryName": "Công nghệ"}
+{"Symbol": "VED", "CompanyName": "Công ty cổ phần Phát triển Thể thao Điện tử Việt Nam", "CategoryName": "Công nghệ"}
+{"Symbol": "VEF", "CompanyName": "Công ty cổ phần Trung tâm Hội chợ Triển lãm Việt Nam", "CategoryName": "Dịch vụ"}
+{"Symbol": "VES", "CompanyName": "Công ty Cổ phần Đầu tư và Xây dựng điện Mê Ca Vneco", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "VET", "CompanyName": "Công ty Cổ phần Thuốc thú y Trung ương Navetco", "CategoryName": "Nông nghiệp"}
+{"Symbol": "VFC", "CompanyName": "Công ty Cổ phần VINAFCO ", "CategoryName": "Công nghiệp"}
+{"Symbol": "VFG", "CompanyName": "Công ty Cổ phần Khử trùng Việt Nam", "CategoryName": "Nông nghiệp"}
+{"Symbol": "VFM", "CompanyName": "Công ty Cổ phần Quản lý quỹ Đầu tư Việt Nam", "CategoryName": ""}
+{"Symbol": "VFR", "CompanyName": "Công ty Cổ phần Vận tải và Thuê tàu", "CategoryName": "Công nghiệp"}
+{"Symbol": "VFS", "CompanyName": "Công ty Cổ phần Chứng khoán Nhất Việt", "CategoryName": "Tài chính"}
+{"Symbol": "VFW", "CompanyName": "Công ty Cổ phần Quản lý quỹ Lộc Việt", "CategoryName": ""}
+{"Symbol": "VGC", "CompanyName": "Tổng Công ty Viglacera - CTCP", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "VGG", "CompanyName": "Tổng Công ty cổ phần May Việt Tiến", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "VGI", "CompanyName": "Tổng Công ty cổ phần Đầu tư Quốc tế Viettel", "CategoryName": "Viễn thông"}
+{"Symbol": "VGL", "CompanyName": "CTCP Mạ kẽm công nghiệp Vingal - Vnsteel", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "VGP", "CompanyName": "Công ty Cổ phần Cảng Rau quả", "CategoryName": "Công nghiệp"}
+{"Symbol": "VGR", "CompanyName": "Công ty Cổ phần Cảng Xanh VIP", "CategoryName": "Công nghiệp"}
+{"Symbol": "VGS", "CompanyName": "Công ty Cổ phần Ống thép Việt Đức VG PIPE", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "VGT", "CompanyName": "Tập đoàn Dệt may Việt Nam", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "VGV", "CompanyName": "Tổng Công ty Tư vấn Xây dựng Việt Nam - CTCP", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "VHC", "CompanyName": "Công ty Cổ phần Vĩnh Hoàn", "CategoryName": "Nông nghiệp"}
+{"Symbol": "VHD", "CompanyName": "Công ty Cổ phần Đầu tư Phát triển Nhà và Đô thị VINAHUD", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "VHE", "CompanyName": "Công ty Cổ phần Dược liệu và Thực phẩm Việt Nam", "CategoryName": "Y tế"}
+{"Symbol": "VHF", "CompanyName": "Công ty Cổ phần Xây dựng và Chế biến lương thực Vĩnh Hà", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "VHG", "CompanyName": "Công ty Cổ phần Đầu tư Phát triển Việt Trung Nam", "CategoryName": "Nông nghiệp"}
+{"Symbol": "VHH", "CompanyName": "Công ty cổ phần Đầu tư Kinh doanh nhà Thành Đạt", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "VHL", "CompanyName": "Công ty Cổ phần Viglacera Hạ Long", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "VHM", "CompanyName": "Công ty cổ phần Vinhomes", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "VHW", "CompanyName": "CTCP Nước Khoáng Vĩnh Hảo", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "VIB", "CompanyName": "Ngân hàng Thương mại cổ phần Quốc tế Việt Nam", "CategoryName": "Tài chính"}
+{"Symbol": "VIC", "CompanyName": "Tập đoàn Vingroup - Công ty Cổ phần", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "VID", "CompanyName": "Công ty Cổ phần Đầu tư Phát triển Thương mại Viễn Đông", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "VIE", "CompanyName": "Công ty Cổ phần Công nghệ Viễn thông VITECO ", "CategoryName": "Công nghệ"}
+{"Symbol": "VIF", "CompanyName": "Tổng Công ty Lâm nghiệp Việt Nam - CTCP", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "VIG", "CompanyName": "Công ty Cổ phần Chứng khoán Đầu tư Tài chính Việt Nam", "CategoryName": "Tài chính"}
+{"Symbol": "VIH", "CompanyName": "Công ty Cổ phần Viglacera Hà Nội", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "VIM", "CompanyName": "Công ty Cổ phần Khoáng sản Viglacera", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "VIN", "CompanyName": "CTCP Giao nhận Kho vận Ngoại thương Việt Nam ", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "VIP", "CompanyName": "Công ty Cổ phần Vận tải Xăng dầu VIPCO", "CategoryName": "Năng lượng"}
+{"Symbol": "VIR", "CompanyName": "Công ty cổ phần Du lịch Quốc tế Vũng Tàu", "CategoryName": "Dịch vụ"}
+{"Symbol": "VIT", "CompanyName": "Công ty Cổ phần Viglacera Tiên Sơn", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "VIW", "CompanyName": "Tổng Công ty Đầu tư Nước và Môi trường Việt Nam - CTCP", "CategoryName": "Dịch vụ"}
+{"Symbol": "VIX", "CompanyName": "Công ty cổ phần Chứng khoán VIX", "CategoryName": "Tài chính"}
+{"Symbol": "VJC", "CompanyName": "Công ty cổ phần Hàng không VietJet", "CategoryName": "Công nghiệp"}
+{"Symbol": "VKC", "CompanyName": "Công ty cổ phần VKC Holdings", "CategoryName": "Công nghiệp"}
+{"Symbol": "VKP", "CompanyName": "Công ty Cổ phần Nhựa Tân Hóa", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "VLA", "CompanyName": "Công ty Cổ phần Đầu tư và Phát triển Công nghệ Văn  Lang", "CategoryName": "Dịch vụ"}
+{"Symbol": "VLB", "CompanyName": "CTCP Xây dựng và Sản xuất Vật liệu Xây dựng Biên Hòa", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "VLC", "CompanyName": "Tổng Công ty Chăn nuôi Việt Nam - CTCP", "CategoryName": "Nông nghiệp"}
+{"Symbol": "VLD", "CompanyName": "Công ty Cổ phần Bất Động Sản Viettronics", "CategoryName": ""}
+{"Symbol": "VLF", "CompanyName": "Công ty Cổ phần Lương thực Thực phẩm Vĩnh Long", "CategoryName": "Nông nghiệp"}
+{"Symbol": "VLG", "CompanyName": "CTCP Vinalines Logistics - Việt Nam", "CategoryName": "Công nghiệp"}
+{"Symbol": "VLP", "CompanyName": "Công ty Cổ phần Công trình công cộng Vĩnh Long", "CategoryName": "Dịch vụ"}
+{"Symbol": "VLW", "CompanyName": "Công ty Cổ phần Cấp nước Vĩnh Long", "CategoryName": "Dịch vụ"}
+{"Symbol": "VMA", "CompanyName": "Công ty cổ phần Công nghiệp Ô tô – Vinacomin", "CategoryName": "Công nghiệp"}
+{"Symbol": "VMC", "CompanyName": "Công ty Cổ phần Vimeco", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "VMD", "CompanyName": "Công ty cổ phần Y Dược phẩm Vimedimex", "CategoryName": "Y tế"}
+{"Symbol": "VMG", "CompanyName": "Công ty Cổ phần Thương mại và Dịch vụ Dầu khí Vũng Tàu", "CategoryName": "Năng lượng"}
+{"Symbol": "VMK", "CompanyName": "Công ty cổ phần Vimarko", "CategoryName": null}
+{"Symbol": "VMS", "CompanyName": "CTCP Phát triển Hàng hải", "CategoryName": "Công nghiệp"}
+{"Symbol": "VMT", "CompanyName": "CTCP Giao nhận Vận tải Miền Trung", "CategoryName": "Công nghiệp"}
+{"Symbol": "VNA", "CompanyName": "Công ty Cổ phần Vận tải Biển Vinaship", "CategoryName": "Công nghiệp"}
+{"Symbol": "VNB", "CompanyName": "CTCP Sách Việt Nam", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "VNC", "CompanyName": "Công ty Cổ phần Tập đoàn Vinacontrol", "CategoryName": "Dịch vụ"}
+{"Symbol": "VND", "CompanyName": "Công ty cổ phần Chứng khoán VNDIRECT", "CategoryName": "Tài chính"}
+{"Symbol": "VNE", "CompanyName": "Tổng công ty Cổ phần Xây dựng điện Việt Nam", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "VNF", "CompanyName": "Công ty cổ phần Vinafreight", "CategoryName": "Công nghiệp"}
+{"Symbol": "VNG", "CompanyName": "Công ty Cổ phần Du lịch Thành Thành Công", "CategoryName": "Dịch vụ"}
+{"Symbol": "VNH", "CompanyName": "Công ty Cổ phần Đầu tư Việt Việt Nhật", "CategoryName": "Nông nghiệp"}
+{"Symbol": "VNL", "CompanyName": "Công ty cổ phần Logistics Vinalink", "CategoryName": "Công nghiệp"}
+{"Symbol": "VNM", "CompanyName": "Công ty Cổ phần Sữa Việt Nam", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "VNP", "CompanyName": "Công ty cổ phần Nhựa Việt Nam", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "VNR", "CompanyName": "Tổng Công ty Cổ phần Tái bảo hiểm quốc gia Việt Nam", "CategoryName": "Tài chính"}
+{"Symbol": "VNS", "CompanyName": "Công ty Cổ phần Ánh Dương Việt Nam", "CategoryName": "Công nghiệp"}
+{"Symbol": "VNT", "CompanyName": "Công ty cổ phần Giao nhận Vận tải Ngoại thương", "CategoryName": "Công nghiệp"}
+{"Symbol": "VNX", "CompanyName": "Công ty Cổ phần Quảng cáo và Hội chợ Thương mại", "CategoryName": "Dịch vụ"}
+{"Symbol": "VNY", "CompanyName": "Công ty Cổ phần Thuốc Thú y Trung ương I ", "CategoryName": "Nông nghiệp"}
+{"Symbol": "VNZ", "CompanyName": "Công ty cổ phần VNG", "CategoryName": "Công nghệ"}
+{"Symbol": "VOC", "CompanyName": "Tổng Công ty Công nghiệp Dầu thực vật Việt Nam - CTCP", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "VOS", "CompanyName": "Công ty Cổ phần Vận tải biển Việt Nam", "CategoryName": "Công nghiệp"}
+{"Symbol": "VPA", "CompanyName": "CTCP Vận tải Hóa dầu VP", "CategoryName": "Công nghiệp"}
+{"Symbol": "VPB", "CompanyName": "Ngân hàng Thương mại Cổ phần Việt Nam Thịnh Vượng", "CategoryName": "Tài chính"}
+{"Symbol": "VPC", "CompanyName": "Công ty Cổ phần Đầu tư và Phát triển Năng lượng Việt Nam", "CategoryName": "Dịch vụ"}
+{"Symbol": "VPD", "CompanyName": "Công ty cổ phần Phát triển Điện lực Việt Nam", "CategoryName": "Năng lượng"}
+{"Symbol": "VPG", "CompanyName": "Công ty Cổ phần Đầu tư Thương mại Xuất nhập khẩu Việt Phát", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "VPH", "CompanyName": "Công ty Cổ phần Vạn Phát Hưng", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "VPI", "CompanyName": "Công ty Cổ phần Đầu tư Văn Phú - Invest", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "VPR", "CompanyName": "Công ty cổ phần VINAPRINT", "CategoryName": "Dịch vụ"}
+{"Symbol": "VPS", "CompanyName": "CTCP Thuốc sát trùng Việt Nam", "CategoryName": "Nông nghiệp"}
+{"Symbol": "VPW", "CompanyName": "Công ty Cổ phần Cấp thoát nước số 1 Vĩnh Phúc", "CategoryName": "Dịch vụ"}
+{"Symbol": "VQC", "CompanyName": "Công ty Cổ phần Giám định Vinacomin", "CategoryName": "Dịch vụ"}
+{"Symbol": "VRC", "CompanyName": "Công ty Cổ phần Bất động sản và Đầu tư VRC", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "VRE", "CompanyName": "Công ty Cổ phần Vincom Retail", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "VRG", "CompanyName": "CTCP Phát triển đô thị và Khu công nghiệp Cao su Việt Nam", "CategoryName": "Công nghiệp"}
+{"Symbol": "VSA", "CompanyName": "Công ty cổ phần Đại lý Hàng hải Việt Nam  ", "CategoryName": "Công nghiệp"}
+{"Symbol": "VSC", "CompanyName": "Công ty cổ phần Tập đoàn Container Việt Nam", "CategoryName": "Công nghiệp"}
+{"Symbol": "VSE", "CompanyName": "Công ty cổ phần Dịch vụ Đường cao tốc Việt Nam", "CategoryName": "Công nghiệp"}
+{"Symbol": "VSF", "CompanyName": "Tổng Công ty Lương thực Miền Nam - Công ty cổ phần", "CategoryName": "Nông nghiệp"}
+{"Symbol": "VSG", "CompanyName": "Công ty Cổ phần Container Phía Nam", "CategoryName": "Công nghiệp"}
+{"Symbol": "VSH", "CompanyName": "Công ty Cổ phần Thủy điện Vĩnh Sơn - Sông Hinh", "CategoryName": "Năng lượng"}
+{"Symbol": "VSI", "CompanyName": "Công ty Cổ phần Đầu tư và Xây dựng Cấp thoát nước", "CategoryName": "Dịch vụ"}
+{"Symbol": "VSM", "CompanyName": "Công ty Cổ phần Container Miền Trung", "CategoryName": "Công nghiệp"}
+{"Symbol": "VSN", "CompanyName": "Công ty cổ phần Việt Nam Kỹ nghệ Súc sản", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "VST", "CompanyName": "Công ty Cổ phần Vận tải và Thuê tàu biển Việt Nam", "CategoryName": "Công nghiệp"}
+{"Symbol": "VTA", "CompanyName": "Công ty Cổ phần Vitaly", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "VTB", "CompanyName": "Công ty Cổ phần Viettronics Tân Bình", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "VTC", "CompanyName": "Công ty Cổ phần Viễn thông VTC", "CategoryName": "Công nghệ"}
+{"Symbol": "VTD", "CompanyName": "Công ty cổ phần Vietourist Holdings", "CategoryName": "Dịch vụ"}
+{"Symbol": "VTE", "CompanyName": "Công ty cổ phần Viễn thông Điện tử Vinacap", "CategoryName": "Công nghiệp"}
+{"Symbol": "VTG", "CompanyName": "Công ty cổ phần Du lịch tỉnh Bà Rịa - Vũng Tàu", "CategoryName": "Dịch vụ"}
+{"Symbol": "VTH", "CompanyName": "Công ty Cổ phần Tập đoàn Việt Thái", "CategoryName": "Dịch vụ"}
+{"Symbol": "VTI", "CompanyName": "Công ty Cổ phần Sản xuất – Xuất nhập khẩu Dệt May", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "VTJ", "CompanyName": "Công ty cổ phần Thương mại và Đầu tư Vinataba", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "VTK", "CompanyName": "Công ty cổ phần Tư vấn Thiết kế Viettel", "CategoryName": "Viễn thông"}
+{"Symbol": "VTL", "CompanyName": "Công ty Cổ phần Vang Thăng Long", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "VTM", "CompanyName": "CTCP Vận tải và Đưa đón thợ mỏ - Vinacomin", "CategoryName": "Công nghiệp"}
+{"Symbol": "VTO", "CompanyName": "Công ty Cổ phần Vận tải Xăng dầu VITACO", "CategoryName": "Năng lượng"}
+{"Symbol": "VTP", "CompanyName": "Tổng Công ty cổ phần Bưu chính Viettel", "CategoryName": "Dịch vụ"}
+{"Symbol": "VTQ", "CompanyName": "Công ty Cổ phần Việt Trung Quảng Bình", "CategoryName": "Nông nghiệp"}
+{"Symbol": "VTR", "CompanyName": "CTCP Du lịch và Tiếp thị Giao thông Vận tải Việt Nam - Vietravel", "CategoryName": "Dịch vụ"}
+{"Symbol": "VTS", "CompanyName": "Công ty Cổ phần Viglacera Từ Sơn", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "VTT", "CompanyName": null, "CategoryName": null}
+{"Symbol": "VTV", "CompanyName": "Công ty Cổ phần Năng lượng và Môi trường VICEM", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "VTX", "CompanyName": "Công ty cổ phần Vận tải đa phương thức Vietranstimex", "CategoryName": "Công nghiệp"}
+{"Symbol": "VTZ", "CompanyName": "Công ty Cổ phần Sản xuất và Thương mại Nhựa Việt Thành", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "VUA", "CompanyName": "Công ty cổ phần Chứng khoán Stanley Brothers", "CategoryName": "Tài chính"}
+{"Symbol": "VVN", "CompanyName": "Tổng Công ty cổ phần Xây dựng công nghiệp Việt Nam", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "VVS", "CompanyName": "Công ty cổ phần Đầu tư Phát triển máy Việt Nam", "CategoryName": "Dịch vụ"}
+{"Symbol": "VW3", "CompanyName": "Công ty cổ phần Viwaseen3", "CategoryName": "Công nghiệp"}
+{"Symbol": "VWS", "CompanyName": "Công ty Cổ phần Nước và Môi trường Việt Nam", "CategoryName": "Dịch vụ"}
+{"Symbol": "VXB", "CompanyName": "Công ty Cổ phần Vật liệu xây dựng Bến Tre", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "VXP", "CompanyName": "Công ty cổ phần Thuốc Thú y Trung ương VETVACO", "CategoryName": "Nông nghiệp"}
+{"Symbol": "VXT", "CompanyName": "CTCP Kho vận và Dịch vụ Thương mại", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "WCS", "CompanyName": "Công ty Cổ phần Bến xe Miền Tây", "CategoryName": "Công nghiệp"}
+{"Symbol": "WSB", "CompanyName": "Công ty Cổ phần Bia Sài Gòn - Miền Tây", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "WSS", "CompanyName": "Công ty Cổ phần Chứng khoán Phố Wall", "CategoryName": "Tài chính"}
+{"Symbol": "WTC", "CompanyName": "CTCP Vận tải thủy - Vinacomin", "CategoryName": "Công nghiệp"}
+{"Symbol": "X20", "CompanyName": "Công ty Cổ phần X20", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "X26", "CompanyName": "Công ty cổ phần 26", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "X77", "CompanyName": "Công ty Cổ phần Thành An 77", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "XDC", "CompanyName": "Công ty TNHH MTV Xây dựng Công trình Tân Cảng", "CategoryName": ""}
+{"Symbol": "XDH", "CompanyName": "Công ty cổ phần Đầu tư Xây dưng Dân dụng Hà Nội", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "XHC", "CompanyName": "Công ty cổ phần Xuân Hòa Việt Nam", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "XLV", "CompanyName": "Công ty Cổ phần Xây lắp và Dịch vụ Sông Đà", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "XMC", "CompanyName": "Công ty cổ phần Đầu tư và Xây dựng Xuân Mai", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "XMD", "CompanyName": "Công ty cổ phần Xuân Mai - Đạo Tú ", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "XMP", "CompanyName": "CTCP Thủy điện Xuân Minh", "CategoryName": "Năng lượng"}
+{"Symbol": "XPH", "CompanyName": "Công ty Cổ phần Xà phòng Hà Nội", "CategoryName": "Hàng tiêu dùng"}
+{"Symbol": "YAN", "CompanyName": "CTCP Công nghệ và Tầm nhìn Yêu âm nhạc", "CategoryName": "Dịch vụ"}
+{"Symbol": "YBC", "CompanyName": "Công ty Cổ phần Xi măng và Khoáng sản Yên Bái", "CategoryName": "Bất động sản và Xây dựng"}
+{"Symbol": "YBM", "CompanyName": "Công ty Cổ phần Khoáng sản Công nghiệp Yên Bái", "CategoryName": "Nguyên vật liệu"}
+{"Symbol": "YEG", "CompanyName": "Công ty Cổ phần Tập đoàn Yeah1", "CategoryName": "Dịch vụ"}
+{"Symbol": "YTC", "CompanyName": "Công ty Cổ phần Xuất nhập khẩu Y tế Thành phố Hồ Chí Minh", "CategoryName": "Y tế"}
