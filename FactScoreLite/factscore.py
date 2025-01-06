@@ -134,7 +134,7 @@ class FactScore:
             generation_facts_pairs
         ), "Number of decisions and generation-facts pairs should be the same."
 
-        return scores, init_scores
+        return scores, init_scores, decisions
 
     def get_factscore(
         self,
@@ -158,6 +158,6 @@ class FactScore:
         ), "`generations` and `knowledge_sources` should have the same length."
 
         facts = self.get_facts(generations)
-        scores, init_scores = self.get_decisions(facts, knowledge_sources)
+        scores, init_scores, decisions = self.get_decisions(facts, knowledge_sources)
 
-        return np.mean(scores), np.mean(init_scores)
+        return np.mean(scores), np.mean(init_scores), decisions

@@ -262,171 +262,171 @@ def update_clusters(config, clusters_outputs, posts, list_data_clean, embeddings
         # id_clusterCategori = clusterCategori.inserted_id
         count_index = 0
 
-    #     first_article = {}
-    #     first_article["title"] = cluster_insert["sumaryCluster"]
+        first_article = {}
+        first_article["title"] = cluster_insert["sumaryCluster"]
 
-    #     first_article["description"] = ""
-    #     for idxs in id_post:
-    #         first_article["sourceId"] = posts[idxs]["sourceId"]
-    #         first_article["imageContents"] = list_imageContents
-    #         first_article["videoContents"] = posts[idxs]["videoContents"]
-    #         first_article["createdAt"] = posts[idxs]["createdAt"]
-    #         first_article["postedAt"] = posts[idx]["postedAt"]
-    #         first_article["link"] = posts[idxs]["link"]
-    #         first_article["renderedContent"] = posts[idxs]["renderedContent"]
-    #         first_article["updatedAt"] = cluster_insert["updatedAt"]
-    #         try:
-    #             if posts[idxs]["classification"] is not None:
-    #                 first_article["classification"] = posts[idxs]["classification"]
-    #             else:
-    #                 first_article["classification"] = "NORMAL"
-    #         except:
-    #             first_article["classification"] = "NORMAL"
+        first_article["description"] = ""
+        for idxs in id_post:
+            first_article["sourceId"] = posts[idxs]["sourceId"]
+            first_article["imageContents"] = list_imageContents
+            first_article["videoContents"] = posts[idxs]["videoContents"]
+            first_article["createdAt"] = posts[idxs]["createdAt"]
+            first_article["postedAt"] = posts[idx]["postedAt"]
+            first_article["link"] = posts[idxs]["link"]
+            first_article["renderedContent"] = posts[idxs]["renderedContent"]
+            first_article["updatedAt"] = cluster_insert["updatedAt"]
+            try:
+                if posts[idxs]["classification"] is not None:
+                    first_article["classification"] = posts[idxs]["classification"]
+                else:
+                    first_article["classification"] = "NORMAL"
+            except:
+                first_article["classification"] = "NORMAL"
             
-    #         try:
-    #             if posts[idxs]["probabilityOfClassification"] is not None:
-    #                 first_article["probabilityOfClassification"] = posts[idxs]["probabilityOfClassification"]
-    #             else:
-    #                 first_article["probabilityOfClassification"] = 0.0
-    #         except:
-    #             first_article["probabilityOfClassification"] = 0.0
-    #         break
-    #     first_article["textContent"] = cluster_insert["newPaper"]
-    #     first_article["text_6w2h"] = cluster_insert["text_6w2h"]
-    #     first_article["likes"] = 0
-    #     first_article["shares"] = 0
-    #     first_article["type"] = "AI"
-    #     first_article["comments"] = 0
-    #     first_article["totalReactions"] = 0
-    #     first_article["editedTextContent"] = 0
-    #     first_article["isPositive"] = False
-    #     first_article["isNegative"] = False
-    #     first_article["clusterId"] = id_cluster
-    #     first_article["index"] = 0
-    #     first_article["sourceCategoryId"] = maxFrequently_category
-    #     result = db.vn_newflow["articles"].insert_one(first_article)
+            try:
+                if posts[idxs]["probabilityOfClassification"] is not None:
+                    first_article["probabilityOfClassification"] = posts[idxs]["probabilityOfClassification"]
+                else:
+                    first_article["probabilityOfClassification"] = 0.0
+            except:
+                first_article["probabilityOfClassification"] = 0.0
+            break
+        first_article["textContent"] = cluster_insert["newPaper"]
+        first_article["text_6w2h"] = cluster_insert["text_6w2h"]
+        first_article["likes"] = 0
+        first_article["shares"] = 0
+        first_article["type"] = "AI"
+        first_article["comments"] = 0
+        first_article["totalReactions"] = 0
+        first_article["editedTextContent"] = 0
+        first_article["isPositive"] = False
+        first_article["isNegative"] = False
+        first_article["clusterId"] = id_cluster
+        first_article["index"] = 0
+        first_article["sourceCategoryId"] = maxFrequently_category
+        result = db.vn_newflow["articles"].insert_one(first_article)
 
-    #     for idx in id_post:
-    #         count_index += 1
-    #         new_article = {}
-    #         if posts[idx]["type"] in ["FB_POST", "YOUTUBE", "TIKTOK", "YOUTUBE_SHORT" ]:
-    #             new_article["title"] = posts[idx]["title"]
-    #             new_article["sourceId"] = posts[idx]["sourceId"]
-    #             new_article["description"] = "string"
-    #             new_article["imageContents"] = posts[idx]["imageContents"]
-    #             new_article["videoContents"] = posts[idx]["videoContents"]
-    #             new_article["link"] = posts[idx]["link"]
-    #             new_article["type"] = posts[idx]["type"]
-    #             new_article["likes"] = posts[idx]["likes"]
-    #             new_article["shares"] = posts[idx]["shares"]
-    #             new_article["comments"] = posts[idx]["comments"]
-    #             new_article["totalReactions"] = posts[idx]["totalReactions"]
-    #             new_article["editedTextContent"] = posts[idx]["editedTextContent"]
-    #             new_article["isPositive"] = False
-    #             new_article["isNegative"] = False
-    #             new_article["clusterId"] = id_cluster
-    #             new_article["createdAt"] = posts[idx]["createdAt"]
-    #             new_article["renderedContent"] = posts[idx]["renderedContent"]
-    #             new_article["updatedAt"] = time_now
-    #             new_article["index"] = count_index
-    #             new_article["postedAt"] = posts[idx]["postedAt"]
-    #             try:
-    #                 if posts[idx]["classification"] is not None:
-    #                     new_article["classification"] = posts[idx]["classification"]
-    #                 else:
-    #                     new_article["classification"] = "NORMAL"
-    #             except:
-    #                 new_article["classification"] = "NORMAL"
-    #             try:
-    #                 if posts[idx]["probabilityOfClassification"] is not None:
-    #                     new_article["probabilityOfClassification"] = posts[idx]["probabilityOfClassification"]
-    #                 else:
-    #                     new_article["probabilityOfClassification"] = 0.0
-    #             except:
-    #                 new_article["probabilityOfClassification"] = 0.0
-    #             if "sourceName" in posts[idx]:
-    #                 new_article["sourceName"] = posts[idx]["sourceName"]
-    #             else:
-    #                 new_article["sourceName"] = "Null"
-    #             try:
-    #                 new_article["sourceCategoryId"] = posts[idx]["sourceCategoryId"]
-    #                 new_article["sourceLink"] = posts[idx]["sourceLink"]
-    #                 new_article["sourceType"] = posts[idx]["sourceType"]
-    #                 new_article["sourceAvatar"] = posts[idx]["sourceAvatar"]
-    #             except:
-    #                 new_article["sourceCategoryId"] = "Null"
-    #                 new_article["sourceLink"] = "Null"
-    #                 new_article["sourceType"] = "Null"
-    #                 new_article["sourceAvatar"] = "Null"
-    #             # new_article["score"] = cluster_insert["score"][cnt-1]
-    #             if len(offical_paper) == 0:
-    #                 new_article["isLegit"] = False
-    #                 new_article["offical_link"] = []
-    #             else:
-    #                 offical_paper_text = "\n".join(offical_paper)
-    #                 if check_fact(posts[idx]["textContent"], offical_paper_text):
-    #                     new_article["isLegit"] = True
-    #                     new_article["offical_link"] = offical_link
-    #                 else:
-    #                     new_article["isLegit"] = False
-    #                     new_article["offical_link"] = []
-    #             if "TopicsOnContents" in posts[idx]:
-    #                 new_article["TopicsOnContents"] = posts[idx]["TopicsOnContents"]
-    #             result = db.vn_newflow["articles"].insert_one(new_article)
-    #         else:
-    #             new_article["title"] = posts[idx]["title"]
-    #             new_article["textContent"] = posts[idx]["textContent"]
-    #             new_article["sourceId"] = posts[idx]["sourceId"]
-    #             new_article["description"] = "string"
-    #             new_article["imageContents"] = posts[idx]["imageContents"]
-    #             new_article["videoContents"] = posts[idx]["videoContents"]
-    #             new_article["link"] = posts[idx]["link"]
-    #             new_article["type"] = posts[idx]["type"]
-    #             new_article["likes"] = posts[idx]["likes"]
-    #             new_article["shares"] = posts[idx]["shares"]
-    #             new_article["comments"] = posts[idx]["comments"]
-    #             new_article["totalReactions"] = posts[idx]["totalReactions"]
-    #             new_article["editedTextContent"] = posts[idx]["editedTextContent"]
-    #             new_article["renderedContent"] = posts[idx]["renderedContent"]
-    #             new_article["postedAt"] = posts[idx]["postedAt"]
-    #             new_article["isPositive"] = False
-    #             new_article["isNegative"] = False
-    #             new_article["clusterId"] = id_cluster
-    #             new_article["createdAt"] = posts[idx]["createdAt"]
-    #             new_article["updatedAt"] = time_now
-    #             try:
-    #                 if posts[idx]["classification"] is not None:
-    #                     new_article["classification"] = posts[idx]["classification"]
-    #                 else:
-    #                     new_article["classification"] = "NORMAL"
-    #             except:
-    #                 new_article["classification"] = "NORMAL"
-    #             try:
-    #                 if posts[idx]["probabilityOfClassification"] is not None:
-    #                     new_article["probabilityOfClassification"] = posts[idx]["probabilityOfClassification"]
-    #                 else:
-    #                     new_article["probabilityOfClassification"] = 0.0
-    #             except:
-    #                 new_article["probabilityOfClassification"] = 0.0
+        for idx in id_post:
+            count_index += 1
+            new_article = {}
+            if posts[idx]["type"] in ["FB_POST", "YOUTUBE", "TIKTOK", "YOUTUBE_SHORT" ]:
+                new_article["title"] = posts[idx]["title"]
+                new_article["sourceId"] = posts[idx]["sourceId"]
+                new_article["description"] = "string"
+                new_article["imageContents"] = posts[idx]["imageContents"]
+                new_article["videoContents"] = posts[idx]["videoContents"]
+                new_article["link"] = posts[idx]["link"]
+                new_article["type"] = posts[idx]["type"]
+                new_article["likes"] = posts[idx]["likes"]
+                new_article["shares"] = posts[idx]["shares"]
+                new_article["comments"] = posts[idx]["comments"]
+                new_article["totalReactions"] = posts[idx]["totalReactions"]
+                new_article["editedTextContent"] = posts[idx]["editedTextContent"]
+                new_article["isPositive"] = False
+                new_article["isNegative"] = False
+                new_article["clusterId"] = id_cluster
+                new_article["createdAt"] = posts[idx]["createdAt"]
+                new_article["renderedContent"] = posts[idx]["renderedContent"]
+                new_article["updatedAt"] = time_now
+                new_article["index"] = count_index
+                new_article["postedAt"] = posts[idx]["postedAt"]
+                try:
+                    if posts[idx]["classification"] is not None:
+                        new_article["classification"] = posts[idx]["classification"]
+                    else:
+                        new_article["classification"] = "NORMAL"
+                except:
+                    new_article["classification"] = "NORMAL"
+                try:
+                    if posts[idx]["probabilityOfClassification"] is not None:
+                        new_article["probabilityOfClassification"] = posts[idx]["probabilityOfClassification"]
+                    else:
+                        new_article["probabilityOfClassification"] = 0.0
+                except:
+                    new_article["probabilityOfClassification"] = 0.0
+                if "sourceName" in posts[idx]:
+                    new_article["sourceName"] = posts[idx]["sourceName"]
+                else:
+                    new_article["sourceName"] = "Null"
+                try:
+                    new_article["sourceCategoryId"] = posts[idx]["sourceCategoryId"]
+                    new_article["sourceLink"] = posts[idx]["sourceLink"]
+                    new_article["sourceType"] = posts[idx]["sourceType"]
+                    new_article["sourceAvatar"] = posts[idx]["sourceAvatar"]
+                except:
+                    new_article["sourceCategoryId"] = "Null"
+                    new_article["sourceLink"] = "Null"
+                    new_article["sourceType"] = "Null"
+                    new_article["sourceAvatar"] = "Null"
+                # new_article["score"] = cluster_insert["score"][cnt-1]
+                if len(offical_paper) == 0:
+                    new_article["isLegit"] = False
+                    new_article["offical_link"] = []
+                else:
+                    offical_paper_text = "\n".join(offical_paper)
+                    if check_fact(posts[idx]["textContent"], offical_paper_text):
+                        new_article["isLegit"] = True
+                        new_article["offical_link"] = offical_link
+                    else:
+                        new_article["isLegit"] = False
+                        new_article["offical_link"] = []
+                if "TopicsOnContents" in posts[idx]:
+                    new_article["TopicsOnContents"] = posts[idx]["TopicsOnContents"]
+                result = db.vn_newflow["articles"].insert_one(new_article)
+            else:
+                new_article["title"] = posts[idx]["title"]
+                new_article["textContent"] = posts[idx]["textContent"]
+                new_article["sourceId"] = posts[idx]["sourceId"]
+                new_article["description"] = "string"
+                new_article["imageContents"] = posts[idx]["imageContents"]
+                new_article["videoContents"] = posts[idx]["videoContents"]
+                new_article["link"] = posts[idx]["link"]
+                new_article["type"] = posts[idx]["type"]
+                new_article["likes"] = posts[idx]["likes"]
+                new_article["shares"] = posts[idx]["shares"]
+                new_article["comments"] = posts[idx]["comments"]
+                new_article["totalReactions"] = posts[idx]["totalReactions"]
+                new_article["editedTextContent"] = posts[idx]["editedTextContent"]
+                new_article["renderedContent"] = posts[idx]["renderedContent"]
+                new_article["postedAt"] = posts[idx]["postedAt"]
+                new_article["isPositive"] = False
+                new_article["isNegative"] = False
+                new_article["clusterId"] = id_cluster
+                new_article["createdAt"] = posts[idx]["createdAt"]
+                new_article["updatedAt"] = time_now
+                try:
+                    if posts[idx]["classification"] is not None:
+                        new_article["classification"] = posts[idx]["classification"]
+                    else:
+                        new_article["classification"] = "NORMAL"
+                except:
+                    new_article["classification"] = "NORMAL"
+                try:
+                    if posts[idx]["probabilityOfClassification"] is not None:
+                        new_article["probabilityOfClassification"] = posts[idx]["probabilityOfClassification"]
+                    else:
+                        new_article["probabilityOfClassification"] = 0.0
+                except:
+                    new_article["probabilityOfClassification"] = 0.0
 
-    #             if "sourceName" in posts[idx]:
-    #                 new_article["sourceName"] = posts[idx]["sourceName"]
-    #             else:
-    #                 new_article["sourceName"] = "Null"
-    #             try:
-    #                 new_article["sourceCategoryId"] = posts[idx]["sourceCategoryId"]
-    #                 new_article["sourceLink"] = posts[idx]["sourceLink"]
-    #                 new_article["sourceType"] = posts[idx]["sourceType"]
-    #                 new_article["sourceAvatar"] = posts[idx]["sourceAvatar"]
-    #             except:
-    #                 new_article["sourceCategoryId"] = "Null"
-    #                 new_article["sourceLink"] = "Null"
-    #                 new_article["sourceType"] = "Null"
-    #                 new_article["sourceAvatar"] = "Null"
-    #             # new_article["score"] = cluster_insert["score"][cnt-1]
-    #             new_article["index"] = count_index
-    #             if "TopicsOnContents" in posts[idx]:
-    #                 new_article["TopicsOnContents"] = posts[idx]["TopicsOnContents"]
-    #             result = db.vn_newflow["articles"].insert_one(new_article)
+                if "sourceName" in posts[idx]:
+                    new_article["sourceName"] = posts[idx]["sourceName"]
+                else:
+                    new_article["sourceName"] = "Null"
+                try:
+                    new_article["sourceCategoryId"] = posts[idx]["sourceCategoryId"]
+                    new_article["sourceLink"] = posts[idx]["sourceLink"]
+                    new_article["sourceType"] = posts[idx]["sourceType"]
+                    new_article["sourceAvatar"] = posts[idx]["sourceAvatar"]
+                except:
+                    new_article["sourceCategoryId"] = "Null"
+                    new_article["sourceLink"] = "Null"
+                    new_article["sourceType"] = "Null"
+                    new_article["sourceAvatar"] = "Null"
+                # new_article["score"] = cluster_insert["score"][cnt-1]
+                new_article["index"] = count_index
+                if "TopicsOnContents" in posts[idx]:
+                    new_article["TopicsOnContents"] = posts[idx]["TopicsOnContents"]
+                result = db.vn_newflow["articles"].insert_one(new_article)
 
-    # # getAudio(text_audio, "audio.mp3", db)
+    # getAudio(text_audio, "audio.mp3", db)

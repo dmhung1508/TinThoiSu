@@ -11,7 +11,7 @@ import markdown
 import requests
 import json,os
 import csv
-from rerank import reranker, analyze_component_similarity, analyze_all_components
+# from rerank import reranker, analyze_component_similarity, analyze_all_components
 def get_name(link):
     a = requests.get("https://api.tinthoisu.vn/articles/detail?link="+link)
     return a.json()['data']['item']['sourceName']
