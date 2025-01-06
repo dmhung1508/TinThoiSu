@@ -95,7 +95,8 @@ class FactScore:
 
         print("Generating decisions...")
 
-        decisions = self.decisions_handler.load()
+        #decisions = self.decisions_handler.load()
+        decisions = []
         scores = []
         init_scores = []
 
@@ -124,7 +125,7 @@ class FactScore:
             init_scores.append(init_score)
             scores.append(score)
             decisions.append({"generation": generation, "decision": decision})
-            self.decisions_handler.save(decisions)
+            # self.decisions_handler.save(decisions)
 
             assert len(facts) == len(
                 decision

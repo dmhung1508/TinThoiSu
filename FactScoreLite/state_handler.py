@@ -6,17 +6,17 @@ class StateHandler:
         self.db_path = path
 
     def save(self, data):
-        # with open(self.db_path, "w") as f:
-        #     json.dump(data, f, indent=4)
-        pass
+        with open(self.db_path, "w") as f:
+            json.dump(data, f, indent=4)
+        # pass
 
     def load(self):
-        # try:
-        #     with open(self.db_path, "r") as f:
-        #         data = json.load(f)
+        try:
+            with open(self.db_path, "r") as f:
+                data = json.load(f)
 
-        #     return data
+            return data
 
-        # except FileNotFoundError:
-        #     return []
-        return []
+        except FileNotFoundError:
+            return []
+        # return []

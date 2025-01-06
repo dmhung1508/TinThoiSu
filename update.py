@@ -359,17 +359,18 @@ def update_clusters(config, clusters_outputs, posts, list_data_clean, embeddings
                     new_article["sourceType"] = "Null"
                     new_article["sourceAvatar"] = "Null"
                 # new_article["score"] = cluster_insert["score"][cnt-1]
-                if len(offical_paper) == 0:
-                    new_article["isLegit"] = False
-                    new_article["offical_link"] = []
-                else:
-                    offical_paper_text = "\n".join(offical_paper)
-                    if check_fact(posts[idx]["textContent"], offical_paper_text):
-                        new_article["isLegit"] = True
-                        new_article["offical_link"] = offical_link
-                    else:
-                        new_article["isLegit"] = False
-                        new_article["offical_link"] = []
+                # if len(offical_paper) == 0:
+                #     new_article["isLegit"] = False
+                #     new_article["offical_link"] = []
+                # else:
+                #     offical_paper_text = "\n".join(offical_paper)
+                #     if check_fact(posts[idx]["textContent"], offical_paper_text):
+                #         new_article["isLegit"] = True
+                #         new_article["offical_link"] = offical_link
+                #     else:
+                #         new_article["isLegit"] = False
+                #         new_article["offical_link"] = []
+                new_article["FactCheck"], new_article["isLegit"] = check_fact(posts[idx]["textContent"], offical_paper, offical_link)
                 if "TopicsOnContents" in posts[idx]:
                     new_article["TopicsOnContents"] = posts[idx]["TopicsOnContents"]
                 result = db.vn_newflow["articles"].insert_one(new_article)
