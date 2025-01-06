@@ -189,8 +189,8 @@ def update_clusters(config, clusters_outputs, posts, list_data_clean, embeddings
             if "sourceCategoryId" in posts[ids] and "newPaper" not in posts[ids]:
                 if posts[ids]["sourceCategoryId"] != "097912d8-eb57-4c1f-8a8a-64ea02e52030":
                     listCategories.append(posts[ids]["sourceCategoryId"])
-        # if len(listCategories) == 0:
-        #     continue
+        if len(listCategories) == 0:
+            continue
 
         maxFrequently_category = most_frequent(listCategories)
 

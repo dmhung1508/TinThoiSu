@@ -60,7 +60,7 @@ class AtomicFactGenerator:
         """
 
         instructions = (
-            "Please breakdown the following sentence into independent facts:\n\n"
+            "Vui lòng phân tích câu sau thành các sự kiện độc lập:\n\n"
         )
 
         for demon in self.demons:
