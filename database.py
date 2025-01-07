@@ -168,6 +168,95 @@ class Database():
                 if article_dict[key] > 1:
                     print("Paper with content: ", key, " has ", article_dict[key], " duplicates")
         return dataCluster, dataArticle
+    def get_all_article_only_web(self):
+        unprocessedarticles = self.vn_newflow["unprocessedarticles"]
+        print(unprocessedarticles.find())
+        dataCluster, dataArticle = [], []
+        timeToday = self.time.strftime("%Y-%m-%d")
+        blackList = ["xổ số", "Xổ số"]
+        total_paper_count = 0
+        seen_texts = set()
+        dem = 0
+        article_dict = {}
+        for article in unprocessedarticles.find():
+            text_content = article.get("textContent", "")
+            first_100_words = " ".join(text_content.split()[:100])
+            if first_100_words in seen_texts:
+                dem += 1
+                #print("Duplicate article found, count: ", dem)
+                article_dict[first_100_words] += 1
+                #continue
+            seen_texts.add(first_100_words)
+            article_dict[first_100_words] = 0
+            
+            if article["postedAt"] is not None:
+                timePostAt = article["postedAt"].strftime("%Y-%m-%d %H:%M")
+
+                # GMT+0 to GMT+7
+                timePostAtPlus, timeToDayPost = self.add_hours_to_time(timePostAt, 7)
+
+                # add 1 day
+                timeYesterdayPlus, timeYesterdayPost = self.add_days_to_time(timePostAtPlus, day=1)
+
+                # check time in day
+                if (timeToDayPost == timeToday) and check_time_in_day(timePostAtPlus) == check_time_in_day(self.time):
+                    if article["type"] == "WEBSITE_POST":
+                        content = article["textContent"].split(" ")
+                        if len(content) <= self.config.MIN_INPUT_LENGTH:
+                            continue
+                        content_of_page = content[:self.config.MAX_INPUT_LENGTH]
+                        content_of_page = " ".join(content_of_page)
+
+                        text = article["title"] + " " + article["editedTextContent"] + " " + content_of_page +  " Source_name: " + article["sourceName"].strip() + " Link:" + article["link"].strip()
+                        title = article["title"]
+                    else:
+                        continue
+                    flag = False
+                    for backtext in blackList:
+                        if backtext in text:
+                            flag = True
+                    if flag == True:
+                        continue
+                    id_article = article["_id"]
+                    link = article["link"]
+                    text = clean_text(text)
+                    if len(text.split()) >= 60:
+                        dataCluster.append([id_article, clean_text(text), clean_text(title), link])
+                        dataArticle.append(article)
+                else:
+                    if (check_out_day(timeYesterdayPlus, self.time) == True and timeToday == timeYesterdayPost):
+                        if (check_time_out_day(timePostAtPlus) == check_time_out_day(self.time)):
+                            if article["type"] == "WEBSITE_POST":
+            
+                                content = article["textContent"].split(" ")
+                                if len(content) <= self.config.MIN_INPUT_LENGTH:
+                                    continue
+                                content_of_page = content[:self.config.MAX_INPUT_LENGTH]
+                                content_of_page = " ".join(content_of_page)
+
+                                text = article["title"] + " " + article["editedTextContent"] + content_of_page +  " Source_name: " + article["sourceName"].strip() + "Link: " + article["link"].strip()
+                                title = article["title"]
+                            else:
+                                continue
+
+                            flag = False
+                            for backtext in blackList:
+                                if backtext in text:
+                                    flag = True
+                            if flag == True:
+                                continue
+
+                            id_article = article["_id"]
+                            link = article["link"]
+                            text = clean_text(text)
+                            if len(text.split()) >= self.config.MIN_INPUT_LENGTH:
+                                dataCluster.append([id_article, clean_text(text), clean_text(title), link])
+                                dataArticle.append(article)
+        print("total paper:", total_paper_count)
+        for key in article_dict:
+                if article_dict[key] > 1:
+                    print("Paper with content: ", key, " has ", article_dict[key], " duplicates")
+        return dataCluster, dataArticle
 
     def get_all_source_fromdb(self):
         sources = self.vn_newflow["sources"]

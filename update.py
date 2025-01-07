@@ -11,6 +11,7 @@ from audio import getAudio, generate_audio
 import traceback
 import uuid
 from fact import check_fact
+
 def most_frequent(List):
     counter = 0
     num = List[0]
