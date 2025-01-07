@@ -8,13 +8,14 @@ def check_fact(facts, knowledge_source, source_link):
     fact_pairs = {}
     for i in range(len(knowledge_source)):
 
-        a, b, decisions = ft.get_factscore([facts], [knowledge_source[i]])
+        _, _, decisions = ft.get_factscore([facts], [knowledge_source[i]])
         print("Link: ", source_link[i])
         print(decisions)
-        for decision in decisions[0]['decision']:
-            fact_pairs[decision['fact']] = []
+
         for decision in decisions[0]['decision']:
             if decision['output'] == 'True':
+                if decision['fact'] not in fact_pairs:
+                    fact_pairs[decision['fact']] = []
                 fact_pairs[decision['fact']].append(source_link[i])
         
     fact_list_object = []
@@ -24,7 +25,7 @@ def check_fact(facts, knowledge_source, source_link):
             dem += 1
         fact_list_object.append({'fact': fact, 'sources': fact_pairs[fact]})
     score = dem/len(fact_pairs)
-    if score >= 0.4:
+    if len(fact_pairs) >= 4 or score >= 0.4:
         legit = True
     else:
         legit = False
