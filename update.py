@@ -11,7 +11,7 @@ from audio import getAudio, generate_audio
 import traceback
 import uuid
 from fact import check_fact
-
+from utils import clean_text
 def most_frequent(List):
     counter = 0
     num = List[0]
@@ -230,7 +230,7 @@ def update_clusters(config, clusters_outputs, posts, list_data_clean, embeddings
             db.vn_newflow["unseen_cluster"]
             .find({}, {"_id": 1, "embedding": 1, "sentence": 1, "all_link": 1})  # Chỉ lấy các trường cần thiết
             .sort("createdAt", -1)  # Sắp xếp theo trường "createdAt" giảm dần
-            .limit(40)  # Lấy tối đa 20 tài liệu
+            .limit(200)  # Lấy tối đa 20 tài liệu
         )
 
         # Lấy các ID của các tài liệu mới nhất

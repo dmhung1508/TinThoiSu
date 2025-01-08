@@ -1,6 +1,7 @@
 from FactScoreLite import FactScore
 import os
 from dotenv import load_dotenv
+from utils import clean_text
 load_dotenv()
 def check_fact(facts, knowledge_source, source_link):
     os.remove('facts.json')
@@ -8,7 +9,7 @@ def check_fact(facts, knowledge_source, source_link):
     fact_pairs = {}
     for i in range(len(knowledge_source)):
 
-        _, _, decisions = ft.get_factscore([facts], [knowledge_source[i]])
+        _, _, decisions = ft.get_factscore([clean_text(facts)], [clean_text(knowledge_source[i])])
         print("Link: ", source_link[i])
         print(decisions)
 
